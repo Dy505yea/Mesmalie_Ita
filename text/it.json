@@ -277,7 +277,7 @@
     "cursor_the_doe": "Il cerbiatto",
     "cursor_extras_mesmory": "Mesmoria",
     "cursor_you": "Te",
-    "book_title_dense": "Libro Denso sulla Teoria Magicà",
+    "book_title_dense": "Libro Spesso sulla Teoria Magicà",
     "book_title_terminology": "Terminologia Magicà Semplice",
     "book_title_nonogram": "Esagramma & Nonogramma",
     "book_title_incantation": "Scrivere l'Incantesimo",
@@ -2404,7 +2404,7 @@
         "[bird]Torni a far pratica o che?"
     ],
     "objects_obj_bowl_Create_0_0": [
-        "[system](Una ciotola con della pittura fresca e scura#è appoggiata sul pavimento.)",
+        "[system](Una ciotola con della pittura fresca e scura#appoggiata per terra.)",
         "(Potrebbe essere usata come Inchiostro.)"
     ],
     "objects_obj_bowl_Create_0_1": [
@@ -2414,12 +2414,12 @@
         "[system](Una ciotola di pittura per rituali.)"
     ],
     "objects_obj_bowl_Create_0_3": [
-        "[system](Una ciotola con della pittura fresca e scura#è appoggiata sul pavimento.)"
+        "[system](Una ciotola con della pittura fresca e scura#appoggiata per terra.)"
     ],
     "objects_obj_cage_Create_0_0": [
-        "[mesmer]Nessuna traccia di sangue o#altro,",
-        "Immagino la creatura sia uscita dalla gabbia#Che Strano,",
-        "Anche se dare questa notizia a Mirph#sarà una 'rottura', in parole povere,,,"
+        "[mesmer]Non c'è sangue o altro,",
+        "Immagino la creatura sia finalmente uscita dalla gabbia#Bizzarro,",
+        "Anche se riferire questa notizia a Mirph#sarà una 'rottura', in parole povere,,,"
     ],
     "objects_obj_cage_Create_0_1": [
         "[system](Non succede niente.)"
@@ -3612,44 +3612,44 @@
         ",,, ?"
     ],
     "objects_obj_mesmer_Other_4_60": [
-        "[mesmer]Ahe, so you're eager to know more#about our sessions today,?",
-        "Tell me ,",
-        "Whether under another coven,#or on your own ,,,",
-        "Have you ever had any formal#Magickal practice sessions ,?",
-        "[express=hm],,,, you have not ,?",
-        "[express=dance]That is Good ,",
-        "That means we'll be your first#exposure ,,,",
-        "The Sessions won't be anything#out of the ordinary,",
-        "Just routine stuff to strengthen your Ability.",
-        "Ahe, and , of course ,#to tame it ,,,",
-        "Hopefully, by the end of today,#you'll have learned to tame your ability ,,,"
+        "[mesmer]Ahe, quindi sei impaziente di sapere di più#sulle nostre sessioni d'oggi,?",
+        "Dimmi ,",
+        "Che sia stato sotto un'altra congrega,#o persino da te ,,,",
+        "Hai mai eseguito delle#sessioni di pratica Magicà ufficiali ,?",
+        "[express=hm],,,, proprio mai ,?",
+        "[express=dance]Molto Bene ,",
+        "Vorrà dire che noi saremo la tua prima#esposizione ,,,",
+        "Le Sessioni non saranno nulla che sia#fuori dall'ordinario,",
+        "Saranno solo cose di routine per#potenziare la tua Abilità.",
+        "Ahe, e , naturalmente ,#per domarla ,,,",
+        "Si spera che, al termine della giornata,#te abbia appreso come domare la tua abilità ,,,"
     ],
     "objects_obj_mesmer_Other_4_61": [
-        "[express=danse_scary]Yes"
+        "[express=danse_scary]Sì"
     ],
     "objects_obj_mesmer_Other_4_62": [
-        "[mesmer][express=dance]My coven's studies are thorough.#We know our stuff ,.",
-        "Admittedly, I may not be as entrenched#in the practice as my coveners are ,,,",
-        "But I am at a point where I can teach#lesser individuals the arts ,.",
-        "Your Ability is , ... something I have not#personally dabbled in.",
-        "But I know the theory of it.#And that is enough.",
-        "To circle back, in essence - #   Yes , of course ,."
+        "[mesmer][express=dance]Gli studi della mia congrega sono esaurienti.#Sappiamo il fatto nostro ,.",
+        "Francamente, potrei non esser tanto radicata#nelle pratiche quanto le mie congregate ,,,",
+        "Ma sono ad un punto in cui posso istruire#le arti a individui inferiori ,.",
+        "La Tua Abilità è , ... un qualcosa in cui non#mi son dilettata personalmente.",
+        "Ma ne conosco la teoria.#E ciò basterà.",
+        "Ritornando al punto, sostanzialmente - #   Si , senza dubbio ,."
     ],
     "objects_obj_mesmer_Other_4_63": [
-        "[mesmer]Yes you asked ,",
-        "What is there to doubt , ?"
+        "[mesmer]Si l'hai chiesto ,",
+        "Cosa c'è da dubitare , ?"
     ],
     "objects_obj_mesmer_Other_4_64": [
-        "[mesmer]Ohe , that is our pet.",
-        "Well ,. More Mirphie's pet ,.",
-        "I don't have any particular feelings#toward it ,.",
-        "I just replenish its food and water#every few nights.",
-        "Remarkable how it needs so little#to eat and drink ,,,",
-        "You do not have to fear#or worry about it though.",
-        "It won't be a bother to you#if you're not one to it."
+        "[mesmer]Ohe , è il nostro animaletto.",
+        "O meglio ,. L'animaletto di Mirphie ,.",
+        "Non serbo alcun sentimento particolare#nei suoi confronti ,.",
+        "Non faccio che riempirgli il cibo e l'acqua#ogni 2 o 3 notti.",
+        "Sorprendente come non necessiti#tanto cibo o acqua ,,,",
+        "Non devi aver paura#ne ragionar di lui.",
+        "Non ti darà fastidio#se te non dai fastidio a tua volta."
     ],
     "objects_obj_mesmer_Other_4_65": [
-        "[mesmer]Meet me in the Kitchen , ..."
+        "[mesmer]Raggiungimi in Cucina , ..."
     ],
     "objects_obj_mesmer_Other_4_66": [
         "[mesmer][express=happy]So , that was the First Session ,.",
@@ -10906,41 +10906,41 @@
     "objects_obj_scn_s2_stitches_Other_10_40": "Hell no",
     "objects_obj_scn_s2_stitches_Other_10_41": "Look at arm",
     "objects_obj_sofa_Create_0_0": [
-        "(One of the feathers sticking out of the#stuffing could be used as a pen.)",
-        "[sound=snd_something](You plucked one#and put it in your pocket.)"
+        "(Le piume che sporgono dall'imbottitura#potrebbero essere usate come penne.)",
+        "[sound=snd_something](Hai tolto una piuma#e l'hai rinfilata nelle tasche.)"
     ],
     "objects_obj_sofa_Create_0_1": [
-        "(The feathers of the stuffing#have revealed themselves.)",
-        "(It has become arguably less#comfortable to sit on.)"
+        "(Le piume dell'imbottitura#sono uscite allo scoperto.)",
+        "(È diventato decisamente meno#comfortevole da sederci sopra.)"
     ],
     "objects_obj_sofa_Create_0_2": [
         "(È un sofà.)"
     ],
     "objects_obj_study_cages_Create_0_0": [
-        "[mesmer], Mirph might not be happy#with you Magicking these cages,",
+        "[mesmer], Mirph non sarà tanto contenta#che te che Magìcchi queste gabbie,",
         ",,,",
-        "But, I'm sure she'll understand#it's for Magickal Practice,",
-        ", so Go 'Ham',"
+        "Ma, son sicura che capirà se#è per della Pratica Magicà,",
+        ", quindi 'Scatenati' pure,"
     ],
     "objects_obj_study_cages_Create_0_1": [
-        "[system](It begins to dawn on you just#how many cages there are here.)"
+        "[system](Solo adesso ti rendi conto della#quantità di gabbie ancora presenti qui.)"
     ],
     "objects_obj_study_cages_Create_0_2": [
-        "[system](It's an uphill battle.)",
-        "(You think you begin to see the wall behind#the remaining piles of cages...)"
+        "[system](È una battaglia ardua.)",
+        "(Credi di poter vedere il muro dietro#al resto dei mucchi di gabbie...)"
     ],
     "objects_obj_study_cages_Create_0_3": [
-        "[system](It's at this point that you remark that#the cages are surprisingly clean.)"
+        "[system](In questo momento che noti quanto#le gabbie siano sorprendentemente pulite.)"
     ],
     "objects_obj_study_cages_Create_0_4": [
-        "[mesmer][express=nervous]Um. I'd just like to say,",
-        "You're, not really supposed#to go back there.",
+        "[mesmer][express=nervous]Um. Vorrei soltanto dirti,",
+        "Te, non dovresti proprio#andare laggiù.",
         ",,,",
-        "[express=dance]But, if you must,,,",
-        "Just make sure not to touch anything.#Okay, ?"
+        "[express=dance]Però, se proprio devi,,,",
+        "Cerca di non toccare niente.#Va bene, ?"
     ],
     "objects_obj_study_paper_Create_0_0": [
-        "[system](You get on your knees and scoot around the room#to gather as many blank pages as you can.)"
+        "[system](Ti inginocchi per raccogliere in fretta#tutti i fogli bianchi che trovi in tutta la stanza.)"
     ],
     "objects_obj_xxxyyyzzz_Create_0_0": [
         "[system](You call out for Anyone.)",
@@ -11589,29 +11589,29 @@
         "(The sunlight passes through thin layers#of dirt on the in and out.)"
     ],
     "rooms_room_house_bedroom_InstanceCreationCode_inst_5EE6D88E_0": [
-        "[mesmer][express=spooky]What were you doing in here ,?"
+        "[mesmer][express=spooky]Cosa ci facevi qua dentro ,?"
     ],
     "rooms_room_house_bedroom_InstanceCreationCode_inst_5EE6D88E_1": [
-        "[mesmer]And ,,, what happened to my window ,,,,"
+        "[mesmer]E ,,, cosa è accaduto alla mia finestra ,,,,"
     ],
     "rooms_room_house_bedroom_InstanceCreationCode_inst_5EE6D88E_2": [
         "[mesmer],,,",
-        "[express=happy]Ahe ,,, this is my Bedroom ,,,",
-        "[express=default]The door was locked ,,,",
-        "But, at least, nobody was inside#to be disturbed ,,,",
-        "[express=dance]So who did this harm, really ,?",
-        "Just part of your experimentation ,,,#worry not ,,,?/(Ask about#Mural)/Sorry for#breaking in"
+        "[express=happy]Ahe ,,, questa è la mia Stanza ,,,",
+        "[express=default]La porta era sigillata ,,,",
+        "Ma, perlomeno, non c'era nessuno dentro#da disturbare ,,,",
+        "[express=dance]Quindi a chi mai avrà fatto danno, in realtà ,?",
+        "È solo parte della tua sperimentazione ,,,#non preoccuparti ,,,?/(Chiedi del#Murale)/Scusa per#essere entrato"
     ],
     "rooms_room_house_bedroom_InstanceCreationCode_inst_5EE6D88E_3": [
         "[mesmer][express=happy] Ahe ,",
-        "[express=dance]Just an art project ,.",
-        "[express=nervous]No, I lied ,. It's nothing",
-        "No, I lied,  again ,.#It was part of a Ritual ,,,",
-        "[express=dance]And that is the truth ,#but it's irrelevant for today ,,,",
-        "Just something my Coven practiced#on Thursday ,,,",
-        "[express=default]Let's go outside and resume#our Sessions , okay ,?",
-        "[express=hm]Well , once you're done experimenting ,#that is.",
-        "[express=happy]I'll go and resume preparations now ,,,"
+        "[express=dance]Solamente un'opera d'arte ,.",
+        "[express=nervous]No, ho mentito ,. Non è niente",
+        "No, ho mentito,  di nuovo ,.#Era parte di un Rituale ,,,",
+        "[express=dance]Ed è la verità ,#ma non ha rilevanza per quest'oggi ,,,",
+        "Solamente una cosa che la mia Congrega pratica#il Giovedì ,,,",
+        "[express=default]Usciamo e ritorniamo alle#nostre Sessioni , va bene ,?",
+        "[express=hm]Certo , solo dopo aver terminato con le sperimentazioni ,#naturalmente.",
+        "[express=happy]Ora Io tornerò a fare i preparativi ,,,"
     ],
     "rooms_room_house_bedroom_InstanceCreationCode_inst_5EE6D88E_4": [
         "[mesmer][express=happy]Ahe, worry not ,,,",
@@ -11646,56 +11646,56 @@
         "[system](A lone pair of scissors.)"
     ],
     "rooms_room_house_doorstep_InstanceCreationCode_inst_47920F85_0": [
-        "[mesmer]You have the ability ,#    no?",
-        "Just a quick proof of your Magick ,,,"
+        "[mesmer]Te possiedi l'abilità ,#    no?",
+        "Solo una prova veloce della tua Magià ,,,"
     ],
     "rooms_room_house_doorstep_InstanceCreationCode_inst_47920F85_1": [
         "[mesmer]..."
     ],
     "rooms_room_house_doorstep_InstanceCreationCode_inst_47920F85_2": [
-        "[mesmer]If you wish to waste our time , then ,,,"
+        "[mesmer]Se desideri sprecare il nostro tempo , allora ,,,"
     ],
     "rooms_room_house_main_hall_InstanceCreationCode_inst_1C1E4981_0": [
-        "(There isn't much upstairs,#no need to go back up.)"
+        "(Non c'è granché nella soffitta,#non c'è bisogno di tornarci.)"
     ],
     "rooms_room_house_main_hall_InstanceCreationCode_inst_1C1E4981_1": [
-        "(The only way up is blocked.)"
+        "(L'unica salita è bloccata.)"
     ],
     "rooms_room_house_main_hall_InstanceCreationCode_inst_1C1E4981_2": [
-        "(The darkness upstairs beckons you.)",
-        "(Unfortunately, books still cover#the steps.)",
-        "(You'll never know what's upstairs...)"
+        "(L'oscurità della soffitta ti richiama.)",
+        "(A tuo malgrado, i libri coprono#la scalinata.)",
+        "(Non saprai mai cosa c'è in soffitta...)"
     ],
     "rooms_room_house_main_hall_InstanceCreationCode_inst_1C1E4981_3": [
-        "(There's no way up the stairs...)"
+        "(Non c'è modo per salire le scale...)"
     ],
     "rooms_room_house_main_hall_InstanceCreationCode_inst_3AE29A71_0": [
         "[system](La porta per il retro della casa#è bloccata.)"
     ],
     "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_0": [
-        "[system](No time to check out books right now.)"
+        "[system](Non c'è tempo per sfogliare i libri adesso.)"
     ],
     "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_1": [
-        "[system](Delle scale instabili, con pile di#libri sparse ad ogni scalino.)",
+        "[system](Delle scale instabili con pile di#libri sparse ad ogni scalino.)",
         "(Vuoi dare un'occhiata ai libri?)"
     ],
     "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_2": [
-        "[system](After all that happened today, ...)",
-        "(..., you finally feel brave enough to peek at#the books on the upper steps.)",
-        "(Conquer the steps?)"
+        "[system](Dopo tutto quel che è successo oggi, ...)",
+        "(..., hai finalmente trovato il coraggio di#sbirciare i libri nei gradini più in alto.)",
+        "(Conquistare i gradini?)"
     ],
     "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_3": [
-        "[system](You have gained the courage#to look further up the steps.)",
-        "(You feel that you can lean over#to look at books on the middle steps.)",
-        "(Take a closer look?)"
+        "[system](Hai ottenuto il coraggio#di guardare i gradini più in alto.)",
+        "(Senti di poterti avvicinare#per guardare i libri nei gradini in mezzo.)",
+        "(Vuoi dare un'occhiata da vicino?)"
     ],
     "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_4": [
-        "[system](Take a closer look at the books?)"
+        "[system](Vuoi dare un'occhiata ai libri?)"
     ],
-    "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_5": "(Don't)",
-    "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_6": "(Lower steps)",
-    "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_7": "(Middle steps)",
-    "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_8": "(Upper steps)",
+    "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_5": "(No)",
+    "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_6": "(Gradini in basso)",
+    "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_7": "(Gradini in mezzo)",
+    "rooms_room_house_main_hall_InstanceCreationCode_inst_771A1875_8": "(Gradini in alto)",
     "rooms_room_house_malady_InstanceCreationCode_inst_1386BC2C_0": [
         "[system](A thin puddle of a glimmering fluid#coats the flooring.)",
         "(It appears to be seeping through#the planks.)"
