@@ -2796,7 +2796,7 @@
     ],
     "objects_obj_lookat_ball_CleanUp_0_0": [
         "[mesmer]Oh ,,, quel cristallo aveva la carica solo#per un ultimo quesito ,,,,",
-        "Si spera che te non l'abbia sprecato ,..",
+        "Spero che te non l'abbia sprecato ,..",
         "Aspetta,! Non dirmelo ,...,#è un tuo segreto da mantenere ,,"
     ],
     "objects_obj_lookat_ball_Create_0_0": [
@@ -3537,7 +3537,7 @@
         "[express=nervous]La storia ha un che di ridicolo, ad ogni modo,,,",
         "Lo stavo solo, ammirando,",
         "[express=hm]Preparandomi per il Rituale, di Nuovo,",
-        "E, cielo, non ridocrdo#se era Malady o Mirphie,",
+        "E, cielo, non ricordo#se era Malady o Mirphie,",
         "Una di loro mi dava uno sguardo tremendo,",
         "L'avevo visto dietro di me, nello specchio,",
         ",,,",
@@ -3643,7 +3643,7 @@
         "[mesmer]Ohe , è il nostro animaletto.",
         "O meglio ,. L'animaletto di Mirphie ,.",
         "Non serbo alcun sentimento particolare#nei suoi confronti ,.",
-        "Non faccio che riempirgli il cibo e l'acqua#ogni 2 o 3 notti.",
+        "Non faccio che riempirgli il cibo e l'acqua#una volta qualche notte.",
         "Sorprendente come non necessiti#tanto cibo o acqua ,,,",
         "Non devi aver paura#ne ragionar di lui.",
         "Non ti darà fastidio#se te non dai fastidio a tua volta."
@@ -3652,34 +3652,34 @@
         "[mesmer]Raggiungimi in Cucina , ..."
     ],
     "objects_obj_mesmer_Other_4_66": [
-        "[mesmer][express=happy]So , that was the First Session ,.",
-        "You now have a strengthened grasp#on your own Magickal ability ,,,",
-        "[express=hm]Now ,,,",
-        "For the next Session ,,,",
-        "I will have to make some preparations again ,.",
-        "Our Second Session will be taking place Outside,#behind the House.",
-        "[express=default]To get there, just use the other door#in the Main Hall ,,,",
-        "[express=happy]Similar to last time, feel free to#experiment with your Magick in the meantime.",
-        "Do whatever you need#to try it out ,,,",
-        "[express=hm]Best to, before the effect of#the concoction wears off ,,,",
-        "[express=happy]So , see you outside soon,! Ahe ,!"
+        "[mesmer][express=happy]Allora, quella era la Prima Sessione ,.",
+        "Adesso hai un maggiore controllo#sulla tua abilità Magicà ,,,",
+        "[express=hm]Dunque ,,,",
+        "Per la prossima Sessione ,,,",
+        "Dovrò rimettermi a fare degli altri preparativi ,.",
+        "La Nostra Seconda Sessione si terrà all'Esterno,#dietro la Casa.",
+        "[express=default]Per arrivarci, dovrai usare l'altra porta#dall'Ingresso Principale ,,,",
+        "[express=happy]Similmente come prima, sentiti libero di#sperimentare con la tua Magià nel frattempo.",
+        "Fai ciò che devi#per le tue prove ,,,",
+        "[express=hm]Meglio ora, prima che l'effetto della#pozione scada ,,,",
+        "[express=happy]Allora , ci si vede presto fuori,! Ahe ,!"
     ],
     "objects_obj_mesmer_Other_4_67": [
         "[mesmer][express=happy]Ahe , sei alquanto impaziente di iniziare ,,,!"
     ],
     "objects_obj_mesmer_in_door_Create_0_0": [
-        "[mesmer]Well , you spoke about your ability#over the telephone.",
-        "Our sessions can't commence until you've#shown it to me ,,,"
+        "[mesmer]Beh , parlavi della tua abilità#al telefono.",
+        "Le nostre sessioni non potranno cominciare finché#non me la dimostri ,,,"
     ],
     "objects_obj_mesmer_in_door_Create_0_1": [
-        "[mesmer]I need to see your Magick , ",
+        "[mesmer]Devo vedere la tua Magià , ",
         ",,,",
-        "Lest you were joking , ...",
-        "Pulling a  'Prank Call' on me,",
-        "You would not be the first."
+        "Se non stavi scherzando , ...",
+        "Facendo uno  \"Scherzo Telefonico\" su di me,",
+        "Non sarebbe la prima volta."
     ],
     "objects_obj_mesmer_in_door_Create_0_2": [
-        "[mesmer]If your Magick is not real,#then we have no business today."
+        "[mesmer]Se la tua Magià non è reale,#allora non abbiamo niente da discutere."
     ],
     "objects_obj_mesmer_in_door_Create_0_3": [
         "[mesmer]..."
@@ -3726,46 +3726,46 @@
         "(But you're cleaning the glass later ,...)"
     ],
     "objects_obj_piano_Create_0_0": [
-        "[mesmer]Worry not,",
-        "That was Just my Very,",
-        "Very expensive Piano,",
-        "(That I found dumped by the road one day)#But Still,",
-        "Guess I won't be playing you that piece#later on,.",
-        "I'm not mad. Worry not.#I did implore you to train your Magick anyhow,"
+        "[mesmer]Non turbarti,",
+        "Quello era solo il mio Costoso,",
+        "Costosissimo Pianoforte,",
+        "(Trovatto gettato per strada un giorno)#Ma Comunque,",
+        "Immagino non potrò più suonare quel pezzo#d'ora in poi,.",
+        "Non sono frustrata. Non preoccuparti.#Io ti ho implorata di allenarti con la tua Magià comunque,"
     ],
     "objects_obj_piano_Create_0_1": [
-        "[mesmer]I don't quite recognize the music#you're trying to play,,,",
-        "I, can't even tell if you're Actually#playing the piano,",
-        "Worry not,. Maybe, after our Magickal studies,#I can teach you the piano Too, ."
+        "[mesmer]Non riesco a riconoscere la musica#che stai provando a suonare,,,",
+        "Io, non riesco neppure se stai Effettivamente#suonando il piano,",
+        "Non temere,. Magari, dopo il nostro studio Magicò,#potrei Pure insegnarti il piano, ."
     ],
-    "objects_obj_piano_Create_0_2": "I don't want#to play the#piano.",
-    "objects_obj_piano_Create_0_3": "I'll take you#up on that#'Mes'",
-    "objects_obj_piano_Create_0_4": "You play?",
+    "objects_obj_piano_Create_0_2": "Non voglio#suonare#il piano.",
+    "objects_obj_piano_Create_0_3": "Accetto la#proposta#'Mes'",
+    "objects_obj_piano_Create_0_4": "Suoni?",
     "objects_obj_piano_Create_0_5": [
-        "[mesmer],,, it might've taken a while#to get there anyway,.",
-        "Ah well. Everyone ought to learn one#instrument at some point in their life,",
-        "Music expresses oneself perhaps even better#than Magick can,."
+        "[mesmer],,, ci avresti impiegato lo stessp un po'#prima di riuscirci,.",
+        "Oh beh. Tutti dovrebbero imparare uno#strumento ad un punto della propria vita,",
+        "La musica fa esprimere nel modo forse migliore#di quanto possa la Magià,."
     ],
     "objects_obj_piano_Create_0_6": [
-        "[mesmer]Don't call me that,",
-        ", Yet,",
-        "But Yes Okay then I look Forward,"
+        "[mesmer]Non chiamarmi così,",
+        ", Ancora,",
+        "Ma Si Certo non vedrò l'ora,"
     ],
     "objects_obj_piano_Create_0_7": [
-        "[mesmer]Everyone ought to know at least#one instrument, I feel.",
-        "Music is mayhaps more potent in expressing#oneself than through Magick,,,",
-        "I've played the piano for longer than I've#been practicing my Magick, anyhow,.",
-        "I'm Good. At the Piano,"
+        "[mesmer]Tutti dovrebbero conoscere quantomeno#uno strumento, Penso.",
+        "La musica è possibilmente la più forte espressione#di sé stessi rispetto alla Magià,,,",
+        "Ho suonato il piano per molto più tempo di quanto#abbia praticato la mia Magià, in ogni caso,.",
+        "Sono Brava. Col Piano,"
     ],
-    "objects_obj_piano_Create_0_8": "Cool",
-    "objects_obj_piano_Create_0_9": "Can you Play Now",
+    "objects_obj_piano_Create_0_8": "Figo",
+    "objects_obj_piano_Create_0_9": "Puoi Suonare#Adesso",
     "objects_obj_piano_Create_0_10": [
-        "[mesmer]Yeah,"
+        "[mesmer]Già,"
     ],
     "objects_obj_piano_Create_0_11": [
-        "[mesmer]Later. After our Sessions,.",
-        "Which we ought to resume.",
-        "Please,"
+        "[mesmer]Più tardi. Dopo le nostre Sessioni,.",
+        "A cui dovremo far ritorno.",
+        "Per Favore,"
     ],
     "objects_obj_s3_andwecalleditbob_Create_0_0": [
         "[system](You feel as though the tree is#mocking you through its grimace.)",
@@ -6009,29 +6009,29 @@
         "Maybe this hit will do it,"
     ],
     "objects_obj_scene_enterhouse_Step_0_0": [
-        "[mesmer][express=happy]Ohe , I just realized,#I hadn't even told you my name yet ,.",
-        "[express=strike_pose_a]Call me Mesmer ,.",
-        "[express=default]Also, know that we're#not alone here ,.",
-        "[express=strike_pose_c]My coveners, Mirphie and Malady,#are practicing in their rooms right now.",
-        "Much like we'll be practicing#your Magick today ,,,",
-        "[express=happy]Ohe, you'll meet them later in the day ,.#Worry not for now.",
-        "[express=strike_pose_b]Come meet me in the Kitchen soon ,,,"
+        "[mesmer][express=happy]Ohe , ho appena realizzato,#che non ti ho nemmeno detto il mio nome ,.",
+        "[express=strike_pose_a]Chiamami Mesmer ,.",
+        "[express=default]Inoltre, sappi che non#siamo da soli qui ,.",
+        "[express=strike_pose_c]Le mie congragate, Mirphie e Malady,#si stanno esercitando nelle loro stanze al momento.",
+        "Proprio come noi oggi eserciteremo#la tua Magià ,,,",
+        "[express=happy]Ohe, le incontrerai più tardi in giornata ,.#Non pensarci troppo adesso.",
+        "[express=strike_pose_b]Vieni presto a trovarmi in Cucina ,,,"
     ],
     "objects_obj_scene_enterhouse_Step_0_1": [
-        "[mesmer][express=happy]Oh,#   right !",
-        "[express=default]By the way, my name is Mesmer.",
-        "You will need to know our names#before joining the coven ,,,",
-        "There's Mesmer ,,,    (Me),",
-        ", Then there's   Malady ,,,",
-        ",,, and finally, #    Mirphie.",
-        "The other two, you will meet#in due time ,,",
-        "... and now that you know that ,,,",
-        "Come meet me in the kitchen#for the first session."
+        "[mesmer][express=happy]Oh,#   giusto !",
+        "[express=default]Mi chiamo Mesmer, per la cronaca.",
+        "Dovrai conoscere i nostri nomi#prima di unirti alla congrega ,,,",
+        "C'è Mesmer ,,,    (Me),",
+        ", Poi c'è   Malady ,,,",
+        ",,, ed infine, #    Mirphie.",
+        "Le altre due, le incontrerai#a tempo debito ,,",
+        "... e ora che lo sai ,,,",
+        "Vieni a trovarmi in cucina#per la prima sessione."
     ],
     "objects_obj_scene_outside_anticipation_Create_0_0": [
-        "[system](Welcome back.)",
-        "(By the way ... )",
-        "(You can hold the right mouse button#to fast-forward through dialogue.)"
+        "[system](Rieccoti qui.)",
+        "(A proposito ... )",
+        "(Puoi tenere premuto il tasto destro del mouse#per scorrere velocemente i dialoghi.)"
     ],
     "objects_obj_scene_s3_dw_creature_Other_10_0": [
         "[creature]FORGOT     PEN#  PAPER  ?"
@@ -9293,7 +9293,7 @@
     ],
     "objects_obj_scenes_doorstep_Create_0_6": [
         "[mesmer]Strano ,.",
-        "Mi eri sembrato molto sconvolto#al telefono ,.",
+        "Mi sembravi molto sconvolto#al telefono ,.",
         "Qualcosa a che vedere , con la casa#incendiata nel sonno.",
         "E sentivi che era causato dalla tua Magià ,#per il sogno che hai fatto ,,,",
         ",,,,",
@@ -10930,7 +10930,7 @@
         "(Credi di poter vedere il muro dietro#al resto dei mucchi di gabbie...)"
     ],
     "objects_obj_study_cages_Create_0_3": [
-        "[system](In questo momento che noti quanto#le gabbie siano sorprendentemente pulite.)"
+        "[system](E in questo momento che noti quanto#le gabbie siano sorprendentemente pulite.)"
     ],
     "objects_obj_study_cages_Create_0_4": [
         "[mesmer][express=nervous]Um. Vorrei soltanto dirti,",
@@ -11614,8 +11614,8 @@
         "[express=happy]Ora Io tornerò a fare i preparativi ,,,"
     ],
     "rooms_room_house_bedroom_InstanceCreationCode_inst_5EE6D88E_4": [
-        "[mesmer][express=happy]Ahe, worry not ,,,",
-        "[express=dance]I've done my fair share of such#as well ,,,",
+        "[mesmer][express=happy]Ahe, non temere ,,,",
+        "[express=dance]Anchio feci la mia buona quantità I've done my fair share of such#as well ,,,",
         "[express=happy]If anything, I am happy that you are#so eager to experiment ,!!",
         "[express=hm]Just don't disturb the Other Two's rooms#as you have mine, okay ,?",
         "They are practicing their Magick right now,#much like we are practicing yours ,,,",
