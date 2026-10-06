@@ -308,12 +308,12 @@
     "hint_quickdraw_b_controller": "(Ricorda ,!# [Left trigger] - Prepara la Magià ,!)",
     "hint_popup_s3_wasd_mouse": "WASD o punta e clicca#per muoverti.",
     "hint_popup_s3_controller": "Levetta analogica sinistra o#punta e clicca per muoverti.",
-    "gamestart_this_game": "Questo gioco è stato pensato#per i comandi da#mouse e tastiera.##(principalmente il mouse)",
+    "gamestart_this_game": "Questo gioco è stato pensato#per i comandi da mouse e tastiera.##(principalmente il mouse)",
     "gamestart_click_to_proceed": "Clicca qui#per procedere,,,",
     "gamestart_deck_ok": "Steam Deck ok!",
     "gamestart_ok": " OK ",
     "gamestart_autosave": [
-        "[system]Questo gioco usa l'autosalvataggio, indicato dalla#icona in alto. Clicca per continuare."
+        "[system]Questo gioco usa l'autosalvataggio, indicato#dall'icona quassù. Clicca per continuare."
     ],
     "gamestart_settings": [
         "Prima di iniziare con la nostra Sessione...",
@@ -396,14 +396,14 @@
         "(Ne sarà valsa la pena...?)"
     ],
     "outside_woods": [
-        "[system](Una piccola foresta per così dire,#inusuale per i campi circostanti.)",
+        "[system](Una piccola foresta, per così dire,#inusuale per i campi circostanti.)",
         "(Riesci a vedere un cervo passare#attraverso una radura...)"
     ],
     "outside_woods_no_deer": [
         "[system](... il cervo è scomparso.)"
     ],
     "outside_right_sign": [
-        "[system]'NON OLTREPASSARE.#QUI VIVONO DELLE STREGHE.'",
+        "[system]\"NON OLTREPASSARE.#QUI VIVONO DELLE STREGHE.\"",
         "(Per fortuna, hai ottenuto il permesso#per visitare dalla chiamata)",
         "(..., o almeno credi.)"
     ],
@@ -886,12 +886,12 @@
     ],
     "kitchen_session_concentrate_nothing": [
         "[system]NIENTE al mondo che possa#farti perdere la concentrazione , ,,,",
-        "TIENITI su quella concentrazione..."
+        "MANTIENI quella concentrazione..."
     ],
     "kitchen_session_concentrate_now": [
         "[system]Adesso.",
         "Con la tua attenzione diretta alle ampolle ,,,",
-        "TIENI quella concentrazione su una di loro.",
+        "MANTIENI quella concentrazione su una di loro.",
         "E non lasciarla finché non si spacchi ,,,"
     ],
     "kitchen_session_concentrate_not_here": [
@@ -905,7 +905,7 @@
         "[system]Queste ampolle ,",
         "Ora sono l'unica cosa che esiste#al MONDO per te ,",
         "Frantuma le ampolle ,,,#frantuma il tuo mondo ,,,,",
-        "TIENITI su quel desiderio ,,,"
+        "MANTIENITI in quel desiderio ,,,"
     ],
     "kitchen_session_pointless": [
         "[mesmer][express=happy]Ahahah, è  inutile,",
@@ -1214,7 +1214,7 @@
         "MESMA Fuori da qui??/(Nod your#head)/(Back away)"
     ],
     "main_hall_backdoor_is_open": [
-        "(La porta è aperta, e Mesmer sta#aspettando fuori.)",
+        "(La porta è aperta, Mesmer sta#aspettando fuori.)",
         "(Uscire dalla porta continuerà#le tue sessioni con lei.)",
         "(Vuoi andare?)?/(Non ancora)/(Sì)"
     ],
@@ -2877,7 +2877,7 @@
         "(Ti lancia uno sguardo tetro#dall'interno della gabbia.)"
     ],
     "objects_obj_lookat_cage_Other_20_2": [
-        "[system](It refuses to come out.)",
+        "[system](Si rifiuta di uscire.)",
         "(Ti lancia un'occhiataccia#dall'interno della gabbia.)"
     ],
     "objects_obj_lookat_cage_Other_20_3": [
@@ -2891,7 +2891,7 @@
     ],
     "objects_obj_lookat_cage_Other_20_5": [
         "[system](Ti abbassi per vedere meglio#la creatura all'interno.)",
-        "(L'interno della gabbia è buia,#mentre è avvolta dalla coperta purpurea...)"
+        "(L'interno della gabbia è buia,#avvolta completamente nella coperta purpurea...)"
     ],
     "objects_obj_lookat_cage_Other_20_6": [
         "[creature]VAI",
@@ -2933,7 +2933,7 @@
     ],
     "objects_obj_lookat_cage_Other_20_16": [
         "[system](Tocchi nuovamente la gabbia con le tue mani.)",
-        "(Gentilmente pussi contro le barre...)"
+        "(Gentilmente bussi contro le barre...)"
     ],
     "objects_obj_lookat_cage_Other_20_17": [
         "[creature]...",
@@ -2974,8 +2974,8 @@
         "[system](Ansima tra un respiro e l'altro.)"
     ],
     "objects_obj_lookat_cage_Other_20_29": [
-        "[creature]OKAY",
-        "OKAY. OKAY.",
+        "[creature]BENE",
+        "EVVA. BENE.",
         "SCRIVO.       SPIEGO# MEGLIO.",
         "BISOGNO....",
         "PENNA, CARTA",
@@ -3003,7 +3003,7 @@
     ],
     "objects_obj_lookat_cage_Other_20_37": [
         "[system](Non ne avevi vista nessuna mentre raccoglievi i fogli.)",
-        "(Ti guardi attorno di nuovo, e ancora non#vedi alcuna penna in tutto lo studio.)",
+        "(Ti guardi attorno di nuovo, e ancora non#vedi nessuna penna in tutto lo studio.)",
         "(Scuoti la testa.)"
     ],
     "objects_obj_lookat_cage_Other_20_38": [
@@ -3113,12 +3113,12 @@
         "Lascia che arrivi al nocciolo della questione.",
         "[noskip=true]Oggi, al termine delle tue sessioni con Mesmer, ..",
         "..., lei probabilmente#ti ucciderà.",
-        "[noskip=false]La che potenzia la tua Magià, e il suo aiuto#nei tuoi allenamenti...",
-        "... è simile a ingrassarti come un maiale,#preparandoti al macello.?/Lei mi#mangerà???"
+        "[noskip=false]Il fatto che abbia potenziato la tua Magià#e ti stia assistendo negli allenamenti...",
+        "... è simile a ingrassarti come un maiale#per prepararti al macello.?/Lei mi#mangerà???"
     ],
     "objects_obj_lookat_cage_Other_20_58": [
         "No. Quella era una metafora.",
-        "Mentre ti aspetta fuori, non c'è#molto tempo per spiegare le circostanze.",
+        "Dato che ti aspetta fuori, non c'è#molto tempo per spiegare le circostanze.",
         "Ti consiglio vivamente di andartene.#Torna da dove sei venuto.",
         "Solo allora non potrà ferirti.?/Per favore#spiegati"
     ],
@@ -3139,7 +3139,7 @@
         "... sei ancora qui.?/Okay#vado/Te dici che#mi ucciderà,#ma davvero#deve finire#così?"
     ],
     "objects_obj_lookat_cage_Other_20_62": [
-        "Non I am not entertaining this any further.",
+        "Non intendo dilungarmi sulla questione.",
         "Te sai cosa accadrà. Lei ti ucciderà#se non te ne andrai.",
         "Fai come ti pare. Arri vederci."
     ],
@@ -3149,17 +3149,17 @@
         "Cos'altro devo dirti?????/Deve davvero#finire#così? /Okay#vado"
     ],
     "objects_obj_lookat_cage_Other_20_64": [
-        "Si, Yes, she seems nice.",
+        "Si, lei sarà pure simpatica.",
         "Ma ciò non la fermerà dall'usarti#alla fine della fiera.",
         "Se vai adesso, puoi cercare altri#istruttori Magicì per la tua abilità.",
-        "Ho letto di questa cosa 'On-line',",
-        "Non credo che Mesmer lo abbia mai usato,#o che lei abbia accesso,",
+        "Ho letto di questa cosa dell'\"On-line\",",
+        "Non credo che Mesmer lo abbia mai usato#o che lei possa accederci,",
         "Ma, se hai davvero bisogno, basta#trovare qualcun altro per insegnarti.",
         "Affinché te vada via adesso.?/Deve davvero#finire#così? /Okay#vado"
     ],
     "objects_obj_lookat_cage_Other_20_65": [
         "Sei davvero una persona testarda.",
-        "Ripeto, la tua opzione migliore sarebbe#di andertene...",
+        "Ripeto, la tua opzione migliore sarebbe#di andartene...",
         "Specialmente mentre lei è ancora fuori#al retro della casa..."
     ],
     "objects_obj_lookat_cage_Other_20_66": [
@@ -3191,7 +3191,7 @@
         "... allora questa sarà la tua tomba. Letteralmente.",
         "Ma suppongo... più conoscenza hai, meglio#riuscirai a scongiurare questo fato.",
         "E, forse, nel processo potresti anche assistermi#nel dirigere Mesmer in un'altra direzione.",
-        "... anche se continuo a non capire perché te non voglia#abbandonare al primo segnare di un pericolo fatale."
+        "... anche se continuo a non capire perché te non voglia#abbandonare al primo segnale di un pericolo fatale."
     ],
     "objects_obj_lookat_cage_Other_20_71": [
         "Lei è ancora intenta a ucciderti#in un secondo momento in giornata, ti ricordo.",
@@ -3213,22 +3213,22 @@
         "Ora, vai a raggiungerla fuori.",
         "Quando ti porterà nella foresta,#trova un modo per tenerla occupata e tornare qui.",
         "Forse allora sarò#in grado di dirtelo.",
-        "E riusciremo a capire come arrivare ad un#'lieto fine'.",
+        "E riusciremo a capire come arrivare ad un#\"lieto fine\".",
         "Quindi. Vai.#Ci vediamo dopo."
     ],
     "objects_obj_lookat_cage_Other_20_74": [
-        "... Hai ignorato il mio consiglio di andartene.",
-        "Hai scelto di non andartene,#e trovare delle alternative.",
+        "... Hai ignorato il mio consiglio di andar via.",
+        "Hai scelto di non andartene#e trovare delle alternative.",
         "Tutto questo è per TE.",
-        "Uscirai da qui INDENNE.#Quello è ciò che guadagnerai TE.",
-        "Che domanda stupida."
+        "Uscirai da qui INDENNE.#Quello è ciò che TE guadagnerai.",
+        "Che domanda insulsa."
     ],
     "objects_obj_lookat_cage_Other_20_75": [
         "Vai a raggiungere Mesmer fuori#dal retro.",
         "Ricorda molto attentamente quello che ho scritto.",
         "Quando ti porta nella foresta,#trova un modo per tenerla occupata.",
-        "Dopo torna qui, e#penseremo a come arrivare ad un 'lieto fine'.",
-        "See you soon."
+        "Dopo torna qui e#penseremo a come arrivare ad un \"lieto fine\".",
+        "Ci vediamo."
     ],
     "objects_obj_lookat_cage_Other_20_76": [
         "Se insisti così tanto nel conoscermi,#va bene, parlerò a riguardo più tardi.",
@@ -3240,7 +3240,7 @@
     "objects_obj_lookat_cage_Other_20_77": [
         "Il tuo braccio è apposto?",
         "Perché è stato alquanto impressionante.",
-        "Spero abbastanza per convincerti ad andartene."
+        "Abbastanza da convincerti ad andartene, spero."
     ],
     "objects_obj_lookat_cage_Other_20_78": [
         "Vuoi andare fino in fondo,#immaginavo."
@@ -3248,27 +3248,27 @@
     "objects_obj_lookat_cage_Other_20_79": [
         "Quindi hai accettato di eseguire il rituale.",
         "Seppure io non creda che sia nei tuoi migliori#interessi eseguirlo...",
-        "(e, continuo a credere sia meglio che te#semplicemente te ne andassi...)",
-        "... forse potrebbe essere vantaggioso per il nostro piano.",
+        "(e continuo a credere sia meglio che te#semplicemente andassi via...)",
+        "... forse potrebbe andare a vantaggio del nostro piano.",
         "Più accondiscendente sei con lei,#più bendisposta potrebbe essere nei tuoi confronti...",
         "Quello renderebbe più facile trovare un modo#per distrarla nella foresta, così spero."
     ],
     "objects_obj_lookat_cage_Other_20_80": [
         "Hai rifiutato il Rituale.",
-        "È stato per pura incertezza,#o semplicemente non lo volevi fare...?",
-        "Beh. Ora è il momento migliore per ascoltare#il mio consiglio originale.",
+        "È stato per pura incertezza#o semplicemente non lo volevi fare...?",
+        "Beh. Ora è il momento migliore per ascoltare#il mio consiglio iniziale.",
         "Vai via.'",
         "Ma, se insisti nel rimanere...",
         "Più accondiscendente sei con lei,#più bendisposta potrebbe essere nei tuoi confronti.",
         "Quello renderebbe più facile trovare un modo#per distrarla nella foresta, così spero.",
         "Quindi tieni a mente da ora in avanti...",
         "Non lasciarti trascinare troppo a lungo.",
-        "Altrimenti questo sarà invano."
+        "Altrimenti tutto questo sarà invano."
     ],
     "objects_obj_lookat_cage_Other_20_81": [
         "Mesmer ti sta aspettando fuori.",
         "È meglio che te la raggiunga.",
-        "Continua a farla aspettare troppo,#e lei potrebbe tornare a controllarti...",
+        "Continua a farla aspettare troppo#e lei potrebbe tornare a controllarti...",
         "Un piccolo promemoria che non voglio farmi vedere#mentre parlo con te.",
         "Quindi procedi."
     ],
@@ -3319,7 +3319,7 @@
     "objects_obj_lookat_cage_Other_20_97": [
         "Hai ragione.",
         "La mia prosa è stata leggermente drammatizzata, l'ammetto.",
-        "Non così semplice come sembra.",
+        "Non è così semplice come può sembrare.",
         "Comunque. Dovrebbe darci abbastanza#tempo..."
     ],
     "objects_obj_lookat_cage_Other_20_98": [
@@ -10923,11 +10923,11 @@
         ", quindi 'Scatenati' pure,"
     ],
     "objects_obj_study_cages_Create_0_1": [
-        "[system](Solo adesso ti rendi conto della#quantità di gabbie ancora presenti qui.)"
+        "[system](Solo adesso ti rendi conto della#quantità di gabbie ancora presenti.)"
     ],
     "objects_obj_study_cages_Create_0_2": [
         "[system](È una battaglia ardua.)",
-        "(Credi di poter vedere il muro dietro#al resto dei mucchi di gabbie...)"
+        "(Credi di poter vedere il muro dietro#al resto delle pile di gabbie...)"
     ],
     "objects_obj_study_cages_Create_0_3": [
         "[system](E in questo momento che noti quanto#le gabbie siano sorprendentemente pulite.)"
@@ -11624,26 +11624,26 @@
         "I am rather excited for this Session ,!!!"
     ],
     "rooms_room_house_darkness_InstanceCreationCode_inst_12B9D5D2_0": [
-        "[system](A cloth stretches over the table.)",
-        "(There are darkened stains in the middle.)"
+        "[system](Un telo steso sul tavolo.)",
+        "(Ci sono delle macchie scure al centro.)"
     ],
     "rooms_room_house_darkness_InstanceCreationCode_inst_389A3AEA_0": [
-        "[system](Bandages, slightly unrolled#and hanging from the table.)"
+        "[system](Delle bende un po' srotolate#pendono dal tavolo.)"
     ],
     "rooms_room_house_darkness_InstanceCreationCode_inst_5AA382E0_0": [
-        "[system](Stacks, and stacks, and stacks#of empty cages lining the walls.)",
-        "(No way you're getting#through these.)"
+        "[system](Pile su pile su pile#di gabbie vuote allineate alle pareti.)",
+        "(Non riuscirai a farti#strada questa volta.)"
     ],
     "rooms_room_house_darkness_InstanceCreationCode_inst_7516FD2C_0": [
-        "[system](Stacks, and stacks, and stacks#of empty cages lining the walls.)",
-        "(No way you're getting#through these.)"
+        "[system](Pile su pile su pile#di gabbie vuote allineate alle pareti.)",
+        "(Non riuscirai a farti#strada questa volta.)"
     ],
     "rooms_room_house_darkness_InstanceCreationCode_inst_C480FF1_0": [
-        "[system](A set of medical utensils.)",
-        "(Scissors,#thread, and needle.)"
+        "[system](Un set di attrezzi medici.)",
+        "(Ago, filo e forbici.)"
     ],
     "rooms_room_house_darkness_InstanceCreationCode_inst_C480FF1_1": [
-        "[system](A lone pair of scissors.)"
+        "[system](Un paio di forbici solitarie.)"
     ],
     "rooms_room_house_doorstep_InstanceCreationCode_inst_47920F85_0": [
         "[mesmer]Te possiedi l'abilità ,#    no?",
