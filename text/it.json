@@ -2,7 +2,7 @@
     "__lang": {
         "id": "it",
         "name": "Italiano",
-        "author": "da Christmas Carols",
+        "author": "da Carols e Manuèl M.",
         "fonts": {
             "main": {
                 "source": "fonts/Mesmalie.ttf",
@@ -56,7 +56,7 @@
     "savedata_delete_all": "CANCELLA TUTTI I DATI DI SALVATAGGIO.",
     "savedata_delete_all_confirm": "SEI SICURO, ?#CLICCA ANCORA PER CANCELLARE I DATI",
     "savedata_delete_all_done": "Memorie cancellate.",
-    "savedata_delete_restart": "Ricomincia il gioco.",
+    "savedata_delete_restart": "Ricomincia il gioco",
     "savedata_back": "Indietro",
     "ui_magick": "Magià",
     "ui_gtfo": "Vattene",
