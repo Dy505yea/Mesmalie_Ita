@@ -509,7 +509,7 @@
     "inside_intro": [
         "[mesmer][express=happy]Benvenuto ,,,,,,, ,,,,",
         "[express=hm]Ohe , perdona il disordine ,. Da Giovedì che#le cose sono diventate caotiche ,,,,",
-        "[express=default]Ordunque, lascia che ti spieghi#come si svolgerà la giornata ,.",
+        "[express=default]Dunque, lascia che ti spieghi#come si svolgerà la giornata ,.",
         "[express=happy]Per allenare la tua Magià, faremo#della pratica in Sessioni multiple ,...",
         "[express=hm]Due, o Tre Sessioni al massimo,.",
         "[express=default]Speranzosamente , alla fine della giornata ,,,#Sarai una Strega più forte di Adesso.",
@@ -784,7 +784,7 @@
         "[mesmer][express=spooky]Quindi vattene."
     ],
     "kitchen_done_exploring": [
-        "[mesmer][express=default]Ordunque,, hai visto#abbastanza di questa casa??/Non#ancora/Iniziamo"
+        "[mesmer][express=default]Quindi,, hai visto#abbastanza di questa casa??/Non#ancora/Iniziamo"
     ],
     "kitchen_done_exploring_yes": [
         "[mesmer][express=dance]Splendido ,,,"
@@ -877,7 +877,7 @@
         "Ma tienili ,- diciamo ,- aperti per le ampolle. #  , Intesi?"
     ],
     "kitchen_session_do_as_i_say": [
-        "[mesmer]Non ti piacerà ciò che accadrà#se te non fai come ti dico."
+        "[mesmer]Non ti piacerà ciò che accadrà#se non fai come ti dico."
     ],
     "kitchen_session_concentrate": [
         "[mesmer][express=default]Si, bene,",
@@ -2595,7 +2595,7 @@
         "Forse ,,, forse è più vantaggioso#farlo all'inverso.",
         "[express=dance]Ti condurrò con dei Quesiti ,,,",
         "[express=happy]E TE poi mi dirai che cosa TE sai ,...",
-        "[express=default]Ordunque ,,,,, #,,,, per cominciare :#",
+        "[express=default]Dunque ,,,,, #,,,, per cominciare :#",
         "[express=hm], ... Cosa è la MAGIÀ??/Scienza#Misteriosa/Manifestazione#della Volontà#nel Mondo Reale/Non è reale"
     ],
     "objects_obj_kitchen_scenes_a_Step_0_2": [
@@ -3633,7 +3633,7 @@
         "Ma sono ad un punto in cui posso istruire#le arti a individui inferiori ,.",
         "La Tua Abilità è , ... un qualcosa in cui non#mi son dilettata personalmente.",
         "Ma ne conosco la teoria.#E ciò basterà.",
-        "Ritornando al punto, sostanzialmente - #   Si , senza dubbio ,."
+        "Ritornando al punto, sostanzialmente - #   Si , senza ombra di dubbio ,."
     ],
     "objects_obj_mesmer_Other_4_63": [
         "[mesmer]Si l'hai chiesto ,",
@@ -3742,7 +3742,7 @@
     "objects_obj_piano_Create_0_3": "Accetto la#proposta#'Mes'",
     "objects_obj_piano_Create_0_4": "Suoni?",
     "objects_obj_piano_Create_0_5": [
-        "[mesmer],,, ci avresti impiegato lo stessp un po'#prima di riuscirci,.",
+        "[mesmer],,, ci avresti impiegato un po' lo stesso#prima di riuscirci,.",
         "Oh beh. Tutti dovrebbero imparare uno#strumento ad un punto della propria vita,",
         "La musica fa esprimere nel modo forse migliore#di quanto possa la Magià,."
     ],
@@ -11571,22 +11571,22 @@
         "You'll have your own ,,,"
     ],
     "rooms_room_house_bedroom_InstanceCreationCode_inst_3D956191_3": [
-        "[system](A mural spans over the wall.)",
-        "(It looks like Mesmer.)",
-        "(Some details are missing, such as#the mouth and the eyebrows.)",
-        "(The eyes stare at no particular spot#on the opposing wall.)",
-        "(You look closer, and notice some of the#lines look wet, as though just painted ...)"
+        "[system](Il muro è coperto da un murale.)",
+        "(Assomiglia a Mesmer.)",
+        "(Mancano alcuni dettagli, come#la bocca e le sopracciglia.)",
+        "(Gli occhi non fissano alcun punto specifico#dell'altro muro.)",
+        "(Ti avvicini e noti che alcune tracce#sembrano ancora belle fresche ...)"
     ],
     "rooms_room_house_bedroom_InstanceCreationCode_inst_57A00303_0": [
-        "[system](You see Mesmer outside.)",
-        "(Her back is turned to the house#and she's staring into the woods.)"
+        "[system](Vedi Mesmer fuori.)",
+        "(Le sue spalle sono rivolte alla casa,#ha lo sguardo fisso nella foresta.)"
     ],
     "rooms_room_house_bedroom_InstanceCreationCode_inst_57A00303_1": [
-        "[system](The sunlight beams in#completely unobstructed.)"
+        "[system](La luce irradia#completamente indisturbata.)"
     ],
     "rooms_room_house_bedroom_InstanceCreationCode_inst_57A00303_2": [
-        "[system](The window appears a little dirty.)",
-        "(The sunlight passes through thin layers#of dirt on the in and out.)"
+        "[system](La finestra sembra leggermente sporca.)",
+        "(La luce passa attraverso gli strati#di polvere accumulati da fuori e dentro.)"
     ],
     "rooms_room_house_bedroom_InstanceCreationCode_inst_5EE6D88E_0": [
         "[mesmer][express=spooky]Cosa ci facevi qua dentro ,?"
@@ -11614,14 +11614,14 @@
         "[express=happy]Ora Io tornerò a fare i preparativi ,,,"
     ],
     "rooms_room_house_bedroom_InstanceCreationCode_inst_5EE6D88E_4": [
-        "[mesmer][express=happy]Ahe, non temere ,,,",
-        "[express=dance]Anchio feci la mia buona quantità I've done my fair share of such#as well ,,,",
-        "[express=happy]If anything, I am happy that you are#so eager to experiment ,!!",
-        "[express=hm]Just don't disturb the Other Two's rooms#as you have mine, okay ,?",
-        "They are practicing their Magick right now,#much like we are practicing yours ,,,",
-        "Any disturbance could set them back by a lot ,,,",
-        "[express=happy]Speaking of setting back, come out to the back side,#once you are done experimenting inside ,,,",
-        "I am rather excited for this Session ,!!!"
+        "[mesmer][express=happy]Ahe, non agitarti ,,,",
+        "[express=dance]Anchio mi facevo prendere la mano un tempo#proprio come te poco fa ,,,",
+        "[express=happy]Se non altro, sono contenta che te sia#così dedito a sperimentare ,!!",
+        "[express=hm]Basta non irrompere nelle stanze delle#Altre Due come hai fatto con la mia, d'accordo ,?",
+        "Stanno praticando la loro Magià in questo momento,#proprio come stiamo praticando la tua ,,,",
+        "Il minimo fastidio costerà a loro molti progressi ,,,",
+        "[express=happy]Parlando di progressi, dopo le tue sperimentazioni,#ricongiungiti con me fuori per continuare i nostri ,,,",
+        "Sono alquanto ansiosa per questa Sessione ,!!!"
     ],
     "rooms_room_house_darkness_InstanceCreationCode_inst_12B9D5D2_0": [
         "[system](Un telo steso sul tavolo.)",
@@ -11802,27 +11802,27 @@
         "[system](You cast the glass aside, put your mouth to the tap,#and wash the pill down with a gulp of water.)"
     ],
     "rooms_room_kitchen_InstanceCreationCode_inst_579DF54E_6": [
-        "[system](The cabinets hold many jars,#each with two sets of labels.)",
-        "(The one set reads...)",
-        "('Eyes of newt', 'Toes of frog',#'Lizards' legs'...)",
-        "(The second set of labels,#in hurried handwriting, reads...)",
-        "('MUSTARD SEED', 'BUTTERCUP', 'IVY'...)"
+        "[system](Gli armadietti contengono molti barattoli,#divisi in 2 serie di etichette per scaffale.)",
+        "(La prima serie dice...)",
+        "('Occhi di tritone', 'Dita di ranocchio',#'Zampe di Lucertole'...)",
+        "(La seconda,con una scrittura#approssimativa, dice...)",
+        "('SEME SENAPE', 'RANUNCOLO', 'EDERA'...)"
     ],
     "rooms_room_kitchen_InstanceCreationCode_inst_62B55D3C_0": [
-        "(Take a closer look at the ritual poem?)"
+        "(Dare un'occhiata al poema del rituale?)"
     ],
     "rooms_room_kitchen_InstanceCreationCode_inst_62B55D3C_1": "No",
-    "rooms_room_kitchen_InstanceCreationCode_inst_62B55D3C_2": "Yes",
+    "rooms_room_kitchen_InstanceCreationCode_inst_62B55D3C_2": "Si",
     "rooms_room_kitchen_InstanceCreationCode_inst_62B55D3C_3": [
-        "[system](Recipes for different brews#are attached to the fridge door.)",
-        "(They're all written in hurried#handwriting.)"
+        "[system](Delle ricette per vari infusi#sono attaccate alla porta del frigo.)",
+        "(Hanno tutte una scrittura#frettolosa.)"
     ],
     "rooms_room_kitchen_InstanceCreationCode_inst_62B55D3C_4": [
-        "(You now recognize Mesmer's ritual poem#on one of the pages.)",
-        "(Take a closer look?)"
+        "(Ora riconosci il poema del rituale di Mesmer#in uno dei fogli.)",
+        "(Dare un'occhiata?)"
     ],
     "rooms_room_kitchen_InstanceCreationCode_inst_62B55D3C_5": "No",
-    "rooms_room_kitchen_InstanceCreationCode_inst_62B55D3C_6": "Yes",
+    "rooms_room_kitchen_InstanceCreationCode_inst_62B55D3C_6": "Si",
     "rooms_room_session3_test_InstanceCreationCode_inst_1376B10_0": [
         "[bark]fo maerd a dah reve uoy evaH#?neppah t'ndid taht gnihtemos",
         "?erus uoy erA ?oN",
