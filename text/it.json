@@ -58,7 +58,7 @@
     "savedata_delete_all_done": "Memorie cancellate.",
     "savedata_delete_restart": "Ricomincia il gioco",
     "savedata_back": "Indietro",
-    "ui_magick": "Magià",
+    "ui_magick": "Magica",
     "ui_gtfo": "Vattene",
     "ui_wakeup": "Svegliati",
     "ui_turn": "Girati",
@@ -277,8 +277,8 @@
     "cursor_the_doe": "Il cerbiatto",
     "cursor_extras_mesmory": "Mesmoria",
     "cursor_you": "Te",
-    "book_title_dense": "Libro Spesso sulla Teoria Magicà",
-    "book_title_terminology": "Terminologia Magicà Semplice",
+    "book_title_dense": "Libro Spesso sulla Teoria Magicale",
+    "book_title_terminology": "Terminologia Magicale Semplice",
     "book_title_nonogram": "Esagrammi & Nonogrammi",
     "book_title_incantation": "Scrivere un Incantesimo",
     "book_title_modernity": "Stregoneria nella Modernità",
@@ -299,13 +299,13 @@
     "controls_space": "[Barra spaziatrice]",
     "controls_tab": "[Tab]",
     "menu_controls_action1": "Interagisci con gli oggetti,#avanza col testo",
-    "menu_controls_action2": "Scorciatoia Magià,#accelerazione testo",
+    "menu_controls_action2": "Scorciatoia Magica,#accelerazione testo",
     "menu_controls_object_hints": "#Rivela gli oggetti interagibili",
     "menu_controls_history": "#Mostra la cronologia dei dialoghi",
-    "hint_quickdraw_mouse": "(TASTO DESTRO - Prepara la Magià.)",
-    "hint_quickdraw_controller": "([Left trigger] - Prepara la Magià.)",
-    "hint_quickdraw_b_mouse": "(Ricorda ,!# TASTO DESTRO - Prepara la Magià ,!)",
-    "hint_quickdraw_b_controller": "(Ricorda ,!# [Left trigger] - Prepara la Magià ,!)",
+    "hint_quickdraw_mouse": "(TASTO DESTRO - Prepara la Magica.)",
+    "hint_quickdraw_controller": "([Left trigger] - Prepara la Magica.)",
+    "hint_quickdraw_b_mouse": "(Ricorda ,!# TASTO DESTRO - Prepara la Magica ,!)",
+    "hint_quickdraw_b_controller": "(Ricorda ,!# [Left trigger] - Prepara la Magica ,!)",
     "hint_popup_s3_wasd_mouse": "WASD o punta e clicca#per muoverti.",
     "hint_popup_s3_controller": "Levetta analogica sinistra o#punta e clicca per muoverti.",
     "gamestart_this_game": "Questo gioco è stato pensato#per i comandi da mouse e tastiera.##(principalmente il mouse)",
@@ -460,12 +460,12 @@
     "doorstep_before": [
         "[mesmer]Si, la tua voce mi è familiare,,,",
         "Dunque,",
-        "Proclami di avere un'abilità magicà#che desideri controllare, si?",
+        "Proclami di avere un'abilità magicale#che desideri controllare, si?",
         "...",
         "Mi scuso per la mia circospezione.",
         "Alcune persone usano l'annuncio#per fare gli spiritosi.",
         "Devo sapere se dicevi il vero#prima che qualcosa accada...",
-        "Al che, mi potresti#mostrare la tua magià??/Sono timido/Ok/Ti lascerò#a bocca#aperta"
+        "Al che, mi potresti#mostrare la tua magica??/Sono timido/Ok/Ti lascerò#a bocca#aperta"
     ],
     "doorstep_before_shy": [
         "[mesmer],,,"
@@ -498,7 +498,7 @@
     ],
     "doorstep_mesmer_happy": [
         "[mesmer][express=front_happy]Sarei lieta di insegnarti!",
-        "La tua Magià è patetica,#ma vedo il potenziale,.",
+        "La tua Magica è patetica,#ma vedo il potenziale,.",
         "Entra pure!",
         "[express=front_pose]Farò i preparativi per#la nostra prima sessione  ,,, !"
     ],
@@ -510,17 +510,17 @@
         "[mesmer][express=happy]Benvenuto ,,,,,,, ,,,,",
         "[express=hm]Ohe , perdona il disordine ,. Da Giovedì che#le cose sono diventate caotiche ,,,,",
         "[express=default]Dunque, lascia che ti spieghi#come si svolgerà la giornata ,.",
-        "[express=happy]Per allenare la tua Magià, faremo#della pratica in Sessioni multiple ,...",
+        "[express=happy]Per allenare la tua Magica, faremo#della pratica in Sessioni multiple ,...",
         "[express=hm]Due, o Tre Sessioni al massimo,.",
         "[express=default]Speranzosamente , alla fine della giornata ,,,#Sarai una Strega più forte di Adesso.",
         "[express=happy]O meglio ,",
-        "[express=default]Speranzosamente riuscirai#quanto meno a domare la tua Magià  ,.",
+        "[express=default]Speranzosamente riuscirai#quantomeno a domare la tua Magica  ,.",
         "[express=happy]Non è emozionante ,,, ... ?",
-        "Avere questa Abilità Magicà ,,,",
+        "Avere questa Abilità Magicale ,,,",
         "Allenarla ,,,#coltivarla al suo Massimo Potenziale ,,,",
         "[express=nervous],,,,,,",
         "[express=default]Ad ogni modo, avrò bisogno del tempo#per preparare la nostra Prima Sessione ,.",
-        "Puoi vagare nella Casa per un po' ,#e giochicchiare con la tua Magià nel frattempo ,.",
+        "Puoi vagare nella Casa per un po' ,#e giochicchiare con la tua Magica nel frattempo ,.",
         "[express=happy]Vieni a trovarmi in Cucina quando#sei pronto per la prima Sessione ,,,"
     ],
     "inside_names_question": [
@@ -537,10 +537,10 @@
         "[express=default]Poi,#ci sono le mie compagne congregate ,."
     ],
     "inside_names_mirphie": [
-        "[mesmer][express=strike_pose_b]Mirphie, specializzata nelle#Magiè Botaniche e Zoologiche ,"
+        "[mesmer][express=strike_pose_b]Mirphie, specializzata nelle#Magiche Botaniche e Zoologiche ,"
     ],
     "inside_names_malady": [
-        "[mesmer][express=strike_pose_c], e Malady, specializzata nelle#Pozioni Magichè e altri studi chimici ,.",
+        "[mesmer][express=strike_pose_c], e Malady, specializzata nelle#Pozioni Magicali e altri studi chimici ,.",
         "[express=hm]Vorrei che fossero qui ad accoglierti ,,,#ma si stanno esercitando al momento.",
         "Vedi, Loro sono molto dedite alle proprie Arti ,.",
         "[express=happy]Lo sono anch'Io !!,!! ,,, Ma , Dovevo riserbare#del tempo per le nostre Sessioni di oggi ,.",
@@ -668,7 +668,7 @@
         ",,, è la posizione d'atterraggio#ottimale da tutte le porte ,,,"
     ],
     "mesmer_sofa_again": [
-        "[mesmer]Sarà all'incirca la 10° volta#che dovrò rimettere il divano al centro ,,,,"
+        "[mesmer]Sarà all'incirca la Decima volta#che dovrò rimettere il divano al centro ,,,,"
     ],
     "sofa_fire": [
         "[system](Non succede niente...)",
@@ -708,7 +708,7 @@
     "study_notes": [
         "Delle cartacce riempono il tavolo#e cadono per terra.",
         "È un casino di simboli, scritte quasi#illeggibili e macchie d'inchiostro...",
-        "[mesmer]Io, pure, sono una studentessa dei percorsi Magicì....",
+        "[mesmer]Io, pure, sono una studentessa dei percorsi Magicali....",
         "E una scienziata nell'animo..."
     ],
     "study_use_magick_on_mesmer": [
@@ -797,12 +797,12 @@
     "kitchen_session_start": [
         "[mesmer]Allora ,",
         "Hai un piccolo problema ,,,",
-        "[express=default]La tua MAGIÀ è potente ,#ma non riesci a controllarla.",
+        "[express=default]La tua MAGICA è potente ,#ma non riesci a controllarla.",
         "[express=hm]Ovvero, il controllo che possiedi#su di essa è molto limitato...",
         "Ed evochi ,,,#delle patetiche fiammelle ,,,",
-        "[express=happy]La tua Magià ,,,#ha del potenziale,",
+        "[express=happy]La tua Magica ,,,#ha del potenziale,",
         "[express=hm]Ohh,,    #Ma da dove cominciare...",
-        "[express=default]Presumo che tu non sappia#alcunché di Teoria Magicà.",
+        "[express=default]Presumo che tu non sappia#alcunché di Teoria Magicale.",
         "Possiamo iniziare con della Teoria , oppure#subito incimentarci nel potenziare la tua Abilità.",
         "[express=hm]La Teoria non è strettamente necessaria ,,,#però ,,, potrei parlartene un po' ,,,",
         "[express=hm]Da dove vorresti cominciare ,, .??/Diamoci#dentro#subito/Parla della#teoria"
@@ -821,13 +821,13 @@
     ],
     "kitchen_session_pyrokinesis": [
         "[mesmer][express=hm]La tua abilità ,,, pare che sia#una forma di PIROCINESI.",
-        "In cui, nella Teoria Magicà, è strettamente#connessa alla TELECINESI.",
+        "In cui, nella Teoria Magicale, è strettamente#connessa alla TELECINESI.",
         "[express=hm]Perciò ,",
         "[express=dance]Il fine di questa Sessione sarà#l'usare la tua MENTE per spaccare queste tre ampolle.",
         "[express=default]Prima ,,, prova ad usare la tua abilità attuale#su queste ampolle."
     ],
     "kitchen_try_magick_on_bottles_mesmer": [
-        "[mesmer]Prova ad usare la tua magià su queste bottiglie,,,,"
+        "[mesmer]Prova ad usare la tua magica su queste bottiglie,,,,"
     ],
     "kitchen_try_magick_on_bottles_mesmer_doubt": [
         "[mesmer][express=hm]Magari tenta un altro paio di volte , ...?"
@@ -846,7 +846,7 @@
     ],
     "kitchen_try_magick_on_bottles": [
         "[mesmer]Si, queste ampolle,",
-        "Prova a usare la tua magià su di esse."
+        "Prova a usare la tua magica su di esse."
     ],
     "kitchen_fire_not_working": [
         "[mesmer][express=hm]Mh ,  ,,,,,",
@@ -866,7 +866,7 @@
     "kitchen_session_counterproductive": [
         "[mesmer][express=happy]Ahe  ,",
         "Ma ciò potrebbe rivelarsi controproducente#nella nostra sessione ,",
-        "[express=hm]Vedi ,,, oggi il nostro scopo è di#potenziare la tua stessa magià.",
+        "[express=hm]Vedi ,,, oggi il nostro scopo è di#potenziare la tua stessa magica.",
         "Se io , ... dovessi fare una dimostrazione,#non farai che copiare la mia tecnica , e allora ....?/Ci#riproverò/Sono qui#per che te#mi insegni"
     ],
     "kitchen_session_youre_difficult": [
@@ -909,10 +909,10 @@
     ],
     "kitchen_session_pointless": [
         "[mesmer][express=happy]Ahahah, è  inutile,",
-        "[express=hm]Quindi, pare la tua magià sia totalmente#inutile in uno stato di veglia.",
+        "[express=hm]Quindi, pare la tua magica sia totalmente#inutile in uno stato di veglia.",
         "Cosa possiamo fare adesso ,,,",
         "Magari,",
-        "Se la tua magià è così inutile#nella veglia ,,,",
+        "Se la tua magica è così inutile#nella veglia ,,,",
         ", In tal caso dovremo indurre uno stato onirico.",
         "In fin dei conti , hai mandato la tua#stessa dimora in fiamme nel sonno , no ?",
         "Ebbene, ho preparato qualcosa per far ciò,,,"
@@ -931,7 +931,7 @@
     ],
     "kitchen_session_feeling_something_yet": [
         "[mesmer][express=hm]E ,,, ?",
-        "Non senti ancora niente , ??/Mi sento#apposto/Tlabappa#tutto"
+        "Non senti ancora niente , ??/Mi sento#apposto/Trablabbla#tutto"
     ],
     "kitchen_session_not_an_answer": [
         "[mesmer]     ,",
@@ -943,7 +943,7 @@
     ],
     "kitchen_session_dont_feel_anything": [
         "[mesmer]Se non senti niente,#dovrai aspettare un attimo ,",
-        "Lascia che l'intruglio faccia la sua Magià ,,,"
+        "Lascia che l'intruglio faccia la sua Magica ,,,"
     ],
     "kitchen_session_anything_yet": [
         "[mesmer]Non senti ancora niente , ?"
@@ -958,15 +958,15 @@
         "[express=hm], ... Dimmi ,"
     ],
     "kitchen_session_b_awaken_questions": [
-        "[mesmer][express=happy]Dimmi cosa hai visto nel tuo stato onirico?/Nulla/Tlabappo#.../Strana figura#in una delle#ampolle"
+        "[mesmer][express=happy]Dimmi cosa hai visto nel tuo stato onirico?/Nulla/Trablabblare#.../Strana figura#in una delle#ampolle"
     ],
     "kitchen_session_b_awaken_questions_bird": [
-        "[mesmer][express=happy]Dimmi cosa hai visto nel tuo stato onirico?/Nulla/Tlabappo#.../L'uccello#del mio#primo#sogno"
+        "[mesmer][express=happy]Dimmi cosa hai visto nel tuo stato onirico?/Nulla/Trablabblare#.../L'uccello#del mio#primo#sogno"
     ],
     "kitchen_session_b_nothing": [
         "[mesmer][express=hm]Hai visto , il nulla ?",
         "Al che ,",
-        "Un forte indicatore della tua connessione#alla tua Magià è di un immensa profondità!",
+        "Un forte indicatore della tua connessione#alla tua Magica è di un immensa profondità!",
         "[express=happy]Ahe !",
         "Mi avevi detto che eri timido prima ,#come mai?",
         "[express=dance]Col potere che hai mostrato adesso ,,,"
@@ -980,7 +980,7 @@
     ],
     "kitchen_session_b_worbly_after": [
         "[mesmer][express=hm]Mh , la tua parlata potrebbe essere ancora incasinata#per un effetto collaterale dell'intruglio ,,,",
-        "[express=happy]Ma ciò non ha importanza ,#fintanto che la tua Magià funzioni."
+        "[express=happy]Ma ciò non ha importanza ,#fintanto che la tua Magica funzioni."
     ],
     "kitchen_session_b_figure": [
         "[mesmer][express=happy] ,,,",
@@ -993,7 +993,7 @@
         "[mesmer][express=hm]L'uccellino del tuo primo sogno#si trovava nell'ultima ampolla ,?",
         "Quello che ti ha chiamato 'screanzato',?",
         "[express=happy]Ahahe, sei così buffo ,!",
-        "Si dice che i pensatori creativi#siano i migliori praticanti Magicì ,,,",
+        "Si dice che i pensatori creativi#siano i migliori praticanti Magicali ,,,",
         "[express=dance]Quella creatura vive nella tua testa.#Non c'è ragione di pensarci troppo ,."
     ],
     "kitchen_session_b_continue": [
@@ -1006,10 +1006,10 @@
     ],
     "kitchen_session_b_before_shatter_dance": [
         "[mesmer]Prima di ufficialmente terminare#la prima sessione ,",
-        "Forse dovremmo testare la tua#magià in uno stato più ,,,",
+        "Forse dovremmo testare la tua#magica in uno stato più ,,,",
         "[express=happy]Sveglio",
         "[express=hm]Quelle tre ampolle che hai frantumato ,,,",
-        "Il tuo stato onirico ha sbloccato#questa Magià più potente ,,,",
+        "Il tuo stato onirico ha sbloccato#questa Magica più potente ,,,",
         "[express=default], ma dobbiamo vedere se si mantiene#anche nel mondo della veglia.",
         "[express=dance]Per Ciò , Ho fatto#dei preparativi extra",
         "[express=happy]Clap, Clap,"
@@ -1025,37 +1025,37 @@
         "Qualcosa , qualcosa ,, ....#Uhe ,,,,,",
         "[express=nervous]La ragione esatta mi sta scappando dalla lingua.",
         "[express=default]Ma perciò che dovrai farlo adesso .#I libri dicono che aiuti ,.",
-        "Proviamoci.#Prima prepara la tua Magià,  e poi , ..."
+        "Proviamoci.#Prima prepara la tua Magica,  e poi , ..."
     ],
     "kitchen_dance_exact_hit": [
         "[mesmer]Wow ,,,,,,",
         "L'hai sentita ,?",
-        "Hai sentito quelle vibrazioni#quando hai emesso la tua Magià,?",
+        "Hai sentito quelle vibrazioni#quando hai emesso la tua Magica,?",
         "Come si è fatta strada fino all'ampolla,#ed infine prontamente frantumarla ,,,?",
         "La folata che si scontra#col mio viso ,,,",
         "Era davvero incredibile ,.",
         "[express=default]Credo che siamo pronti a completare la sessione ,,,,",
-        "[express=happy]Fa' quel che hai fatto poco fa , #Prepara la tua Magià ,,,",
+        "[express=happy]Fa' quel che hai fatto poco fa , #Prepara la tua Magica ,,,",
         "E poi applicala al ritmo ,,,"
     ],
     "kitchen_dance_wrong_bottle": [
         "[mesmer],,,,",
         "È ,,, stato incredibile ,,,",
-        "Il modo in cui la tua Magià#ha frantumato quell'ampolla ,,,",
+        "Il modo in cui la tua Magica#ha frantumato quell'ampolla ,,,",
         "Sfortunatamente era quella sbagliata ,.",
         "Poco importa se hai azzeccato#il tempo ,,,",
         "Hai fallito clamorosamente.",
-        "Rifacciamolo ,.#Prepara la Magià ,,,"
+        "Rifacciamolo ,.#Prepara la Magica ,,,"
     ],
     "kitchen_dance_wrong_bottle_again": [
         "[mesmer],,,",
         "Beh pare che ci stai#prendendo la mano ,.",
-        "Prova però ad applicare la tua Magià#al ritmo ,."
+        "Prova però ad applicare la tua Magica#al ritmo ,."
     ],
     "kitchen_dance_immediate": [
         "[mesmer] ,,,,",
         "No, fin Troppo Zelante,.",
-        "Ricomincia da capo. Prepara la Magià,#e aspetta il segnale ,."
+        "Ricomincia da capo. Prepara la Magica,#e aspetta il segnale ,."
     ],
     "kitchen_dance_ready": [
         "[mesmer]Pronti ,???#Ecco che arriva ,,,"
@@ -1064,14 +1064,14 @@
         "[mesmer]Troppo Presto ,.",
         "Al che ,. Nella sessione pratica effettiva ,#il tempismo esatto non sarà rilevante ,.",
         "Ma in questa ,,, solo per questa volta#vorrei che te lo azzecchi come si deve ,,,",
-        "Ordunque , prepara nuovamente la tua Magià ,,,"
+        "Ordunque , prepara nuovamente la tua Magica ,,,"
     ],
     "kitchen_dance_early_again": [
         "[mesmer]Ancora Troppo Presto ,,,",
         "Questa è quella buona,! Posso percepirlo,!",
         "Come dici, Malady ,?#Lo percepisci anche te ,?",
         "Sì, sì ,,,#questa è quella giusta ,,,",
-        "Riproviamoci nuovamente,! Prepara la Magià ,,,"
+        "Riproviamoci nuovamente,! Prepara la Magica ,,,"
     ],
     "kitchen_dance_late": [
         "[mesmer]Ohe ,! Per un pelo e avresti azzeccato il ritmo ,!",
@@ -1079,25 +1079,25 @@
         "La maniera in cui la folata che si scontrava#col mio viso ,,,",
         "Non ho mai osservato la Telecinesi da così vicino ,,,#era ,,, era ,,,,,",
         "Sto correndo troppo ,.#Riproviamoci di nuovo.",
-        "Riprepara la tua Magià , e questa volta#colpisci seguendo il segnale."
+        "Riprepara la tua Magica , e questa volta#colpisci seguendo il segnale."
     ],
     "kitchen_dance_late_again": [
         "[mesmer]Quasi ,! Quasi ,!!!",
         "Questa sarà Quella Giusta ,.#posso Percepirlo ,.",
-        "Riprepara la tua Magià,#e fai fuoco leggermente prima ,,,"
+        "Riprepara la tua Magica,#e fai fuoco leggermente prima ,,,"
     ],
     "kitchen_dance_screw_it": [
         "[mesmer],,,,",
         "Ahe,! Cosa importa.",
         "Concludiamo qui la Sessione.",
-        "Che te Prepari la tua Magià o Meno, #questo è quanto ,,,"
+        "Che te Prepari la tua Magica o Meno, #questo è quanto ,,,"
     ],
     "kitchen_dance_never": [
         "[mesmer]Hai sbattuto gli occhi per caso ,?",
         "Può essere che te sia ancora assopito#da quella pozione ,,,?",
         "Comunque ,,, devi azzeccare il giusto tempismo#questa volta ,.",
         "Prova di nuovo ,. Questa volta ad occhi aperti ,.",
-        "Non perdere la Magià ,.#Aspetta il segnale ,,,"
+        "Non perdere la Magica ,.#Aspetta il segnale ,,,"
     ],
     "kitchen_dance_never_again": [
         "[mesmer],,,,",
@@ -1108,7 +1108,7 @@
         "Provaci di nuovo ,."
     ],
     "kitchen_dance_never_again_again": [
-        "[mesmer][express=spooky]Sono costernata che te#non voglia usare la tua Magià.",
+        "[mesmer][express=spooky]Sono costernata che te#non voglia usare la tua Magica.",
         "[express=hm]Che ti succede,? Stavi andando così bene#nel tuo breve sonnellino poco fa,.",
         "[express=strike_pose_a]Non voglio ancora aspettare ,.#Noi eseguiremo ,.",
         "L'Atto Finale della nostra Prima Sessione ,,,",
@@ -1120,7 +1120,7 @@
         "Seppure ,,, non hai propriamente frantumato le ampolle#nel giusto ordine,,,",
         "Oppure si ,,, ?#Beh, non Stavo guardando.",
         "Comunque sia ,,,",
-        "La tua Magià ,,, già così potente ,,,",
+        "La tua Magica ,,, già così potente ,,,",
         "Le altre due , oh , le altre due ,!!",
         "Saranno strabiliate ad assistere la tua maestria!",
         "Ma, per ora ,,,,"
@@ -1145,7 +1145,7 @@
         "[mesmer][express=hm]Sono così triste.",
         "Triste Triste Mesmer.",
         "Per favore dimmi cosa non va ,?",
-        "Eri così impaziente di praticare la tua Magià#fino adesso ,,,",
+        "Eri così impaziente di praticare la tua Magica#fino adesso ,,,",
         "E ora non vuoi nemmeno usarla.",
         ",,,,",
         "[express=hm]Non dirmi che ,,,",
@@ -1156,14 +1156,14 @@
         "[express=hm]No ,.#Sarebbe molto triste.",
         ",,,,",
         "Ti dirò ,.",
-        "Non c'è bisogno che te danzi, se potresti#usare la tua Magià per ripulire queste ampolle ,,,",
+        "Non c'è bisogno che te danzi, se potresti#usare la tua Magica per ripulire queste ampolle ,,,",
         "Frantumale una ad una ,#finché non rimane più nessuna ,.",
         "[express=strike_pose_c]Aspetterò qui con te finché non avrai fatto ,,,",
         "[express=strike_pose_a],,, per favore ,?"
     ],
     "kitchen_dance_nope_mad_complete": [
         "[mesmer][express=happy]Ahe ,!",
-        "Allora la pozione non ha reso la tua#Magià impotente dopotutto ,.",
+        "Allora la pozione non ha reso la tua#Magica impotente dopotutto ,.",
         "Che ,",
         "[express=hm]Uhe ,. non saprei dire se sia un sollievo#o no ,.",
         "Sarebbe stata la Prima volta, secondo la#Teoria ,,,",
@@ -1980,12 +1980,12 @@
     ],
     "minigame_ui_points": "PUNTI",
     "minigame_ui_vials": "AMPOLLE",
-    "minigame_ui_ready_magick": "PREPARA LA TUA MAGIÀ,,, !",
-    "minigame_ui_ready_magick_again": "PREPARA LA TUA MAGIÀ, DI NUOVO,,, !",
+    "minigame_ui_ready_magick": "PREPARA LA TUA MAGICA,,, !",
+    "minigame_ui_ready_magick_again": "PREPARA LA TUA MAGICA, DI NUOVO,,, !",
     "minigame_ui_birds": "UCCELLI",
     "mesmarm_a": "[mesmer]Bene, Un buon inizio,,, continua così ,,,",
     "mesmarm_b": "[mesmer]Mhhmhhhe,,, pian pianino,,,",
-    "mesmarm_c": "[mesmer]I movimenti coreografati sono una#buona pratica per la tua Magià ,,,",
+    "mesmarm_c": "[mesmer]I movimenti coreografati sono una#buona pratica per la tua Magica ,,,",
     "mesmarm_d": "[mesmer],,, in Caso stessi pensando che#stiamo sprecando tempo con ciò,",
     "ritual_line_a0": "MAGICK IN SESSIONS, DAY AFTER DAY,",
     "ritual_line_a1": "ONE'S TIME, THROUGH THIS TRAINING, GETS TAKEN AWAY.",
@@ -2010,7 +2010,7 @@
     "chapter_reverie": "I.#LA VISIONE",
     "chapter_witches_door": "II. NEL MEZZO#DEL NULLA",
     "chapter_kitchen_session": "III. SESSIONE#IN CUCINA",
-    "chapter_augmented_magick": "IV. MAGIÀ#POTENZIATA",
+    "chapter_augmented_magick": "IV. MAGICA#POTENZIATA",
     "chapter_back_side": "V. AL#RETRO",
     "chapter_second_session": "VI. SECONDA#SESSIONE",
     "chapter_stitches": "VII. PUNTI",
@@ -2049,7 +2049,7 @@
     "results_s1_creature_ignored": "Non hai parlato ad un certo qualcuno.",
     "results_s1_creature_talked": "Hai parlato con un certo qualcuno, ma non hai ascoltato il suo avviso.",
     "results_s1_creature_killed": "Hai ucciso un certo qualcuno.",
-    "results_s1_destroyed_everything": "Hai distrutto molti dei possessi della congrega mentre praticavi con la Magià. Non fa niente, Mesmer ti ha detto di farlo.",
+    "results_s1_destroyed_everything": "Hai distrutto molti dei possessi della congrega mentre praticavi con la Magica. Non fa niente, Mesmer ti ha detto di farlo.",
     "results_s2_title": "SECONDA SESSIONE",
     "results_s2_minigame_score": "You scored $1 points in the second session.",
     "results_s2_minigame_good": "Mesmer was really impressed.",
@@ -2334,7 +2334,7 @@
         "(Ti senti bene.)"
     ],
     "objects_obj_bigbottle_Create_0_1": [
-        "(La tua Magià scorre nel tuo corpo.)"
+        "(La tua Magica scorre nel tuo corpo.)"
     ],
     "objects_obj_bigbottle_Create_0_2": [
         "(Una figura è in ginocchio#nella boccia.)"
@@ -2456,7 +2456,7 @@
     ],
     "objects_obj_door_charms_Create_0_1": [
         "[system](Degli oggetti carini.)",
-        "(Che la loro Magià#ci guidino oggi.)"
+        "(Che la loro Magica#ci guidino oggi.)"
     ],
     "objects_obj_door_charms_Create_0_2": [
         "[system](Per quel poco che sai,#questi devono essere degli amuleti protettivi.)"
@@ -2520,7 +2520,7 @@
     ],
     "objects_obj_intro_bottles_Create_0_0": [
         "[system](Bottiglie vuote senza etichetta.)",
-        "(Non si può capire#cosa contenessero dentro.)"
+        "(Non si riesce capire#cosa contenessero dentro.)"
     ],
     "objects_obj_intro_floor_stain_Create_0_0": [
         "(Qualcuno deve aver lasciato la sua#macchia per terra.)"
@@ -2563,7 +2563,7 @@
         "Sei inciampato per terra."
     ],
     "objects_obj_kitchen_scenes_a_Create_0_0": [
-        "[mesmer]Vuoi migliorare#la tua Magià, si,?",
+        "[mesmer]Vuoi migliorare#la tua Magica, si,?",
         "Quindi non preoccuparti ,,, non è pericoloso ,,,",
         "Solo un sorso ,,,?/(Esita)/(Bevi)"
     ],
@@ -2587,7 +2587,7 @@
         "Con cosa iniziare ,,,",
         "[express=hm]Mhhh ,,,,",
         "Magari ,,,,",
-        "[express=happy][sound=snd_ding]Dalla Magià,",
+        "[express=happy][sound=snd_ding]Dalla Magica,",
         "[express=dance]La Manifestazione del nostro Volere#nel Mondo Reale.",
         "Può accadere tramite metodi come ,,, uhe ,,,",
         "[express=hm]Mh ,.",
@@ -2596,7 +2596,7 @@
         "[express=dance]Ti condurrò con dei Quesiti ,,,",
         "[express=happy]E TE poi mi dirai che cosa TE sai ,...",
         "[express=default]Dunque ,,,,, #,,,, per cominciare :#",
-        "[express=hm], ... Cosa è la MAGIÀ??/Scienza#Misteriosa/Manifestazione#della Volontà#nel Mondo Reale/Non è reale"
+        "[express=hm], ... Cosa è la MAGICA??/Scienza#Misteriosa/Manifestazione#della Volontà#nel Mondo Reale/Non è reale"
     ],
     "objects_obj_kitchen_scenes_a_Step_0_2": [
         "[mesmer]Oh no , è una scienza ben esplicata,!!!",
@@ -2606,7 +2606,7 @@
     "objects_obj_kitchen_scenes_a_Step_0_3": [
         "[mesmer][express=strike_pose_b]Sì, Precisamente ,,,",
         "[express=hm]Sebbene ,,, ci siano altre definizioni#in cui altri concordino.",
-        "[express=default]Ma in genere ,,, la nostra Magià è una Manifestazione#del nostro Volere nel mondo ,,,",
+        "[express=default]Ma in genere ,,, la nostra Magica è una Manifestazione#del nostro Volere nel mondo ,,,",
         "[express=dance]Il nostro desiderio di portare cambiamenti#in modi esoterici ,,,"
     ],
     "objects_obj_kitchen_scenes_a_Step_0_4": [
@@ -2617,7 +2617,7 @@
     ],
     "objects_obj_kitchen_scenes_a_Step_0_5": [
         "[mesmer][express=dance]Prossimo punto ,,,",
-        "[express=hm]Naturalmente , non tutti posseggono#lo stesso tipo di Magià ,.",
+        "[express=hm]Naturalmente , non tutti posseggono#lo stesso tipo di Magica ,.",
         "[express=default]Come molte scienze, le Streghe#tendono a praticare in diversi ambiti.",
         "[express=hm]Basandoci sul come hai performato finora ,# la tua Abilità pare essere una forma di ,...?/Creazione#di pozioni/Magia Oscura/Pirocinesi/Telecinesi"
     ],
@@ -2631,9 +2631,9 @@
         "[mesmer]Beh ,",
         "Se vuoi entrare nel Tecnico ,",
         "La tua Pirocinesi (la Tua Abilità è la Pirocinesi)#PUÒ essere usata per propositi oscuri ,.",
-        "Potresti , in Teoria , cedere ai desideri#e agli impulsi ,",
+        "Potresti , in Teoria , cedere a impulsi#e tentazioni ,",
         "O persino causare , per puro errore ,#danni immensi con la tua Abilità ,.",
-        "Al che ,,, non me ne dai l'impressione ,,,#quanto meno, lo spero ,,,"
+        "Al che ,,, non me ne dai l'impressione ,,,#quantomeno, lo spero ,,,"
     ],
     "objects_obj_kitchen_scenes_a_Step_0_8": [
         "[mesmer][express=happy]Già ,! Esattamente ,!",
@@ -2644,18 +2644,18 @@
     ],
     "objects_obj_kitchen_scenes_a_Step_0_9": [
         "[mesmer][express=default]Allora , tutti sono leggermente diversi ,,,",
-        "Te hai la tua Magià piro-tele-cinetica ,,,",
+        "Te hai la tua Magica piro-tele-cinetica ,,,",
         "Le mie congregate ,,,",
-        "Mirphie si esercita nella Magià Zoologica,#Malady si esercita nelle Pozioni Magichè ,,,",
+        "Mirphie si esercita nella Magica Zoologica,#Malady si esercita nelle Pozioni Magicali ,,,",
         "E Io ,,,",
         "[express=hm]Beh ,",
-        "[express=happy]Anch'Io pratico Magià ,...",
+        "[express=happy]Anch'Io pratico Magica ,...",
         "[express=hm]Però, senz'altro ci sono#i poveretti che non riescono e basta!",
         "Coloro che vanno avanti per l'intera vita senza#realizzare le proprie capacità ,,,",
         "[express=nervous]Il potere immenso che potrebbero detenere, se#praticassero con serietà ,,,",
         "O , persino coloro che per quanto ci provino ,#semplicemente non possono farne nulla ,,,?",
         "[express=hm]Perché mai è così ,?",
-        "[express=hm]Perché pare che solamente#pochi individui pratichino la Magià ,,,??/Non praticano#abbastanza/Dio ha dei#Preferiti/Non saprei#proprio"
+        "[express=hm]Perché pare che solamente#pochi individui pratichino la Magica ,,,??/Non praticano#abbastanza/Dio ha dei#Preferiti/Non saprei#proprio"
     ],
     "objects_obj_kitchen_scenes_a_Step_0_10": [
         "[mesmer],,,",
@@ -2692,7 +2692,7 @@
         "Quella potrebbe considerarsi la risposta corretta ,,,",
         "In quanto, in tutta la Teoria, #le ricerche non sono sicure sul perché sia il caso ,.",
         "Tuttavia, se posso dirti qualcosa Io ,,,,",
-        "Credo che l'Abilità Magicà sia innata#in tutti noi ,.",
+        "Credo che l'Abilità Magicale sia innata#in tutti noi ,.",
         "Alcuni non hanno tentato abbastanza#da sbloccarla ,,,",
         "Loro non praticano nel#vedere il proprio vero potenziale ,.",
         "[express=nervous]Ohe , che tristezza ,,,",
@@ -2728,12 +2728,12 @@
         "Allora,,,#Clap, Clap,"
     ],
     "objects_obj_kitchen_scenes_b_Step_0_4": [
-        "[mesmer]Prepara la tua Magià#quando sei pronto, ahe,!"
+        "[mesmer]Prepara la tua Magica#quando sei pronto, ahe,!"
     ],
     "objects_obj_kitchen_scenes_b_Step_0_5": [
         "[mesmer]Beh , in un senso strettamente Ritmico ,#Faceva schifo ,",
         "Non le sentivo per niente frantumarsi#correttamente ,",
-        "[express=happy]Tuttavia ,! Hai dato lo stesso una buona dimostrazione#della tua Magià ,!",
+        "[express=happy]Tuttavia ,! Hai dato lo stesso una buona dimostrazione#della tua Magica ,!",
         "[express=strike_pose_a]Non preoccuparti ,. Siamo ancora sulla#buona strada per migliorare la tua Abilità oggi.",
         "E con ciò ,,,",
         "[express=dance]Possiamo concludere la Prima Sessione ,.",
@@ -2741,10 +2741,10 @@
     ],
     "objects_obj_kitchen_scenes_b_Step_0_6": [
         "[mesmer]Puoi ben migliorare ,!",
-        "Ma hai dato una buona dimostrazione della tua Magià ,.",
+        "Ma hai dato una buona dimostrazione della tua Magica ,.",
         "Ed è più che sufficiente, per oggi ,.",
         "Sento, che alla fine della giornata ,,,",
-        ",,, la tua Magià sboccerà in#qualcosa di davvero meraviglioso ,,,",
+        ",,, la tua Magica sboccerà in#qualcosa di davvero meraviglioso ,,,",
         "Ma per ora ,!",
         "[express=dance]Concludiamo qui la Prima Sessione .",
         "Ahe ,!"
@@ -2753,7 +2753,7 @@
         "[mesmer]Ohe, !",
         "[express=happy]Era quasi perfetto ,!",
         "[express=strike_pose_b]Alcune ampolle erano stonate ,,,",
-        "[express=happy]Tuttavia ,! Hai dato lo stesso un'eccellente dimostrazione#della tua Magià ,!",
+        "[express=happy]Tuttavia ,! Hai dato lo stesso un'eccellente dimostrazione#della tua Magica ,!",
         "[express=strike_pose_c]Si ,,, con solo un altro po' di esercizio#oggi ,",
         "Penso che la tua Abilità possa sbocciare in#qualcosa di Veramente Unico ,,,",
         "E con ciò ,,,",
@@ -2853,7 +2853,7 @@
         "UN RICORDO SPIACEVOLE#MARCHIATO NELLA MENTE."
     ],
     "objects_obj_lookat_ball_Create_0_21": [
-        "MAGIÀ PIÙ FORTE E INTENSA",
+        "MAGICA PIÙ FORTE E INTENSA",
         "CONOSCENZA ARCANA INTERNA",
         "SCHEGGE VITREE SUL TUO VOLTO",
         "FORSE NUOVE AMICIZIE"
@@ -2946,7 +2946,7 @@
         "VAI, #    PERICOLO."
     ],
     "objects_obj_lookat_cage_Other_20_19": "Che fretta c'è",
-    "objects_obj_lookat_cage_Other_20_20": "Sono qui#per studiare#Magià",
+    "objects_obj_lookat_cage_Other_20_20": "Sono qui#per studiare#Magica",
     "objects_obj_lookat_cage_Other_20_21": [
         "[creature]FRETTA?",
         "PERICOLO!",
@@ -3029,7 +3029,7 @@
         "[creature]ORA  PER#   SCRIVERE,",
         "PIUMA",
         "...",
-        "FORSE#    MAGIÀ PER  TROVARE",
+        "FORSE#    MAGICA PER  TROVARE",
         "PRENDI DA#     DENTro",
         "VAI TROVA"
     ],
@@ -3067,7 +3067,7 @@
         "...",
         "FORSE DEVI#    SPACCARE QUALCOsa",
         "PRENDI PIUMA#DA    DENTRo",
-        "USA        MAGIÀ#OK   "
+        "USA        MAGICA#OK   "
     ],
     "objects_obj_lookat_cage_Other_20_49": [
         "[creature]DEVO    SCRIVERE#SPIEGO MEGLIO."
@@ -3090,7 +3090,7 @@
         "...",
         "FORSE DEVI#    SPACCARE QUALCOsa",
         "PRENDI PIUMA#DA    DENTRo",
-        "USA        MAGIÀ#OK   "
+        "USA        MAGICA#OK   "
     ],
     "objects_obj_lookat_cage_Other_20_54": [
         "[creature]ORA    INCHIOSTro#    PER SCRIVERe",
@@ -3113,7 +3113,7 @@
         "Lascia che arrivi al nocciolo della questione.",
         "[noskip=true]Oggi, al termine delle tue sessioni con Mesmer, ..",
         "..., lei probabilmente#ti ucciderà.",
-        "[noskip=false]Il fatto che abbia potenziato la tua Magià#e ti stia assistendo negli allenamenti...",
+        "[noskip=false]Il fatto che abbia potenziato la tua Magica#e ti stia assistendo negli allenamenti...",
         "... è simile a ingrassarti come un maiale#per prepararti al macello.?/Lei mi#mangerà???"
     ],
     "objects_obj_lookat_cage_Other_20_58": [
@@ -3151,7 +3151,7 @@
     "objects_obj_lookat_cage_Other_20_64": [
         "Si, lei sarà pure simpatica.",
         "Ma ciò non la fermerà dall'usarti#alla fine della fiera.",
-        "Se vai adesso, puoi cercare altri#istruttori Magicì per la tua abilità.",
+        "Se vai adesso, puoi cercare altri#istruttori Magicali per la tua abilità.",
         "Ho letto di questa cosa dell'\"On-line\",",
         "Non credo che Mesmer lo abbia mai usato#o che lei possa accederci,",
         "Ma, se hai davvero bisogno, basta#trovare qualcun altro per insegnarti.",
@@ -3160,7 +3160,7 @@
     "objects_obj_lookat_cage_Other_20_65": [
         "Sei davvero una persona testarda.",
         "Ripeto, la tua opzione migliore sarebbe#di andartene...",
-        "Specialmente mentre lei è ancora fuori#al retro della casa..."
+        "Specialmente mentre lei è ancora fuori#nel retro della casa..."
     ],
     "objects_obj_lookat_cage_Other_20_66": [
         "[mesmer]Sei ancora dentro ,?",
@@ -3194,7 +3194,7 @@
         "... anche se continuo a non capire perché te non voglia#abbandonare al primo segnale di un pericolo fatale."
     ],
     "objects_obj_lookat_cage_Other_20_71": [
-        "Lei è ancora intenta a ucciderti#in un secondo momento in giornata, ti ricordo.",
+        "Ti ricordo che lei è ancora intenta a#ucciderti in un secondo momento in giornata.",
         "Ma adesso, ti sta aspettando la fuori.",
         "Dovresti unirti a lei tra poco,#prima che torni dentro.",
         "Ho bisogno del tempo per pensare#a come procedere con tutto ciò.",
@@ -3274,7 +3274,7 @@
     ],
     "objects_obj_lookat_cage_Other_20_82": [
         "Oh, e per il tuo braccio...",
-        "Se ora usi la tua Magià, potresti sentire#un certo livello di malessere.",
+        "Se ora usi la tua Magica, potresti sentire#un certo livello di malessere.",
         "Puoi trovare degli antidolorifici specializzati per quello#negli scaffali in cucina.",
         "Dovrebbe allievare il dolore che potresti#sentire utilizzando la tua abilità...",
         "Torno a scrivere.",
@@ -3480,12 +3480,12 @@
         "[express=happy]Non posso rispondere io stessa.",
         "[express=default]Non ho ancora fatto la mia parte, ahe,",
         "[express=dance]Quel che so, però, è che#il risultato finale è una sensazione Magnifica,",
-        "La propria Magià, almeno dieci volte superiore,",
+        "La propria Magica, almeno dieci volte superiore,",
         "DEVE essere una bella sensazione.#Proprio, di Fatto,",
-        "Oggi l'hai sentita.#Come la tua Magià si è potenziata nella prima sessione,",
+        "Oggi l'hai sentita.#Come la tua Magica si è potenziata nella prima sessione,",
         ", quel potenziamento, da una semplice pozione,,,",
         "[express=happy]Il rituale vero e proprio avrà quell'effetto,#molte volte meglio.",
-        "E la Magià più forte sarà permanente.#A differenza di quella pozione.",
+        "E la Magica più forte sarà permanente.#A differenza di quella pozione.",
         "[express=dance]Ti dirò solo questo,,,",
         "Te dovresti esserne estasiato.#E riconoscente per l'opportunità."
     ],
@@ -3578,8 +3578,8 @@
     "objects_obj_mesmer_Other_4_49": [
         "[mesmer][express=nervous],,,",
         "Non sono la persona giusta per#chiedere queste cose,",
-        "Potremmo, uhe, tornare alla, Magià,",
-        "Solo alla Magià,",
+        "Potremmo, uhe, tornare alla, Magica,",
+        "Solo alla Magica,",
         "[express=dance],,, per favore,."
     ],
     "objects_obj_mesmer_Other_4_50": [
@@ -3614,12 +3614,12 @@
     "objects_obj_mesmer_Other_4_60": [
         "[mesmer]Ahe, quindi sei impaziente di sapere di più#sulle nostre sessioni d'oggi,?",
         "Dimmi ,",
-        "Che sia stato sotto un'altra congrega,#o persino da te ,,,",
-        "Hai mai eseguito delle#sessioni di pratica Magicà ufficiali ,?",
+        "Che sia stato sotto un'altra congrega,#o persino da autodidatta ,,,",
+        "Hai mai eseguito delle#sessioni di pratica Magicale ufficiali ,?",
         "[express=hm],,,, proprio mai ,?",
         "[express=dance]Molto Bene ,",
         "Vorrà dire che noi saremo la tua prima#esposizione ,,,",
-        "Le Sessioni non saranno nulla che sia#fuori dall'ordinario,",
+        "Le Sessioni non saranno nulla di#fuori dall'ordinario,",
         "Saranno solo cose di routine per#potenziare la tua Abilità.",
         "Ahe, e , naturalmente ,#per domarla ,,,",
         "Si spera che, al termine della giornata,#te abbia appreso come domare la tua abilità ,,,"
@@ -3653,13 +3653,13 @@
     ],
     "objects_obj_mesmer_Other_4_66": [
         "[mesmer][express=happy]Allora, quella era la Prima Sessione ,.",
-        "Adesso hai un maggiore controllo#sulla tua abilità Magicà ,,,",
+        "Adesso hai un maggiore controllo#sulla tua abilità Magicale ,,,",
         "[express=hm]Dunque ,,,",
         "Per la prossima Sessione ,,,",
         "Dovrò rimettermi a fare degli altri preparativi ,.",
         "La Nostra Seconda Sessione si terrà all'Esterno,#dietro la Casa.",
         "[express=default]Per arrivarci, dovrai usare l'altra porta#dall'Ingresso Principale ,,,",
-        "[express=happy]Similmente come prima, sentiti libero di#sperimentare con la tua Magià nel frattempo.",
+        "[express=happy]Similmente come prima, sentiti libero di#sperimentare con la tua Magica nel frattempo.",
         "Fai ciò che devi#per le tue prove ,,,",
         "[express=hm]Meglio ora, prima che l'effetto della#pozione scada ,,,",
         "[express=happy]Allora , ci si vede presto fuori,! Ahe ,!"
@@ -3672,14 +3672,14 @@
         "Le nostre sessioni non potranno cominciare finché#non me la dimostri ,,,"
     ],
     "objects_obj_mesmer_in_door_Create_0_1": [
-        "[mesmer]Devo vedere la tua Magià , ",
+        "[mesmer]Devo vedere la tua Magica , ",
         ",,,",
-        "Se non stavi scherzando , ...",
+        "Se non stavi mentendo , ...",
         "Facendo uno  \"Scherzo Telefonico\" su di me,",
         "Non sarebbe la prima volta."
     ],
     "objects_obj_mesmer_in_door_Create_0_2": [
-        "[mesmer]Se la tua Magià non è reale,#allora non abbiamo niente da discutere."
+        "[mesmer]Se la tua Magica non è reale,#allora non abbiamo niente da discutere."
     ],
     "objects_obj_mesmer_in_door_Create_0_3": [
         "[mesmer]..."
@@ -3731,12 +3731,12 @@
         "Costosissimo Pianoforte,",
         "(Trovatto gettato per strada un giorno)#Ma Comunque,",
         "Immagino non potrò più suonare quel pezzo#d'ora in poi,.",
-        "Non sono frustrata. Non preoccuparti.#Io ti ho implorata di allenarti con la tua Magià comunque,"
+        "Non sono frustrata. Non preoccuparti.#Io ti ho implorata di allenarti con la tua Magica comunque,"
     ],
     "objects_obj_piano_Create_0_1": [
         "[mesmer]Non riesco a riconoscere la musica#che stai provando a suonare,,,",
-        "Io, non riesco neppure se stai Effettivamente#suonando il piano,",
-        "Non temere,. Magari, dopo il nostro studio Magicò,#potrei Pure insegnarti il piano, ."
+        "Io, non riesco neppure a dire se stai#Effettivamente suonando il piano,",
+        "Non temere,. Magari, dopo il nostro studio Magicale,#potrei Pure insegnarti il piano, ."
     ],
     "objects_obj_piano_Create_0_2": "Non voglio#suonare#il piano.",
     "objects_obj_piano_Create_0_3": "Accetto la#proposta#'Mes'",
@@ -3744,7 +3744,7 @@
     "objects_obj_piano_Create_0_5": [
         "[mesmer],,, ci avresti impiegato un po' lo stesso#prima di riuscirci,.",
         "Oh beh. Tutti dovrebbero imparare uno#strumento ad un punto della propria vita,",
-        "La musica fa esprimere nel modo forse migliore#di quanto possa la Magià,."
+        "La musica fa esprimere nel modo forse migliore#di quanto possa la Magica,."
     ],
     "objects_obj_piano_Create_0_6": [
         "[mesmer]Non chiamarmi così,",
@@ -3753,8 +3753,8 @@
     ],
     "objects_obj_piano_Create_0_7": [
         "[mesmer]Tutti dovrebbero conoscere quantomeno#uno strumento, Penso.",
-        "La musica è possibilmente la più forte espressione#di sé stessi rispetto alla Magià,,,",
-        "Ho suonato il piano per molto più tempo di quanto#abbia praticato la mia Magià, in ogni caso,.",
+        "La musica è possibilmente la più forte espressione#di sé stessi rispetto alla Magica,,,",
+        "Ho suonato il piano per molto più tempo di quanto#abbia praticato la mia Magica, in ogni caso,.",
         "Sono Brava. Col Piano,"
     ],
     "objects_obj_piano_Create_0_8": "Figo",
@@ -6013,7 +6013,7 @@
         "[express=strike_pose_a]Chiamami Mesmer ,.",
         "[express=default]Inoltre, sappi che non#siamo da soli qui ,.",
         "[express=strike_pose_c]Le mie congragate, Mirphie e Malady,#si stanno esercitando nelle loro stanze al momento.",
-        "Proprio come noi oggi eserciteremo#la tua Magià ,,,",
+        "Proprio come noi oggi eserciteremo#la tua Magica ,,,",
         "[express=happy]Ohe, le incontrerai più tardi in giornata ,.#Non pensarci troppo adesso.",
         "[express=strike_pose_b]Vieni presto a trovarmi in Cucina ,,,"
     ],
@@ -9269,12 +9269,12 @@
         "[mesmer],,,,,",
         "Sei venuto fin qui, senza sapere perché ,?",
         "Non sei la stessa persona che mi ha#chiamata al telefono ,,,",
-        "Esagitata per aver incendiato#la propria dimora con la sua Magià,?",
+        "Esagitata per aver incendiato#la propria dimora con la sua Magica,?",
         "Sei venuto nell'esatto Giorno e Ora#che ho detto a questa persona al telefono ,",
         ", Per pura coincidenza ,?",
         "Non sei te ,,,?",
         ",,,,",
-        "Puoi usare la Magià ,??/No/Si"
+        "Puoi usare la Magica ,??/No/Si"
     ],
     "objects_obj_scenes_doorstep_Create_0_2": [
         "[mesmer],,,,,"
@@ -9285,7 +9285,7 @@
     "objects_obj_scenes_doorstep_Create_0_4": [
         "[mesmer] ,,,,",
         "Va bene ,.",
-        "Quindi, se sei volenteroso di lanciare#la tua Magià per me ,."
+        "Quindi, se sei volenteroso di lanciare#la tua Magica per me ,."
     ],
     "objects_obj_scenes_doorstep_Create_0_5": [
         "[mesmer]Una strana visione nella notte,,,",
@@ -9295,14 +9295,14 @@
         "[mesmer]Strano ,.",
         "Mi sembravi molto sconvolto#al telefono ,.",
         "Qualcosa a che vedere , con la casa#incendiata nel sonno.",
-        "E sentivi che era causato dalla tua Magià ,#per il sogno che hai fatto ,,,",
+        "E sentivi che era causato dalla tua Magica ,#per il sogno che hai fatto ,,,",
         ",,,,",
         "Uhe,! Sei te quello che dovrebbe#raccontarmi tutto ciò ,!!!!",
         "Cosa sei , una sorta di telepate ,???#Cerchi di ingannare la mia mente ,???",
         ",,,,",
         "Beh ,. Svuota il Sacco,",
-        "Anche se non ricordi del tuo sogno,#sei venuto a praticare la tua Magià ,.",
-        ",,, Supponendo , che te sia capace#di eseguire degli atti Magicì.",
+        "Anche se non ricordi del tuo sogno,#sei venuto a praticare la tua Magica ,.",
+        ",,, Supponendo , che te sia capace#di eseguire degli atti Magicali.",
         "Prima che oggi qualcosa accada,#devi mostrarmi ,.",
         "La tua Abilità ,."
     ],
@@ -9313,7 +9313,7 @@
     ],
     "objects_obj_scenes_doorstep_Create_0_8": [
         "[mesmer]Non tanto piacevole, vedo.",
-        "Dunque, pare te abbia attivato#la tua Magià nel sonno,,,",
+        "Dunque, pare te abbia attivato#la tua Magica nel sonno,,,",
         ",,, al che ti ha fatto intendere,#che non detieni tanto controllo su questa abilità.",
         "Dopo ,,,?/Ho trovato#il tuo#numero nel#giornale"
     ],
@@ -9327,7 +9327,7 @@
         "[mesmer]Di cosa abbiamo discusso ,,,??/Del mio#problemino"
     ],
     "objects_obj_scenes_doorstep_Create_0_12": [
-        "[mesmer]Il tuo scarso controllo della tua Magià ,,,",
+        "[mesmer]Il tuo scarso controllo della tua Magica ,,,",
         "Ti ho dato il mio indirizzo,#allora te ...,,,?/...#sono#arrivato#qui/"
     ],
     "objects_obj_scenes_doorstep_Create_0_13": [
@@ -9345,20 +9345,20 @@
     "objects_obj_scenes_doorstep_Create_0_16": [
         "[mesmer]Sì, sì, ora la tua voce mi è familiare,,,",
         "Allora,",
-        "Hai un'abilità Magicà#che desideri di controllare, sì?",
+        "Hai un'abilità Magicale#che desideri di controllare, sì?",
         "E quello è il motivo per cui#sei venuto fin qui.",
         "...",
         "Mi scuso per la mia circospezione.",
         "Alcune persone chiamano il numero#nell'annuncio per fare gli 'Spiritosi' ,,,,",
         ",,, Dovevo sapere se dicevi la verità#prima che qualcosa accada,.",
-        "Al che, mi potresti#mostrare la tua magià ,,,??/Sono timido/Ok/Ti#lascerò#di stucco"
+        "Al che, mi potresti#mostrare la tua magica ,,,??/Sono timido/Ok/Ti#lascerò#di stucco"
     ],
     "objects_obj_scenes_doorstep_Create_0_17": [
         "[mesmer],,,",
         "'I miei omaggi' ,,,,#'Ti lascerò di stucco' ,,,,",
         "Apprezzo l'entusiasmo ,,,",
         "Ma non devi fare il personaggio.",
-        "Oggi facciamo magiÀ,#non magiA.",
+        "Oggi facciamo magiCa,#non magia.",
         "Falla da un'altra parte# questa tua recita,,,"
     ],
     "objects_obj_scn_s2_back_Other_10_0": [
@@ -10919,7 +10919,7 @@
     "objects_obj_study_cages_Create_0_0": [
         "[mesmer], Mirph non sarà tanto contenta#che te che Magìcchi queste gabbie,",
         ",,,",
-        "Ma, son sicura che capirà se#è per della Pratica Magicà,",
+        "Ma, son sicura che capirà se#è per della Pratica Magicale,",
         ", quindi 'Scatenati' pure,"
     ],
     "objects_obj_study_cages_Create_0_1": [
@@ -11618,7 +11618,7 @@
         "[express=dance]Anchio mi facevo prendere la mano un tempo#proprio come te poco fa ,,,",
         "[express=happy]Se non altro, sono contenta che te sia#così dedito a sperimentare ,!!",
         "[express=hm]Basta non irrompere nelle stanze delle#Altre Due come hai fatto con la mia, d'accordo ,?",
-        "Stanno praticando la loro Magià in questo momento,#proprio come stiamo praticando la tua ,,,",
+        "Stanno praticando la loro Magica in questo momento,#proprio come stiamo praticando la tua ,,,",
         "Il minimo fastidio costerà a loro molti progressi ,,,",
         "[express=happy]Parlando di progressi, dopo le tue sperimentazioni,#ricongiungiti con me fuori per continuare i nostri ,,,",
         "Sono alquanto ansiosa per questa Sessione ,!!!"
@@ -11647,7 +11647,7 @@
     ],
     "rooms_room_house_doorstep_InstanceCreationCode_inst_47920F85_0": [
         "[mesmer]Te possiedi l'abilità ,#    no?",
-        "Solo una prova veloce della tua Magià ,,,"
+        "Solo una prova veloce della tua Magica ,,,"
     ],
     "rooms_room_house_doorstep_InstanceCreationCode_inst_47920F85_1": [
         "[mesmer]..."
@@ -12195,7 +12195,7 @@
         "In tutto ciò, te sei voltato#e te ne sei andato da dove eri venuto.",
         "[mesmer]Ohe   ,.",
         "La porta si sbatte. E te ne eri già andato.",
-        "Oggi non hai imparato a domare#la tua Magià."
+        "Oggi non hai imparato a domare#la tua Magica."
     ],
     "scripts_scr_gtfo_scr_gtfo_5": [
         "[mesmer]Hummmm, hum hum hum,,,,#Ho detto, entra pure ,,,",
@@ -12203,7 +12203,7 @@
         "[mesmer]Sei , sparito ,.",
         "[mesmer]Ahe ,. Non dovevo definirla patetica ,.",
         "[mesmer]Finisce sempre così ,,, sempre ,,,,,",
-        "Oggi non hai imparato a controllare#la tua Magià."
+        "Oggi non hai imparato a controllare#la tua Magica."
     ],
     "scripts_scr_gtfo_scr_gtfo_6": [
         "[mesmer][express=hm]Ohe, ti stai voltando ,?",
@@ -12236,7 +12236,7 @@
     "scripts_scr_gtfo_scr_gtfo_10": [
         "Mesmer continuava a volteggiare mentre#te ne stavi andando per il corridoio.",
         "Come per scappare da una brutta festa,#sei silenziosamente sgattaiolato fino al portone principale#e sei uscito.",
-        "Così com'eri. Ancora senza alcun controllo sulla tua Magià.",
+        "Così com'eri. Ancora senza alcun controllo sulla tua Magica.",
         "Riuscirai mai a imparare a domarla in un altro modo ...?"
     ],
     "scripts_scr_gtfo_scr_gtfo_11": [
