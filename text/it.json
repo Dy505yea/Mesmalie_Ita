@@ -1211,7 +1211,7 @@
         "[homunc]MESMA      DOVE ?",
         "FUORI",
         "FUORi da qui?",
-        "MESMA Fuori da qui??/(Nod your#head)/(Back away)"
+        "MESMA Fuori da qui??/(Annuisci)/(Indietreggia)"
     ],
     "main_hall_backdoor_is_open": [
         "(La porta è aperta, Mesmer sta#aspettando fuori.)",
@@ -1299,7 +1299,7 @@
         "With your form of Magick, your hybrid pyro-#and telekinesis ,,,",
         "Most describe it as something surging#through your body.",
         "Flowing through your hands, as it takes#its effect on the outer world ,,,",
-        "Feeling the resulting burst of air ,, dust ,,#and whatnot on your face ,,,",
+        "Feeling the resulting burst of air ,, dust ,,#and whatnot on la tua faccia ,,,",
         "None of that,? Are you sure you felt#none of that,?????/Well#what do you#feel/You described#it perfectly"
     ],
     "backside_what_do_you_feel": [
@@ -1453,530 +1453,530 @@
         "(You sweep the remaining particles into#the corner of the study.)",
         "(Mesmer continues to waltz in place#with her eyes shut during all this.)"
     ],
-    "bigtext_s3_intro": "THE WOODS",
+    "bigtext_s3_intro": "I BOSCHI",
     "s3_woods_start": [
         "[mesmer]Hum hummmm,,,,,,",
-        "The woods ,,,",
-        "[express=happy]I have been looking forward to this,"
+        "I boschi ,,,",
+        "[express=happy]Non vedevo l'ora di questo momento,"
     ],
     "s3_woods_start_ritual": [
-        "[mesmer][express=nervous]Uhe, do say ,",
-        "Have you, given more thought ,?#To the Ritual ,?"
+        "[mesmer][express=nervous]Uhe, dimmi ,",
+        "Hai mai, ripensato ,?#Al rituale ,?"
     ],
-    "s3_woods_start_choice_stillunsure": "Still#unsure",
-    "s3_woods_start_choice_yes": "Yes",
+    "s3_woods_start_choice_stillunsure": "Sono ancora#Incerto",
+    "s3_woods_start_choice_yes": "Sì",
     "s3_woods_start_ritual_yes": [
-        "[mesmer][express=happy]Ahe , Good ,",
+        "[mesmer][express=happy]Ahe , Bene ,",
         ",,,,,,",
-        "[express=hm], and , ?"
+        "[express=hm], e , ?"
     ],
-    "s3_woods_start_ritual_yes_choice_illdoit": "I'll do it",
+    "s3_woods_start_ritual_yes_choice_illdoit": "Lo farò",
     "s3_woods_start_demo": [
-        "[mesmer]Two facts,",
-        "A), We need to find an Animal Soul#for your part of the Ritual later,",
-        "However,",
-        "B), It will be a pain in the butt#to find one here.",
-        "[express=hm]As I said, I don't see any critters wander#these woods as often as I'd used to,,,",
-        "[express=default]But,! I do keep finding traces of animals wandering#here regardless, albeit more sparsely,.",
-        "Nibbled bush leaves,,, eaten berries,,,#so I know there must be some animals here,.",
-        "[express=hm2]We just have to find one,. Somehow.",
-        "[express=default]So,! We need to be alert for any movements,,,",
-        "[express=happy]For this, I have begun some#preparations,!"
+        "[mesmer]Due cose,",
+        "A), Dobbiamo trovare uno Spirito Animale#per la tua parte di rituale successiva,",
+        "Però,",
+        "B), Sarà una rottura di scatole#trovarne una qui.",
+        "[express=hm]Come ho detto, non vedo creaturine vagare#in questi boschi come un tempo,,,",
+        "[express=default]Ma,! Continuo a trovare delle tracce di animali che vagano#qui, anche se si fanno più sparse,.",
+        "Cespugli mangiucchati,,, bacche mangiate,,,#per questo so che deve esserci qualche animale nei paraggi,.",
+        "[express=hm2]Dobbiamo solo trovarne uno,. In qualche modo.",
+        "[express=default]Quindi,! Dobbiamo rimanere in allerta per ogni movimento,,,",
+        "[express=happy]Per questo, Io ho iniziato#dei preparativi,!"
     ],
     "s3_woods_start_demo_b": [
-        "[mesmer]These bells,",
-        "(Handcrafted by Yours Truly,)"
+        "[mesmer]Queste campanelle,",
+        "(Fatte a mano dalla sola e unica,)"
     ],
     "s3_woods_start_demo_c": [
-        "[mesmer]Throughout this part of the woods,#we'll hook them to a few tripwire setups,,,",
-        "[express=default]Then, if an animal,",
+        "[mesmer]Throughout this part of the woods,#le appenderemo su dei setup con filo ad innesco,,,",
+        "[express=default]Poi, se un animale,",
         "[express=hm2], uhe ,",
-        "[express=hm], Just for the sake of your Imagination here,#What kind of animal do you like,?"
+        "[express=hm], Solo a scopi immaginativi,#Che tipo di animali ti piacciono,?"
     ],
-    "s3_woods_start_demo_c_cat": "Cat",
-    "s3_woods_start_demo_c_worm": "Worm",
-    "s3_woods_start_demo_c_deer": "Deer",
-    "s3_woods_start_demo_c_bird": "Bird",
-    "s3_woods_start_demo_c_man": "Humans",
+    "s3_woods_start_demo_c_cat": "Gatti",
+    "s3_woods_start_demo_c_worm": "Vermi",
+    "s3_woods_start_demo_c_deer": "Cervi",
+    "s3_woods_start_demo_c_bird": "Uccelli",
+    "s3_woods_start_demo_c_man": "Umani",
     "s3_woods_start_demo_bird": [
         "[mesmer][express=default], Uhe, no,",
-        "Birds are out of the question for this,#so no need to even picture one,.",
-        "Consider something, Else,,,"
+        "In questo caso gli uccelli sono fuori questione,#non c'è bisogno di immaginarne uno,.",
+        "Considera Qualcos, Altro,,,"
     ],
     "s3_woods_start_demo_worm": [
         "[mesmer][express=default]Ohe, no no no,",
-        "Nothing as miniscule as a worm,",
-        "Far beneath you,.",
-        "[express=hm]So ,. Mayhaps choose something else,."
+        "Nulla di minuscolo come un verme,",
+        "Molto al di sotto a te,.",
+        "[express=hm]Quindi ,. Dovresti scegliere qualcos'altro,."
     ],
     "s3_woods_start_demo_birdworm": [
-        "[mesmer][express=happy]Okay So birds and worms are out of the question,",
-        "Pick a Better favorite animal,",
+        "[mesmer][express=happy]Okay quindi uccelli e vermi sono fuori questione,",
+        "Scegli un animale preferito diverso,",
         "[express=nervous], uhe,",
-        ", not that there's anything Wrong if either#are your favorite, but,",
-        "[express=default]You know. Just for the sake of your imagination#here.",
-        "Whichever animal soul you would find best for#the Ritual, hypothetically,"
+        ", non che ci sia qualcosa di sbagliato#se quelli sono i tuoi preferiti, ma,",
+        "[express=default]Sai. Solo a scopo immaginativo#ora.",
+        "Ipoteticamente, qualsiasi Spirito Animale troveresti adatto#per il rituale, scegline uno,"
     ],
     "s3_woods_start_demo_cat": [
-        "[mesmer][express=hm], Well I doubt you'd find a Cat#in these woods,",
-        ", but, it's a solid choice,,,,,,",
-        "[express=happy], I quite like cats too ,,,,",
-        "[express=default], Anyhoo ,"
+        "[mesmer][express=hm], Beh dubito che sarai in grado di trovare un gatto#in questi boschi,",
+        ", ma, è una scelta buona,,,,,,",
+        "[express=happy], Piacciono pure a me i gatti ,,,,",
+        "[express=default], Ad ogni modo ,"
     ],
     "s3_woods_start_demo_deer": [
-        "[mesmer][express=hm]Yes, big, yet careful,#precise, beautiful,",
-        "[express=happy]Much like your own Magick,",
-        "[express=hm], that WAS your line of thinking,#yes,?",
-        "[express=happy]Ohe, it matters not. I like your line of#thinking either way,",
-        "[express=default]Anyhoo,"
+        "[mesmer][express=hm]Sì, grande, ma attento,#preciso, bellissimo,",
+        "[express=happy]Molto simile alla tua Magica,",
+        "[express=hm], quello ERA il tuo filo logico,#si,?",
+        "[express=happy]Ohe, ma non importa. Continuo ad apprezzare il tuo modo di#pensare,",
+        "[express=default]Ad ogni modo,"
     ],
     "s3_woods_start_demo_man": [
-        "[mesmer][express=default], Well Okay Sure let's go with That,",
-        "A Man's soul won't work for the Ritual#but just pretend it's an Animal Soul Okay,",
-        "Anyhoo,"
+        "[mesmer][express=default], Beh Okay Certo andiamo con Quello,",
+        "Lo spirito di un uomo non funzionerà per il Rituale#ma fai finta che sia uno Spirito Animale Okay,",
+        "Ad ogni modo,"
     ],
     "s3_woods_start_demo_d": [
-        "[mesmer][express=strike_pose_c]Animal,! Moves around the woods,#trips the wires,",
-        "[express=strike_pose_a]Bell, emits sound, and we'll know Where#to go looking for it,",
-        "[express=hm2]Though, well,",
-        "Even if the bells do startle the Animal#and it runs off,",
-        "[express=default], we'll at least know one is active#in these woods,,,"
+        "[mesmer][express=strike_pose_c]L'Animale,! Si aggira in questi boschi,#inciampa sul filo,",
+        "[express=strike_pose_a]Il Campanellino, emette un suono, e sapremo Dove#andare a cercarlo,",
+        "[express=hm2]Però, beh,",
+        "Amche se la campanella dovesse finire per #far scappare l'animale spaventato,",
+        "[express=default], almeno sapremo che ce n'è #uno attivo in questi boschi,,,"
     ],
     "s3_woods_start_demo_e": [
-        "[mesmer][express=happy]Of course, that's not all , !"
+        "[mesmer][express=happy]Ovviamente, non è tutto , !"
     ],
     "s3_woods_start_demo_f": [
-        "[mesmer][express=default]We will Also need to set a trap,!#For this Animal,"
+        "[mesmer][express=default]Dovremo anche tendere una trappola,!#Per questo Animale,"
     ],
     "s3_woods_start_demo_g": [
-        "[mesmer]Such that, if the bells do scare it off",
-        "[express=hm], or, mayhaps, even in the case that it just#stumbles into the trap on its own,",
-        "(making our bell setup Naught,),",
-        "[express=default]In either case, we'll at least have it then.",
-        "[express=happy]And then,! We can prepare for the Ritual,!"
+        "[mesmer]Per permettere, nel caso in cui la campana lo spaventasse",
+        "[express=hm], o, magari, anche nel caso in cui dovesse#finirci dentro da solo,",
+        "(rendendo le nostre campanelle vane,),",
+        "[express=default]In entrambi i casi, lo avremo in pugno.",
+        "[express=happy]E poi,! Possiamo prepararci per il Rituale,!"
     ],
-    "s3_woods_start_demo_g_solidplan": "Solid plan#Mesmer",
-    "s3_woods_start_demo_g_whatnext": "What happens#next",
+    "s3_woods_start_demo_g_solidplan": "Bel piano#Mesmer",
+    "s3_woods_start_demo_g_whatnext": "E dopo cosa#succede",
     "s3_woods_start_demo_next": [
-        "[mesmer][express=default]Ohe, that sort of Thought is for later,",
-        "Totally irrelevant, for Now,",
-        "Needn't put your mind to it yet. Ahe,.",
-        "Let's worry about finding this Animal Soul#in the first place,,,"
+        "[mesmer][express=default]Ohe, quel tipo di pensiero lasciamolo per dopo,",
+        "Totalmente irrilevante, per Ora,",
+        "Non c'è ancora il bisogno di pensare a quello. Ahe,.",
+        "Preoccupiamoci a trovare quest'Anima di Animale#per iniziare,,,"
     ],
     "s3_woods_start_demo_solidplan": [
-        "[mesmer]Yeap,",
-        "Cool,"
+        "[mesmer]Scerto,",
+        "Figo,"
     ],
     "s3_woods_start_after_demo": [
-        "[mesmer]Like I said, I already began#some preparations for all this,",
-        "Though, I didn't get very far, so there's#plenty for us to do together,,,,,",
-        "Let's move along, now, into the woods,",
-        "We'll stumble upon my unfinished preparations#as we stroll through,,,",
-        "Maybe, we'll even see an animal on the way,,,",
-        "Even if that'd void any need for setup.",
-        "Ehe,! Count on it not happening,.",
-        "You take the lead,.",
-        "I'll be right behind you ,,,,,,,"
+        "[mesmer]Come dicevo, ho già iniziato#alcuni preparativi per tutto questo,",
+        "Però, non sono andata così avanti, e c'è#ancora molto che possiamo fare assieme,,,,,",
+        "Proseguiamo, ora, dentro il bosco,",
+        "Ci imbatteremo nei miei preparativi incompleti#mentre passeggiamo,,,",
+        "Magari, riusciremo a trovare un animale per strada,,,",
+        "Anche se quello renderebbe nulla la necessità di preparativi.",
+        "Ehe,! Fai conto che non succeda,.",
+        "Tu fai strada,.",
+        "Sarò dietro di Te ,,,,,,,"
     ],
     "s3_mesmerbutton_start": [
         "[mesmer]Hum hum hum,,,",
-        "[express=happy]Hi ,",
+        "[express=happy]Ciao ,",
         "Have we met , ? Ahe ,,,",
-        "[express=nervous],,,we haven't even moved,",
-        "[express=default]I'm right behind you, don't worry.",
-        "Just pick a path for us,#we'll wind up at my prep either way,,,",
-        "And along the way, if something makes you go#'What the Devil is that, Mesmer,'",
-        "Then just point and turn around#to ask me, ahe ,,,",
-        "[express=dance]Let's move on ,,,,"
+        "[express=nervous],,,non ci siamo neanche spostati,",
+        "[express=default]Sono qui dietro, non preoccuparti.",
+        "Inizia scegliendo un sentiero,#ci imbatteremonei miei preparativi in ogni caso,,,",
+        "E per strada, se qualcosa ti porta a dire#'Che Diavolo è questo, Mesmer,'",
+        "Basta che indichi e ti giri#per chiedermelo, ahe ,,,",
+        "[express=dance]Proseguiamo ,,,,"
     ],
     "s3_mesmerbutton_start_again": [
         "[mesmer]Hum hum hum,,,",
-        "Still right behind you,,,,,,"
+        "Ancora dietro di te,,,,,,"
     ],
     "s3_mesmerbutton_start_return": [
         "[mesmer],,,,",
-        "[express=nervous]Why are we Back Here , ?",
-        "Can't we , ? Just , ? Get a move on , ?"
+        "[express=nervous]Perchè siamo tornati qui , ?",
+        "Non possiamo , ? Semplicemente , ? Muoverci , ?"
     ],
     "s3_mesmerbutton_start_left": [
-        "[mesmer][express=hm]You ask if this is the right way ,.",
-        "Well, you took the left path,#so it cannot be right,",
+        "[mesmer][express=hm]Mi chiedi se è la strada giusta ,.",
+        "Beh, hai seguito il sentiero di sinistra quindi non può essere quello di destra,",
         "[express=happy],,,,,,,,",
-        "[express=happy]Let's move on,,,,"
+        "[express=happy]Andiamo avanti,,,,"
     ],
     "s3_mesmerbutton_start_right": [
-        "[mesmer]You're on the right path,,,,",
-        "Though ,. There are no really Right paths here,",
-        "All paths will eventually bring us#where we need to be,,,, ahe,"
+        "[mesmer]Sei sulla strada di destra,,,,",
+        "Anche se ,. Non ci sono veramente strade corrette,",
+        "Eventualmente ogni sentiero ci porterà#dove dobbiamo essere,,,, ahe,"
     ],
     "s3_woods_blocked_right": [
-        "[mesmer][express=happy]I love this path ,!#     But,",
-        "[express=default]Let's not go there Just Yet ,.",
-        "Let's go Left,,,"
+        "[mesmer][express=happy]Amo questo sentiero ,!#     Ma,",
+        "[express=default]Aspettiamo ad andare qui, per ora ,.",
+        "Proseguiamo a Sinistra,,,"
     ],
     "s3_woods_blocked_left": [
-        "[mesmer][express=happy]Let's not head there Yet,",
-        "In a moment, we may,,, let's wander Right-wards,"
+        "[mesmer][express=happy]Non andiamo di qua per ora,",
+        "Tra un po', ci sarà permesso,,, incamminiamoci verso destra,"
     ],
     "s3_woods_firstbell_a": [
-        "[mesmer][express=happy]Ahe, right here ,,,",
-        "First bell,",
-        "[express=default]Hold onto this wire for me#while I hook it up,,,"
+        "[mesmer][express=happy]Ahe, proprio qui ,,,",
+        "Prima campanella,",
+        "[express=default]Potresti tenermi questo filo#mentre lo aggancio,,,"
     ],
     "s3_woods_firstbell_b": [
         "[mesmer][express=happy]Okay , !",
-        "That's the first one set up ,!",
-        "[express=hm]Now, something to take note of ,,,,",
-        "Each of these bells should resonate at#a different pitch ,,,",
-        "[express=default]Makes it easier to Tell#which one got activated,",
-        "So,,, gently tug at it, and familiarize#yourself with its pitch ,,,"
+        "Il primo è in posizione ,!",
+        "[express=hm]Ora, se dobbiamo annotarci qualcosa ,,,,",
+        "Ognuna di queste campanelle dovrebbe risuonare ad un#tono differente ,,,",
+        "[express=default]Rende più facile individuare#quale viene attivata,",
+        "quindi,,, prova a colpirla gentilmente, e imprimi nella tua testa#la sua tonalità ,,,"
     ],
     "s3_woods_firstbell_mesmer": [
-        "[mesmer]The bell, that we just set up,",
-        "Give it a tug to familiarize yourself#with its ring,,,,"
+        "[mesmer]La campanella, che abbiamo posizionato,",
+        "Dagli un colpetto e ricordati il#suo tintinnio,,,,"
     ],
     "s3_woods_firstbell_mesmer_b": [
-        "[mesmer][express=hm]Bell,",
-        "The bell,",
-        "Ring,",
-        "Ring the bell,,,,,,"
+        "[mesmer][express=hm]Campanella,",
+        "La campanella,",
+        "Suona,",
+        "Suona la campanella,,,,,,"
     ],
     "s3_woods_firstbell_mesmer_c": [
         "[mesmer][express=spooky],,,,,,,,,,"
     ],
     "s3_woods_firstbell_mesmerbutton": [
-        "[mesmer]Yes, uhe,",
-        "I am, right here,#,,,,,,,,",
-        "Please just give the bell a ring"
+        "[mesmer]Sì, uhe,",
+        "Sono, Proprio qui,#,,,,,,,,",
+        "Ti prego di far suonare quella campanella"
     ],
     "s3_woods_firstbell_d": [
-        "[mesmer]Superb ,,,,",
-        "[express=default]Just give it a few more rings if you#still haven't memorized its tune ,",
-        "[express=strike_pose_c]Now, onto the next couple of bells,,,,",
-        "[express=hm2]Likewise, we'll find them strewn around here,,,",
-        "[express=default]So, let's get a move on ,!",
-        "[express=strike_pose_c]Again, just take the lead,#I'll be right behind you,,,,,"
+        "[mesmer]Superbo ,,,,",
+        "[express=default]Colpiscila un po' di più se#non hai ancora memorizzato il suo tono ,",
+        "[express=strike_pose_c]Ora, verso il prossimo paio di campanelle,,,,",
+        "[express=hm2]Allo stesso modo, dovremo trovarle sparse qui intorno,,,",
+        "[express=default]Quindi, diamoci una mossa ,!",
+        "[express=strike_pose_c]Tu farai strada, di nuovo,#Io sarò dietro di te,,,,,"
     ],
     "s3_woods_firstbell_tripped": [
-        "[mesmer][express=nervous]Uhe, do be careful to Not trip over the wires,,,,",
-        "I am fine with ringing the bells on their own,#I implore it even,",
-        "[express=hm]But I don't want to risk breaking the wires,,,",
-        "[express=default],,, carry on,."
+        "[mesmer][express=nervous]Uhe, fai attenzione a non inciampare sui fili,,,,",
+        "A me va benissimo il tintinnio delle campanelle per conto loro,#io lo imploro pure,",
+        "[express=hm]Ma non voglio rischiare che si rompano i fili,,,",
+        "[express=default],,, puoi andare avanti,."
     ],
     "s3_woods_secondbell": [
-        "[mesmer]Bell Number Two,#We're gonna Do,",
-        "[express=nervous],,, no, that was Crap, I don't know what I was#going for there, forget it",
-        "Hold this wire,"
+        "[mesmer]Campanella numero Due,#Proseguiremo Ordunque,",
+        "[express=nervous],,, no, era terribile, Non so dove stavo#andando a parare, fai finta di niente",
+        "Tieni questo filo,"
     ],
     "s3_woods_thirdbell": [
-        "[mesmer]The Third Bell , !",
-        "[express=hm2]Three Bells, Three Sessions,#Three Witches ,,,,",
-        "What's up with that , ?",
-        ",,, wait, no.#There was a fourth bell, I think,",
-        "[express=default]Scratch that.",
-        "Hold this wire,,,,"
+        "[mesmer]La terza campanella , !",
+        "[express=hm2]Tre campane, Tre Sessioni,#Tre Streghe ,,,,",
+        "Coincidenze , ?",
+        ",,, no, aspetta.#C'è una quarta campanella, se non ricordo male",
+        "[express=default]Dimenticalo.",
+        "Tieni questo filo,,,,"
     ],
     "s3_woods_fourthbell": [
-        "[mesmer][express=hm]The last bell ,,,,",
-        "[express=default]Ahe , the usual spiel ,! Hold this wire, while I,,,,"
+        "[mesmer][express=hm]L'ultima campanella ,,,,",
+        "[express=default]Ahe , la solita solfa ,! Tieni questo filo, mentre Io,,,,"
     ],
     "s3_woods_fourthbell_b": [
-        "[mesmer]Blah and Blah and Blah and blah,",
-        "Blah , Setup,",
-        "Blah , attaching the bell ,",
-        "Ahe, ! There we go!"
+        "[mesmer]Blah Blah e Blah e blah,",
+        "Blah , impostare,",
+        "Blah , attaccare la campanella ,",
+        "Ahe, ! Ecco fatto!"
     ],
     "s3_woods_allbells": [
         "[mesmer] O K , !",
-        "[express=hm2]That should be all remaining tripwires set up ,,,",
-        "[express=default]So we can move on to the next step,,,",
-        "[express=strike_pose_c]Do make sure to familiarize yourself with#the different bell pitches before we do, ahe ,!"
+        "[express=hm2]Con questo tutti i fili dovrebbero essere stati impostati ,,,",
+        "[express=default]Possiamo passare al prossimo punto,,,",
+        "[express=strike_pose_c]Ricorda di imprimere le tonalità diverse delle campanelle nella tua testa prima, ahe ,!"
     ],
     "s3_woods_squashtree": [
         "[mesmer][express=happy]Ohe , !",
-        "The squash tree ,!",
-        "I love the squash tree ,!!!",
-        "[express=strike_pose_b]Ahe , let's take a picture , Of us ,#under the squash tree,",
+        "L'albero di Zucche ,!",
+        "Adoro l'albero di Zucche ,!!!",
+        "[express=strike_pose_b]Ahe , facciamo una foto , Di Noi ,#sotto l'albero di Zucche,",
         "[express=hm],,,",
-        "What do you mean, your phone is dead , ?",
+        "Come dici, il tuo telefono è andato , ?",
         "[express=nervous]??????",
-        "Use your camera , instead , ??????",
-        "[express=hm],,, your phone is your camera ,?",
+        "Allora , usa la fotocamera , ??????",
+        "[express=hm],,, il tuo telefono è la fotocamera ,?",
         ",,, hm,",
-        "I don't know how I feel About That,",
+        "Non so come sentirmi a riguardo,",
         ",,,,",
-        "[express=happy]Ahe , ! The squash tree ,,,,"
+        "[express=happy]Ahe , ! L'albero di Zucche ,,,,"
     ],
     "s3_woods_squashtree_check": [
-        "[system](Apparently, the squash tree.)",
-        "(Piles of squashes litter the ground around#its trunk.)"
+        "[system](Apparentemente, l'albero di zucche.)",
+        "(Pile di Zucche inquinano il terreno che circonda#il suo tronco.)"
     ],
     "s3_mesmerbutton_squashtree": [
-        "[mesmer][express=dance]The squash tree ,,,,",
-        "[express=hm]Uhe ,. You ask how the tree grows them ,.",
-        "[express=hm2]I ,",
-        ", Don't know ,",
-        "[express=nervous]Nor do I know why we'd need#that many squashes to begin with.",
-        "Should just ask Mirphie how, and why,#we have a squash tree,,,,"
+        "[mesmer][express=dance]L'albero di Zucche ,,,,",
+        "[express=hm]Uhe ,. Ti chiedi come l'albero le faccia crescere ,.",
+        "[express=hm2]Io ,",
+        ", Non lo so ,",
+        "[express=nervous]Nè so perchè ci servano#così tante zucche di principio.",
+        "Dovresti chiederlo a Mirphie come, e perchè,#abbiamo un albero di Zucche,,,,"
     ],
     "cursor_woods_pulp": "Poltiglia",
     "s3_woods_bigeyes_check_pulp": [
-        "[system](A pulp of what must have been a berry#lays on the ground.)"
+        "[system](Una polpa di quelle che forse erano bacche# giace sul terreno.)"
     ],
     "s3_woods_bigeyes_check_stem": [
-        "[system](The plant towers over you.)",
-        "(Its stems recede far into the woods behind it.)"
+        "[system](La pianta ti sovrasta.)",
+        "(Il suo gambo si estende sempre più#dentro i boschi dietro di te.)"
     ],
     "s3_woods_bigeyes_check_stem_noeyes": [
-        "[system](It's no longer staring you down,#at least.)"
+        "[system](Non ti guardà più dal basso,#almeno quello.)"
     ],
     "s3_woods_bigeyes_check_stem_noeyes_b": [
-        "[system](Mesmer seems pleased.)"
+        "[system](Mesmer sembra contenta.)"
     ],
     "s3_woods_bigeyes_check_left": [
-        "[system](Big and goopy.)"
+        "[system](Grande e goopy.)"
     ],
     "s3_woods_bigeyes_check_right": [
-        "[system](Big and goozly.)"
+        "[system](Grande e goozly.)"
     ],
     "s3_woods_bigeyes_magick_a": [
         "[mesmer]Ehe, you got gloop#all over you now,,,,",
-        "Here, let me wipe it off for you,,,"
+        "Ecco, lascia che lo tolga per te,,,"
     ],
     "s3_woods_bigeyes_magick_b": [
-        "[system](She folds the cuff of her sleeve into her palm#and wipes the berry gloop off your face.)"
+        "[system](Piega l'estremità della sua manica nel suo palmo #e rimuove la poltiglia di bacche dalla tua faccia.)"
     ],
     "s3_woods_bigeyes_magick_c": [
-        "[mesmer]Ohe, don't worry about my own shirt#getting messy,.",
-        "[express=default]It'll dry in and become unnoticable anyway,",
-        "[express=hm]You still have some gloop on your pullover,#too,,,,",
-        "[express=nervous]I'm not wiping that off for you,.",
-        "[express=dance]Let's move on,,,,"
+        "[mesmer]Ohe, non preoccuparti se la mia maglia#si sporca,.",
+        "[express=default]Si asciugherà e non si noterà più,",
+        "[express=hm]Ne è rimasta ancora un po' sul tuo maglione,,,,",
+        "[express=nervous]Quello non lo pulirò io,.",
+        "[express=dance]Proseguiamo,,,,"
     ],
     "s3_mesmerbutton_bigeyes_a": [
-        "[mesmer][express=back],,, Ohe ,#     Right ,",
-        "[express=hm]After Mirphie grew some doll's-eyes#on my request,,,,",
-        ",,, entirely, unrelated, I asked her how big#she could theoretically grow her plants.",
-        "[express=default]She gave it some thought, but didn't#say anything,.",
-        "[express=hm2]The next day,,,,",
-        "[express=strike_pose_c]'About yeha big', she said,#pulling me out here,,,,",
-        "[express=happy]So, now we have giant white baneberries#growing in our woods ,,,,!!!",
-        "[express=nervous]Pretty,,,, cool, ? Ehe,,,,?",
+        "[mesmer][express=back],,, Ohe ,#     Giusto ,",
+        "[express=hm]Dopo che Mirphie ha fatto crescere degli occhi di bambola#su mia richiesta,,,,",
+        ",,, interamente, unrelated, Le ho chiesto quanto grandi#potesse teoricamente farle crescere.",
+        "[express=default]Ci ha pensato un po', ma#non disse nulla,.",
+        "[express=hm2]Il giorno successivo,,,,",
+        "[express=strike_pose_c]'Più o meno coscì grandi', disse,#trascinandomi qui fuori,,,,",
+        "[express=happy]E, così ora una gigante pianta di baneberries bianche#cresce nel boschetto ,,,,!!!",
+        "[express=nervous]Molto,,,, figo, ? Ehe,,,,?",
         ",,,,,",
-        "I,",
-        "I prefer the smaller ones,,,,,,,,,"
+        "Io,",
+        "Io preferisco quelle piccine,,,,,,,,,"
     ],
     "s3_mesmerbutton_bigeyes_b": [
-        "[mesmer][express=nervous]I really don't mind if you use your Magick#on it,"
+        "[mesmer][express=nervous]Non mi dispiace se usi la tua Magica su#di essa,"
     ],
     "s3_mesmerbutton_bigeyes_c": [
-        "[mesmer][express=back]Sorry, Mirphie,,,,,,",
-        "[express=hm2]If she asks what happened, let's say,,,,",
-        "[express=happy]Magickal mishap that happened during practice,",
-        "[express=nervous]But do say it was You who did it,"
+        "[mesmer][express=back]Scusa, Mirphie,,,,,,",
+        "[express=hm2]Se chiede cos è successo, diciamo,,,,",
+        "[express=happy]Un piccolo imprevisto accaduto durante la pratica Magicale,",
+        "[express=nervous]Ma dille che sei stato tu,"
     ],
-    "s3_bellstest_junction": "Junction",
-    "s3_bellstest_squashtree": "Squash tree",
-    "s3_bellstest_eyes": "Eyes",
-    "s3_bellstest_bush": "Bush",
+    "s3_bellstest_junction": "Incrocio",
+    "s3_bellstest_squashtree": "Albero di Zucche",
+    "s3_bellstest_eyes": "Occhi",
+    "s3_bellstest_bush": "Cespuglio",
     "s3_woods_bellstest_a": [
-        "[mesmer][express=happy]So , before we move to the next step ,,,",
-        "[express=hm2],,, it's best if the Both of Us#have each bell's pitch memorized ,,,",
-        ", so we know where to look, if we#Hear something,",
-        "[express=strike_pose_c]Hopefully you did your part ,!#Because, I will test you on that,,,",
-        "[express=default]You will stay here, and I, will go Back,#and walk a little tour ,,,",
-        "[express=strike_pose_a]I'll, (, purposefully), trip the wires, and#when I'm back, based on what you heard,,,,",
-        "[express=happy],,, you will tell me, in order,#where my little tour took me,!",
-        "[express=hm]Are you ready, or would you perhaps#need more study time,,,?"
+        "[mesmer][express=happy]Quindi , prima di proseguire con#il prossimo passo ,,,",
+        "[express=hm2],,, è meglio se Tutti e Due#abbiamo memorizzato le tonalità delle campanelle ,,,",
+        ", per sapere dove guardare, se#Sentiamo Qualcosa,",
+        "[express=strike_pose_c]Spero che tu abbia fatto la tua parte ,!#Perchè dovrò metterti alla prova,,,",
+        "[express=default]Tu rimani qui, e Io, tornerò Indietro,#e farò un piccolo giretto ,,,",
+        "[express=strike_pose_a]E, (, Intenzionalmente), inciamperò sui fili, e# quando tornerò, in base a ciò che hai sentito,,,,",
+        "[express=happy],,, mi dirai, in ordine,#dove sono finita durante il mio giretto,!",
+        "[express=hm]Ti senti pronto, o preferiresti in caso#avere più tempo per studiare,,,?"
     ],
-    "s3_woods_bellstest_a_choice_more": "Need more#time",
-    "s3_woods_bellstest_a_choice_ready": "Ready",
+    "s3_woods_bellstest_a_choice_more": "Mi serve#più tempo",
+    "s3_woods_bellstest_a_choice_ready": "Pronto",
     "s3_woods_bellstest_more": [
-        "[mesmer][express=strike_pose_b]Worry not,,,,,",
-        "[express=hm]Just give each bell a couple of rings,#'til the rings'ses are in your head,,,",
-        "[express=default]I'll come with,#sticking right behind you,,,"
+        "[mesmer][express=strike_pose_b]Non preoccuparti,,,,,",
+        "[express=hm]Fai squillare le campanelle,#fino a quando non rimangono nella tua testolina,,,",
+        "[express=default]Mi unirò,#rimanendo dietro di te,,,"
     ],
     "s3_woods_bellstest_a_alt": [
-        "[mesmer][express=hm]So , ?",
-        "Feel like you have the different bells#memorized yet,?"
+        "[mesmer][express=hm]Quindi , ?",
+        "Senti di essere riuscito a#memorizzarle ora,?"
     ],
     "s3_woods_bellstest_more_alt": [
-        "[mesmer][express=strike_pose_c]No worries, all good,,,,",
-        "Mayhaps it'd help to just memorize the order#in which we hung them,,,,",
-        "That should suffice, too,,,",
-        "I'll stick behind you, Again,"
+        "[mesmer][express=strike_pose_c]Non preoccuparti, va tutto bene,,,,",
+        "Potrebbe essere d'aiuto ricordare l'ordine#nel quale le abbiamo appese,,,,",
+        "Potrebbe , anche bastare,,,",
+        "Ti sono dietro, Anche questa volta,"
     ],
     "s3_woods_bellstest_ready": [
         "[mesmer][express=happy]Ahe, okay , !",
-        "I'll , ! Go,",
-        "[express=strike_pose_a]Keep those ears sharp,!"
+        "Io , ! Parto,",
+        "[express=strike_pose_a]Tieni le orecchie ben aperte,!"
     ],
     "s3_woods_bellstest_mesmer_back": [
         "[mesmer][express=nervous]Uhe ,,,,",
-        "Well, ! Hopefully you ,!",
+        "Bene, ! Spero che tu ,!",
         "[express=back],,,,",
-        "Sorry, give me a moment to catch my breath ,,,,,",
+        "Scusa, dammi un momento per riprendere il fiato ,,,,,",
         "[express=back],,,,,",
         "[express=happy]Ok ,!",
-        "[express=default]Hopefully you did your homework,,,",
-        "[system](You tell Mesmer the order you picked up on.)"
+        "[express=default]Spero che tu abbia fatto i compiti,,,",
+        "[system](Dici a Mesmer in che ordine le hai udite.)"
     ],
     "s3_woods_bellstest_mesmer_again": [
         "[mesmer][express=nervous]Okay ,!",
-        "[express=default]So, try again,,,,",
-        "[system](You tell Mesmer the order you picked up on.)"
+        "[express=default]Allora, prova di nuovo,,,,",
+        "[system](Dici a Mesmer in che ordine le hai udite.)"
     ],
     "s3_woods_bellstest_wrong": [
-        "[mesmer][express=hm]Wrong,",
-        "[express=nervous]Sorry,. Ahe,.",
-        "[express=hm]Don't fret over it though.",
-        "Would you like to try again,,,?#Or go back to freshen your memory ,?"
+        "[mesmer][express=hm]Sbagliato,",
+        "[express=nervous]Scusa,. Ahe,.",
+        "[express=hm]Non avere fretta.",
+        "Vorresti provare di nuovo,,,?#O rinfrescare la tua memoria ,?"
     ],
-    "s3_woods_bellstest_wrong_choice_goback": "Go back",
-    "s3_woods_bellstest_wrong_choice_tryagain": "Try again",
+    "s3_woods_bellstest_wrong_choice_goback": "Tornare indietro",
+    "s3_woods_bellstest_wrong_choice_tryagain": "Riproverò",
     "s3_woods_bellstest_mesmer_correct": [
-        "[mesmer][express=hm2]That's,",
-        "[express=happy]Absolutely correct,!",
-        "[express=strike_pose_b]Good, good,,,,",
-        "That means that if we do hear something,#we'll both know where to look,,,,",
-        "[express=happy]Superb,!",
-        "Now, we can move on to our next#preparation step,,,,,,,"
+        "[mesmer][express=hm2]Questo è,",
+        "[express=happy]Assolutamente corretto,!",
+        "[express=strike_pose_b]Bene, bene,,,,",
+        "Questo significa che se sentiamo qualcosa,#sappiamo entrambi dove guardare,,,,",
+        "[express=happy]Superbo,!",
+        "Ora, possiamo proseguire#al passo successivo,,,,,,,"
     ],
     "s3_woods_bellstest_goback": [
-        "[mesmer][express=strike_pose_c]Ahe, no shame in perfecting your study,,,",
-        "Mayhaps it'd help to just memorize the#order in which we hung the bells,,,,",
-        "See what works best for you ,. Ahe,,,,"
+        "[mesmer][express=strike_pose_c]Ahe, non c'è da vergognarsi#nell'approfondire gli studi,,,",
+        "Potrebbe essere d'aiuto memorizzare#l'ordine in cui le abbiamo suonate,,,,",
+        "Vedi tu come ti trovi meglio ,. Ahe,,,,"
     ],
     "s3_woods_bellstest_tryagain": [
         "[mesmer][express=happy]Okay , !",
-        "[express=nervous]Do, uhe, give me a moment#to do my tour again,"
+        "[express=nervous]Lascia, uhe, Lasciami ripetere#il mio giretto,"
     ],
     "s3_woods_trap_presetup_a": [
-        "[mesmer][express=back]Next part ,.",
-        "The trap.",
-        "For, whatever this animal soul turns out to be.",
-        "[express=default]And then, once we have this done,,,",
-        "[express=hm2]Hm. Actually, I don't know what#the more hard part will be,.",
-        "Our setup, or what happens once#we have caught something.",
-        "[express=strike_pose_a]Well, one problem at a time,,,",
-        "We've already come far enough,#I'm sure the rest will work out."
+        "[mesmer][express=back]Passo successivo ,.",
+        "La trappola.",
+        "Per, qualsiasi sia lo spirito di animale che si presenterà.",
+        "[express=default]E poi, una volta sistemato questo,,,",
+        "[express=hm2]Hm. Anzi, Non so dire quale#sarà la parte più difficile,.",
+        "La nostra preparazione, o quello che succederà#quando catturiamo qualcosa.",
+        "[express=strike_pose_a]Beh, un problema alla volta,,,",
+        "Sono sicura che funzionerà,#Alla fine siamo arrivati fin qui."
     ],
     "s3_woods_trap_presetup_puzzled_a": [
-        "[mesmer][express=hm],,, your face looks a bit puzzled."
+        "[mesmer][express=hm],,, la tua faccia sembra un po' perplessa."
     ],
     "s3_woods_trap_presetup_puzzled_b": [
-        "[mesmer][express=hm],,, your face looks a bit troubled."
+        "[mesmer][express=hm],,, la tua faccia sembra un po' turbata."
     ],
     "s3_woods_trap_presetup_puzzled_c": [
-        "[mesmer][express=hm],,, your face looks a bit confounded."
+        "[mesmer][express=hm],,, la tua faccia sembra un po' confusa."
     ],
     "s3_woods_trap_presetup_ask": [
-        "[mesmer]Is there something you'd mayhaps like to ask,,,,?"
+        "[mesmer]C'è per caso qualcosa che vorresti chiedermi,,,,?"
     ],
     "s3_woods_trap_presetup_ask_b": [
-        "[mesmer][express=hm]Anything else you'd like to#speak your mind about ,,,?"
+        "[mesmer][express=hm]Qualsiasi cosa di cui vorresti #dire la tua opinione ,,,?"
     ],
-    "s3_woods_trap_presetup_choice_why": "Why do we need this",
-    "s3_woods_trap_presetup_choice_whathappens": "After we catch something...",
-    "s3_woods_trap_presetup_choice_magick": "What happens if#I Magick this animal",
-    "s3_woods_trap_presetup_choice_animalsoul": "Please elaborate on#'Animal Soul'",
-    "s3_woods_trap_presetup_choice_nothing": "Nothing",
+    "s3_woods_trap_presetup_choice_why": "Perchè ne abbiamo bisogno",
+    "s3_woods_trap_presetup_choice_whathappens": "Dopo che catturiamo qualcosa...",
+    "s3_woods_trap_presetup_choice_magick": "Cosa succede se#Magico l'animale",
+    "s3_woods_trap_presetup_choice_animalsoul": "Per favore elabora su#'Anima di Animale'",
+    "s3_woods_trap_presetup_choice_nothing": "Niente",
     "s3_woods_trap_presetup_choice_nada": "Nada",
     "s3_woods_trap_presetup_choice_um": "Um,",
     "s3_woods_trap_presetup_why": [
-        "[mesmer][express=hm]Did you not pay attention earlier ,,,?",
-        "[express=strike_pose_c],,, though, if it slipped your mind, that's Okay ,.",
-        "Anywho,,,,",
-        "[express=hm]The bells that we hung up mighn't be enough,.",
-        "[express=strike_pose_c]Well ,. Sure ,. They will tell us#where the animal might be,.",
-        "[express=hm2]But if it runs off,#we're most likely to lose it,,,,",
-        "[express=hm]Ideally, you'd use your Magick on it#the moment we see it,,,,"
+        "[mesmer][express=hm]Non stavi prestando attenzione, prima ,,,?",
+        "[express=strike_pose_c],,, però, se ti è sfuggito dalla testa, è okay ,.",
+        "In ogni modo,,,,",
+        "[express=hm]Le campanelle preparate potrebbero non essere abbastanza,.",
+        "[express=strike_pose_c]Beh ,. Certo ,. Ci diranno#dove potrebbe essere l'animale,.",
+        "[express=hm2]Ma se dovesse scappare,#potremmo perderlo,,,,",
+        "[express=hm]Idealmente, dovrai usare la tua Magica#Nel momento in cui lo vedremo,,,,"
     ],
     "s3_woods_trap_presetup_why_pooraim": [
-        "[mesmer]But, considering your poor aim earlier,,,#that's not likely ,,,,",
-        "[express=nervous]Ahe ,. Sorry ,."
+        "[mesmer]Ma, considerando la pessima mira di prima,,,#lo vedo difficile ,,,,",
+        "[express=nervous]Ahe ,. Scusa ,."
     ],
     "s3_woods_trap_presetup_why_slipaway": [
-        "[mesmer]But it could still slip away and dodge#your spellcasting,,,,"
+        "[mesmer]Ma se dovesse riuscire a schivare#il lancio dei tuoi incantesimi,,,,"
     ],
     "s3_woods_trap_presetup_why_b": [
-        "[mesmer][express=hm2]In that case, we could attempt luring#it to the trap ,. Somehow,. Then,,,,",
-        ",,, then, we needn't worry about losing it.",
-        "[express=happy]Because, I doubt we'll be lucky enough#to see two animals in these woods,,,",
-        "[express=nervous]Especially so shortly after#one another,,,,,"
+        "[mesmer][express=hm2]In quel caso, potremmo tentare di attirarlo#verso la trappola ,. In qualche modo,. Poi,,,,",
+        ",,, successivamente, non dobbiamo preoccuparci di perderlo.",
+        "[express=happy]Perchè, dubito che saremo abbastanza fortunati#da trovare due animali in questo bosco,,,",
+        "[express=nervous]Specialmente con così poco tempo l'uno#dall'altro,,,,,"
     ],
     "s3_woods_trap_presetup_whathappens": [
-        "[mesmer][express=default]Simple,",
-        "[express=strike_pose_b]You use your Magick on it.",
-        "[express=hm]Though, maybe it won't be quite#as simple.",
-        "..., if, ultimately, you find yourself incapable,.#Then,,,",
-        "[express=hm2],,, then I, could, mayhaps,,,,",
-        "[express=nay]Nope,! Thinking too far ahead,.",
-        "[express=default]Just use your Magick#when we find something. It'll be Okay,."
+        "[mesmer][express=default]Semplice,",
+        "[express=strike_pose_b]Tu lo magicherai.",
+        "[express=hm]Anche se, forse non sarà#semplice come previsto",
+        "..., se tu, dovessi rimanere incapacitato,.#Allora,,,",
+        "[express=hm2],,, Allora io, potrei, in caso,,,,",
+        "[express=nay]No,! Sto pensando troppo in avanti,.",
+        "[express=default]Tu usa la magica#quando troviamo qualcosa, andrà tutto bene,."
     ],
     "s3_woods_trap_presetup_magick": [
-        "[mesmer][express=happy]We, obtain the Animal Soul,",
-        "[express=nervous]That we need, for your part, of the Ritual,",
-        "[express=hm]It isn't any more complicated than that,."
+        "[mesmer][express=happy]Noi, otteniamo lo Spirito Animale,",
+        "[express=nervous]Che ci serve, per la tua parte, del Rituale,",
+        "[express=hm]Non è più complicato di così,."
     ],
     "s3_woods_trap_presetup_elaborate": [
-        "[mesmer][express=happy]Later,!",
-        "[express=strike_pose_a]No need to overthink it for now. It's Okay,.",
-        "We have other matters to tend to for now,,,",
-        "[express=default]For instance, our setup,.",
-        ",,, though, I'm sure you want to know more,.#I understand.",
-        "[express=hm]But I would really like to finish setup first,.",
-        "[express=nervous]I'll explain it in due time, soon, maybe, yes,#I will,",
-        "[express=hm]But for now,,,,"
+        "[mesmer][express=happy]Più tardi,!",
+        "[express=strike_pose_a]Non c'è il bisogno di pensarci troppo ora. Tutto è Okay,.",
+        "Abbiamo altre cose di cui noi dobbiamo occuparci per ora,,,",
+        "[express=default]Ad esempio, la nostra preparazione,.",
+        ",,, Tuttavia, Sono sicura che tu voglia sapere di più,.#Lo capisco.",
+        "[express=hm]Ma preferirei finire questa preparazione prima,.",
+        "[express=nervous]Ti spiegherò tutto quando è il momento giusto, presto, forse, sì#Lo farò,",
+        "[express=hm]Ma per ora,,,,"
     ],
     "s3_woods_trap_presetup_um": [
-        "[mesmer]Okay okay, hold that thought,"
+        "[mesmer]Okay okay, trattieni quel pensiero,"
     ],
     "s3_woods_trap_presetup_nothing": [
-        "[mesmer]Okay,! No need for further inquiry,"
+        "[mesmer]Okay,! Non c'è bisogno di ulteriori accertamenti,"
     ],
     "s3_woods_trap_presetup_end": [
-        "[mesmer][express=hm2]We should hurry before it starts storming,,,,",
-        "It would be a lot more annoying to do our#setup then,,,",
-        "[express=happy]So, ! Let's, !"
+        "[mesmer][express=hm2]Dovremmo sbrigarci prima che inizi a tempestare,,,,",
+        "Risulterà molto più fastidioso iniziare#i preparativi in quel caso,,,",
+        "[express=happy]Quindi, ! Forza, !"
     ],
     "s3_woods_trap_setup_skip": [
         "[system](...)"
     ],
-    "s3_woods_trap_setup_skip_no": "Attentively#set up trap",
-    "s3_woods_trap_setup_skip_yes": "Zone out#(Skip)",
+    "s3_woods_trap_setup_skip_no": "Imposta la trappola#con attenzione",
+    "s3_woods_trap_setup_skip_yes": "Distraiti#(Salta)",
     "s3_bush_blueberbies_unidentified": [
-        "[system](Blue, but not quite blueberry berries#glisten in the bush.)"
+        "[system](Blu, ma non proprio Mirtilli#risplendono nel cespuglio.)"
     ],
     "s3_bush_blueberbies_identified": [
-        "[system](Apparently, this is a#bush of blueberbies.)"
+        "[system](Apparentemente, questo è un#cespuglio di blueberbies.)"
     ],
     "s3_bush_blueberbies_recall": [
-        "[system](You recall what Mesmer said about#these berries.)",
-        "[mesmer]Not very much nutritious either ,.#You'll hardly find animals clamoring for the berbie ,."
+        "[system](Ricordi quello che Mesmer aveva detto#su queste bacche.)",
+        "[mesmer]Non sono molto nutrienti ,.#Sarà difficile trovare animali reclamare le berbie ,."
     ],
     "s3_bush_nightshade_unidentified": [
-        "[system](Small red berries glisten between#purple petals.)",
-        "(They smell surprisingly pleasant#up close.)"
+        "[system](Piccole bacche rosse risplendono tra #i petali viola.)",
+        "(Da vicino hanno un odore#sorprendentemente piacevole.)"
     ],
     "s3_bush_nightshade_identified": [
-        "[system](Apparently, it's a bush of#bittersweet nightshade.)"
+        "[system](Apparentemente, è un cespuglio di# nightshade agrodolci.)"
     ],
     "s3_bush_nightshade_recall": [
-        "[system](You recall what Mesmer said#about these berries.)",
-        "[mesmer],,, at least, the animals here#leave these berries alone ,,,",
-        "Can probably sense they're#not good to eat ,,,,,,"
+        "[system](Ricordi quello che Mesmer aveva detto#su queste bacche.)",
+        "[mesmer],,, per lo meno, gli animali qui# lasciano in pace quelle bacche ,,,",
+        "Forse riescono a capire che#non sono buone da mangiare ,,,,,,"
     ],
     "s3_bush_pineberries_unidentified": [
-        "[system](Yellow & pink-ish berries#glisten in the bush.)",
-        "(They smell like pineapple up close.)"
+        "[system](Bacche gialle e un po' rosa#risplendono nel cespuglio.)",
+        "(Da vicino odorano come l'ananas.)"
     ],
     "s3_bush_pineberries_identified": [
-        "[system](Apparently, it's a bush of#pineberries.)"
+        "[system](Apparentemente, è un cespuglio di#pineberries.)"
     ],
     "s3_bush_pineberries_recall": [
-        "[system](You recall what Mesmer said about#these berries.)",
-        "[mesmer],,, due to the good taste, it's hard#to keep animals from nibbling on it ,."
+        "[system](Ricordi quello che Mesmer aveva detto#su queste bacche.)",
+        "[mesmer],,, a causa del loro buon gusto, è difficle#trattenere gli animali dal mangiarle ,."
     ],
     "minigame_ui_points": "PUNTI",
     "minigame_ui_vials": "AMPOLLE",
@@ -2051,15 +2051,15 @@
     "results_s1_creature_killed": "Hai ucciso un certo qualcuno.",
     "results_s1_destroyed_everything": "Hai distrutto molti dei possessi della congrega mentre praticavi con la Magica. Non fa niente, Mesmer ti ha detto di farlo.",
     "results_s2_title": "SECONDA SESSIONE",
-    "results_s2_minigame_score": "You scored $1 points in the second session.",
-    "results_s2_minigame_good": "Mesmer was really impressed.",
-    "results_s2_minigame_okay": "Very adequately, but still okay.",
-    "results_s2_minigame_negative": "You failed spectacularly successfully.",
-    "results_s2_ritual_accepted": "You accepted to take Mesmer's role in the Ritual.",
-    "results_s2_ritual_declined": "You declined to take Mesmer's role in the Ritual.",
-    "results_s2_x": "You saw Something.",
-    "results_s2_xb": "You saw Something. You tried to help it.",
-    "results_s3_title": "THIRD SESSION",
+    "results_s2_minigame_score": "Hai ottenuto $1 punti nella seconda sessione.",
+    "results_s2_minigame_good": "Mesmer era veramente sorpresa.",
+    "results_s2_minigame_okay": "Molto adeguato, ma comunque okay.",
+    "results_s2_minigame_negative": "Hai fallito spettacolarmente con successo.",
+    "results_s2_ritual_accepted": "Hai accettato di prendere il ruolo di Mesmer nel rituale.",
+    "results_s2_ritual_declined": "Hai rifiutato di prendere il ruolo di Mesmer nel rituale.",
+    "results_s2_x": "Hai visto Qualcosa.",
+    "results_s2_xb": "Hai visto Qualcosa. Hai provato a dare una mano.",
+    "results_s3_title": "TERZA SESSIONE",
     "results_s3_eyegame_didnt_find": "You missed an opportunity to practice your Magick.",
     "results_s3_eyegame_didnt": "You declined an opportunity to practice your Magick.",
     "results_s3_eyegame_good": "You did extremely well in the mini session.",
@@ -3768,362 +3768,362 @@
         "Per Favore,"
     ],
     "objects_obj_s3_andwecalleditbob_Create_0_0": [
-        "[system](You feel as though the tree is#mocking you through its grimace.)",
-        "(You know that objectively#can't be true.)"
+        "[system](Senti come se l'albero ti stesse#prendendo in giro sotto il suo ghigno.)",
+        "(Ma sai che oggettivamente#non può essere vero.)"
     ],
     "objects_obj_s3_andwecalleditbob_Create_0_1": [
-        "[system](The inside of the tree looks dark and damp.)",
-        "(Do you step inside?)"
+        "[system](L'interno dell'albero sembra#scuro e umidiccio.)",
+        "(Vuoi fare un passo al suo interno?)"
     ],
     "objects_obj_s3_andwecalleditbob_Create_0_2": "(Ew no)",
-    "objects_obj_s3_andwecalleditbob_Create_0_3": "(Step inside)",
+    "objects_obj_s3_andwecalleditbob_Create_0_3": "(Entra)",
     "objects_obj_s3_andwecalleditbob_Create_0_4": [
-        "[system](The inside of the tree#is just dark and damp.)",
-        "(You gained nothing but a dank smell#emanating from your clothing.)"
+        "[system](L'interno dell'albero#è solo scuro e umidiccio.)",
+        "(Non hai ottenuto nulla se non un odore umido#emanato dai tuoi vestiti.)"
     ],
     "objects_obj_s3_andwecalleditbob_Create_0_5": [
-        "[system](You could get used to this.)"
+        "[system](Potresti abituarti.)"
     ],
     "objects_obj_s3_berry_bush_Create_0_0": [
-        "[system](The bush is now bare.)"
+        "[system](Il cespuglio ora è spoglio.)"
     ],
     "objects_obj_s3_berry_bush_Create_0_1": [
-        "[system](Pick these berries?)"
+        "[system](Prendere queste bacche?)"
     ],
-    "objects_obj_s3_berry_bush_Create_0_2": "(Leave alone)",
-    "objects_obj_s3_berry_bush_Create_0_3": "(Pick berries)",
+    "objects_obj_s3_berry_bush_Create_0_2": "(Lascia stare)",
+    "objects_obj_s3_berry_bush_Create_0_3": "(Raccogli le bacche)",
     "objects_obj_s3_berry_bush_Create_0_4": [
-        "[system](You stuff as many berries as you can#into your hoodie's front pocket.)"
+        "[system](Inserisci quante più bacche possibili#all'interno della tasca frontale della tua felpa.)"
     ],
     "objects_obj_s3_deer_scene_deer_Step_0_0": [
-        "[mesmer],,, Why are you Hesitating, ?",
-        "You're already aiming at it,,,",
-        "Just use it,???#Your Magick,?????",
+        "[mesmer],,, Perchè stai esitando, ?",
+        "Hai già preso la mira,,,",
+        "Usala e basta,???#La tua magica,?????",
         ",,,"
     ],
     "objects_obj_s3_deer_scene_deer_Step_0_1": [
-        "[mesmer][express=spooky]Why are you being like this#Now,",
-        "Do you need my assistance, ?#Really, ?"
+        "[mesmer][express=spooky]Perchè fai così#adesso,",
+        "Ti serve il mio aiuto, ?#Davvero, ?"
     ],
     "objects_obj_s3_deer_scene_deer_Step_0_2": [
-        "[mesmer]You just Aim,#as you've been doing,",
-        "Then, you do that motion with your hand,",
-        "Like this,-"
+        "[mesmer]Basta che miri,#come stavi facendo prima,",
+        "Poi, fai un gesto con la mano,",
+        "Tipo così,-"
     ],
     "objects_obj_s3_eyegame_controller_Create_0_0": [
-        "[mesmer]Here ,. I don't mind if you train your#Magick on these, off the path,",
-        "[express=happy]Consider this a Mini-Session,!",
-        "[express=dance]I'll get behind you, and spin you around,,,",
-        "[express=default], and, as you spin, you try to Magick as many#of the little eyes as possible,,,",
-        "[express=happy]I'll keep score of this, for you,!",
-        "[express=hm]Of course, getting all of them is nigh impossible.#So don't fret about that,."
+        "[mesmer]Ecco ,. Non mi dispiace se alleni#la tua magica su queste, fuori dal sentiero,",
+        "[express=happy]Considerala come una mini sessione,!",
+        "[express=dance]Mi posiziono dietro di te, facendoti girare sul posto,,,",
+        "[express=default], e, mentre giri, prova a magicare quanti più#di questi piccoli occhi è possibile,,,",
+        "[express=happy]Terrò io il punteggio, per te,!",
+        "[express=hm]Ovviamente, Colpirle tutte è quasi impossibile.#Non preoccuparti troppo per quello.,."
     ],
     "objects_obj_s3_eyegame_controller_Create_0_1": [
-        "[mesmer][express=happy]In fact, try to get as many as possible#in each stroke of your Magick,,,",
-        "[express=strike_pose_c]Allow the eyes to align, and#I'll give you even more points,,,,"
+        "[mesmer][express=happy]Di fatto, prova a colpirne il più possibile#con ogni colpo della tua Magica,,,",
+        "[express=strike_pose_c]Lascia che gli occhi si allineino, e#Ti darò ancora più punti,,,,"
     ],
     "objects_obj_s3_eyegame_controller_Create_0_2": [
-        "[mesmer][express=hm2]That explanation should suffice, yes,?",
-        "[express=happy]Then, ! Let's, ! , Get started#by readying your Magick,"
+        "[mesmer][express=hm2]Quella spiegazione dovrebbe essere sufficente, sì,?",
+        "[express=happy]E allora, ! Forza, ! , Partiamo con#la preparazione della tua magica,"
     ],
     "objects_obj_s3_eyegame_controller_Create_0_3": [
-        "[mesmer]You already know what to do, ahe,,,"
+        "[mesmer]Sai già cosa fare, ahe,,,"
     ],
     "objects_obj_s3_eyegame_controller_Create_0_4": [
-        "[mesmer]Really,,,?",
-        "When we hadn't even started yet,,,,,"
+        "[mesmer]Davvero,,,?",
+        "Ma non abbiamo neanche iniziato,,,,,"
     ],
     "objects_obj_s3_eyegame_controller_Create_0_5": [
-        "[mesmer]Dizzy or something,,,?",
+        "[mesmer]Ti gira la testa o qualcosa di simile,,,?",
         "Ahe,,,,,"
     ],
     "objects_obj_s3_eyegame_controller_Create_0_6": [
         "[mesmer]OK ,,,",
-        ", Let's get back on track with#our preparations ,,,,,,"
+        ", Riprendiamo con la#nostra preparazione ,,,,,,"
     ],
     "objects_obj_s3_eyegame_controller_Create_0_7": [
-        "[mesmer]Ahe, that should be enough#spinning for you for now,,,,"
+        "[mesmer]Ahe, questo dovrebbe essere abbastanza#giramento per ora,,,,"
     ],
     "objects_obj_s3_eyegame_controller_Create_0_8": [
         "[mesmer][express=happy],,,,",
         "[express=delighted_glance],,,,,,,,",
         "[express=happy]Zero,",
-        "You didn't use your Magick once,",
+        "Non hai usato la Magica una singola volta,",
         ",,,",
-        "Let's just,",
-        "Get back to what we were doing,",
-        "And not speak of this,",
+        "Facciamo che,",
+        "Torniamo a quello che stavamo facendo,",
+        "E non ne parliamo più,",
         "OK"
     ],
     "objects_obj_s3_eyegame_controller_Create_0_9": [
-        "[mesmer][express=hm]You did rather pathetically,,,",
-        "[express=nervous]Sorry, I shouldn't call#your ability that anymore,",
-        "[express=dance]Well, we can always try again,,,"
+        "[mesmer][express=hm]Sei stato un po' patetico,,,",
+        "[express=nervous]Perdonami, Non dovrei permettermi#di parlare ancora della tua abilità in quel modo,",
+        "[express=dance]Beh, possiamo sempre provare di nuovo,,,"
     ],
     "objects_obj_s3_eyegame_controller_Create_0_10": [
-        "[mesmer][express=default]You didn't fare too poorly, either,",
-        "[express=strike_pose_b]Some room for improvement, but,,,",
-        ",,, you're certainly not getting rusty,,,",
-        "[express=happy]Good, that's, a Good thing,",
+        "[mesmer][express=default]Non te la sei cavata male,",
+        "[express=strike_pose_b]C'è spazio per il miglioramento, ma,,,",
+        ",,, non ti stai arrugginendo,,,",
+        "[express=happy]Buono, questa è una cosa buona,",
         "Ahe,,,"
     ],
     "objects_obj_s3_eyegame_controller_Create_0_11": [
-        "[mesmer]Your Magick is definitely no longer weak,#there's little left to improve,!",
-        "[express=nervous]Well,. As long as the effect of those#concoctions lasts, that is,.",
-        "[express=hm2]Maybe, just maybe, we can squeeze#a bit more out of you,,,?",
-        "If you could attain, mayhaps,,,,,#a thousand points,?",
-        "[express=happy]Ahe, I wonder what would happen then,,,,,",
-        "[express=nervous],,, well, Nothing, really.",
-        "I hadn't had time to prepare anything#for that case,.",
-        "[express=dance]Let's just carry on,,,"
+        "[mesmer]La tua magia non è più debole,#è rimasto poco da migliorare,!",
+        "[express=nervous]Beh,. Fino a quando l'effetto della #miscela rimane, intendo,.",
+        "[express=hm2]Forse, ma solo forse, possiamo tirare#fuori qualcosa in più, da te,,,?",
+        "Se tu riuscissi, in caso a ottenere,,,,,#mille punti,?",
+        "[express=happy]Ahe, Mi chiedo cosa succederebbe in quel momento,,,,,",
+        "[express=nervous],,, beh, nulla. A dire la verità.",
+        "Non ho avuto il tempo per preparare nulla#per quell'occasione,.",
+        "[express=dance]Quindi proseguiamo,,,"
     ],
     "objects_obj_s3_eyegame_controller_Create_0_12": [
-        "[mesmer][express=happy]One Thousand Whole Points,,,,",
-        "That's,",
-        "A lot,",
-        "You're Good,!",
-        "Very Good,",
-        "[express=nervous]I'm just sorry I don't have anything#to give you for it, ahe,",
-        "[express=dance]Maybe the practice itself was the reward,,,",
-        "It's important that your Magick is in top form#before what's next,,,",
-        "[express=happy]For now, just pat yourself on the back#and consider it a personal achievement, ahe,!"
+        "[mesmer][express=happy]Mille punti tondi tondi,,,,",
+        "Sono,",
+        "Tanti,",
+        "Sei bravo,!",
+        "Molto bravo,",
+        "[express=nervous]Mi dispiace solo di non aver nulla#da darti come ricompensa, ahe,",
+        "[express=dance]Forse la pratica stessa è la ricompensa,,,",
+        "È importante che la tua magia sia nella forma migliore#prima di ciò che segue,,,",
+        "[express=happy]Per ora, datti un colpetto sulla spalla#e consideralo un traguardo personale, ahe,!"
     ],
     "objects_obj_s3_ground_writing_Create_0_0": [
-        "[system](Lines form words in the soil.)",
-        "(They look like they were drawn#in haste.)"
+        "[system](Delle linee formano parole sul suolo.)",
+        "(Sembrano state disegnate#di fretta.)"
     ],
     "objects_obj_s3_mini_interactable_Create_0_0": [
         "Ahe!",
-        "You're not supposed to read this , !"
+        "Non avresti dovuto leggerlo quello , !"
     ],
     "objects_obj_s3_quikktravul_Create_0_0": [
         "[system](The furled plant stands taller than you.)",
-        "(Do reach out your hand to touch it?)"
+        "(Allunghi la mano per toccarla?)"
     ],
     "objects_obj_s3_quikktravul_Create_0_1": [
-        "[system](You know what happens if#you touch this plant...)"
+        "[system](Sai cosa succede se#tocchi questa pianta...)"
     ],
-    "objects_obj_s3_quikktravul_Create_0_2": "(Yes touch)##(Skip to#darkened#area)",
-    "objects_obj_s3_quikktravul_Create_0_3": "(Don't touch)",
+    "objects_obj_s3_quikktravul_Create_0_2": "(Sì, toccala)##(Salta#in una stanza#oscurata)",
+    "objects_obj_s3_quikktravul_Create_0_3": "(Non toccarla)",
     "objects_obj_s3_quikktravul_Create_0_4": [
-        "[system](... you rub your face on the plant,#covering your eyes in dust.)"
+        "[system](... Strofini la faccia sulla pianta,#coprendo i tuoi occhi in polvere.)"
     ],
     "objects_obj_s3_quikktravul_Create_0_5": [
-        "[system](You softly touch the plant...)",
-        "(... but a cloud of dust#shoots off its surface.)"
+        "[system](Tocchi delicatamente la pianta...)",
+        "(... ma una nuvola di polvere#viene sparata dalla sua superficie.)"
     ],
     "objects_obj_s3_quikktravul_Create_0_6": [
-        "[system](The dust lands in your eyes,#temporarily blinding you.)",
-        "(You step around and swipe at your face#to get it off...)",
-        "(... And when you do...)"
+        "[system](La polvere atterra sui tuoi occhi#accecandoti temporaneamente.)",
+        "(Cammini in giro provando a#toglierla pulendoti il viso...)",
+        "(... E quando finalmente ci riesci...)"
     ],
     "objects_obj_s3_quikktravul_Create_0_7": [
-        "[system](... you find that you accidentally#stumbled much deeper into the woods.)"
+        "[system](... scopri di essere finito#da qualche parte nelle profondità del bosco.)"
     ],
     "objects_obj_s3_squash_Create_0_0": [
-        "[system](A lonesome, very good-looking squash#lays on the ground apart from the others.)"
+        "[system](Una Zucca solitaria dal bell'aspetto#giace sul terreno, lontano dagli altri.)"
     ],
     "objects_obj_s3_squash_Create_0_1": [
-        "[mesmer]Ohe, Yes,!",
-        "[express=default]We should totally carve one of these#for you too,.",
-        "[express=back]After all, if you pull through the Ritual,#you're welcome to the join the coven too,",
-        "[express=hm],,, though, I don't have anything on me#to carve the squash,,,",
-        "[express=hm2],,, maybe,,,",
-        "[express=happy], Of course,",
-        "You can just use your Magick,",
-        "[express=strike_pose_a]Consider this an exercise in precision,.",
-        "[express=default]Here's what I want you to do,,,",
-        "[express=hm]Imagine, first, what you wish to have#carved into the squash.",
-        "I'd like to have one of your face, but,,,",
-        "If we're just practising your precision,#it could be anything,.",
-        ",,, would you like to try,?"
+        "[mesmer]Ohe, Sì,!",
+        "[express=default]Dovremmo proprio incavarne una#anche per te,.",
+        "[express=back]Dopo tutto, se superi anche tu il rituale,#sei il benvenuto ad unirti alla congrega,",
+        "[express=hm],,, Tuttavia non ho nulla con me#per incavare sulla Zucca,,,",
+        "[express=hm2],,, forse,,,",
+        "[express=happy], Ma certo,",
+        "Puoi semplicemente usare la tua magica,",
+        "[express=strike_pose_a]Consideralo un esercizio di precisione,.",
+        "[express=default]Ecco tutto quello che voglio che tu faccia,,,",
+        "[express=hm]Prima di tutto immagina cosa vorresti incavare sulla Zucca.",
+        "Mi piacerebbe averne uno con la tua faccia, ma,,,",
+        "Se stiamo allenando la tua precisione,#qualsiasi cosa va bene,.",
+        ",,, Vuoi fare un tentativo,?"
     ],
     "objects_obj_s3_squash_Create_0_2": [
-        "[mesmer]Well,?",
-        "Want to carve something#into the squash,?"
+        "[mesmer]Beh,?",
+        "Vuoi incavare qualcosa#nella Zucca,?"
     ],
     "objects_obj_s3_squash_Create_0_3": "No",
-    "objects_obj_s3_squash_Create_0_4": "Yes",
+    "objects_obj_s3_squash_Create_0_4": "Sì",
     "objects_obj_s3_squash_Create_0_5": [
-        "[mesmer][express=strike_pose_b]Okay, maybe later,,,",
-        "Let's get back to#what we were doing,."
+        "[mesmer][express=strike_pose_b]Okay, forse dopo,,,",
+        "Torniamo a quello che#stavamo facendo,."
     ],
     "objects_obj_s3_squash_Create_0_6": [
         "[mesmer][express=happy]OK,!",
-        "[express=default]Take a moment to focus on the squash,",
-        "Carefully imagine what you would like#carved into it,,,"
+        "[express=default]Prenditi un momento per concentrarti sulla Zucca,",
+        "E con attenzione immagina ciò che vorresti scavare,,,"
     ],
     "objects_obj_s3_squash_Create_0_7": [
-        "[mesmer]So,?",
-        "You know how you want the carving#to look,?",
-        "[express=back]Then,",
-        "Focus on the squash very carefully.",
-        "Raise your arm,",
-        "Close your eyes,",
-        "Focus on the image you wish to carve#into it,",
-        "Then, release your Magick with#careful precision,,,"
+        "[mesmer]Quindi,?",
+        "Sai che aspetto avrà#la scavatura,?",
+        "[express=back]Allora,",
+        "Concentrati sulla Zucca.",
+        "Porta in avanti il braccio,",
+        "Chiudi gli occhi,",
+        "Concentra l'immagine di quello#che vuoi scavare,",
+        "Poi, rilascia la magica con#precisione,,,"
     ],
     "objects_obj_s3_squash_Create_0_8": [
-        "[system](You do as she says.)",
-        "(You cast your Magick onto the squash...)"
+        "[system](Fai come ti è stato detto.)",
+        "(Lanci la tua magica sulla Zucca...)"
     ],
     "objects_obj_s3_squash_Create_0_9": [
         "[mesmer]Ahe,",
-        "Figured you'd not be ready for that yet,.",
-        "[express=happy]Well, we can always try again#after the Ritual,,,",
-        "[express=strike_pose_c]Let's get back to it,."
+        "Immaginavo che non eri ancora pronto,.",
+        "[express=happy]Beh, puoi sempre riprovare di nuovo#dopo il rituale,,,",
+        "[express=strike_pose_c]Torniamo a noi,."
     ],
     "objects_obj_s3_squash_Create_0_10": [
-        "[mesmer]Well, I was hoping we could#carve your face in one of these too,",
-        "You know,. If you're following through with#the Ritual and all that,,,",
-        "But, I suppose, it's best we not get#too sidetracked right now anywho,",
-        "[express=strike_pose_c]Let's get back to it,."
+        "[mesmer]Beh, speravo che potessimo#scavare la tua faccia in uno di questi,",
+        "Sai,. Se proseguirai anche tu#col rituale e tutto il resto,,,",
+        "Ma, immagino, che sia meglio se#non ci perdiamo in chiacchere,",
+        "[express=strike_pose_c]Torniamo a noi,."
     ],
     "objects_obj_s3_wilted_plant_Create_0_0": [
         "(You had emerged from the bushes#behind the giant plant.)",
-        "(Its shadows now obscure the way#from which you came.)",
-        "(You might be able to remember the way#to the edge of the woods...)"
+        "(La sua ombra oscura la strada#dalla quale sei arrivato.)",
+        "(Dovresti ricordare il percorso#nelle profondità del bosco...)"
     ],
     "objects_obj_s3_wilted_plant_Create_0_1": [
-        "(Its head is too heavy#for the stalk to carry.)",
-        "(The petals look too dense for even#your Magick to penetrate...)"
+        "(La sua testa è troppo pesante per#for the stalk to carry.)",
+        "(I suoi petali sono troppo spessi#per permettere alla magica di penetrarli...)"
     ],
     "objects_obj_s3_witch_squashes_Create_0_0": [
-        "[mesmer]Nope,",
-        "[express=hm]They're art,,,",
-        "So leave them be,."
+        "[mesmer]No,",
+        "[express=hm]Sono arte,,,",
+        "Quindi lasciali stare,."
     ],
     "objects_obj_s3_witch_squashes_Create_0_1": [
-        "[system](Squashes of the three coven witches#lay on the ground.)",
-        "(The one seemingly depicting Mesmer#has begun to rot first.)"
+        "[system](Zucche della congrega di streghe#giaciono sul terreno.)",
+        "(Quello che rappresenta Mesmer#ha iniziato a marcire per primo.)"
     ],
     "objects_obj_s3_witch_squashes_Create_0_2": [
-        "[mesmer]Shame you accidentally blew up#yours,,,",
-        "[express=hm]Would have looked quite nice#with ours,,,",
-        "[express=happy]Well,! There's always another time,."
+        "[mesmer]Davvero un peccato che hai fatto#esplodere la tua,,,",
+        "[express=hm]Sarebbe stato bene#con le nostre,,,",
+        "[express=happy]Beh,! Ci sarà sempre un altra occasione,."
     ],
     "objects_obj_s3_witch_squashes_Create_0_3": [
-        "[mesmer]I'm rather handsy, so I enjoyed#the carving practice,,,"
+        "[mesmer]Me la cavo con la pratica, quindi mi è piaciuta#la parte di incavatura,,,"
     ],
     "objects_obj_s3_witch_squashes_Create_0_4": [
-        "[mesmer]Aren't they delightful,?",
-        "We were practicing painting#our murals for a while,",
-        "[express=hm2]One time, while we were out in the woods anyway,",
-        "[express=default], we tried carving our faces into some squashes#as part of that practice,.",
-        "[express=hm]Carving the straight lines helped#with understanding simpler shapes,,,",
-        "[express=strike_pose_c]If you were to look behind the tree, you'd find#many, many more squashes with us on them,.",
-        "[express=hm2]Though, they've probably rotted in the meantime,,,"
+        "[mesmer]Non sono graziosi,?",
+        "Stavamo facendo un po' di pratica disegnando#sui nostri murali,",
+        "[express=hm2]Una volta, mentre eravamo fuori nei boschi,",
+        "[express=default], abbiamo provato a scavare le nostre facce in qualche quashes#come parte dell'allenamento,.",
+        "[express=hm]incavarae linee dritte ci ha aiutato#a capire le forme più semplici,,,",
+        "[express=strike_pose_c]Se tu dovessi guardare dietrol'albero, troveresti#molti, molte altre zucche con le nostre facce sopra.",
+        "[express=hm2]Però, saranno ormai marcite,,,"
     ],
-    "objects_obj_s3_witch_squashes_Create_0_5": "Yours is#rotting#too",
+    "objects_obj_s3_witch_squashes_Create_0_5": "Anche la#tua sta#marcendo",
     "objects_obj_s3_witch_squashes_Create_0_6": [
-        "[mesmer][express=hm]I suppose it is,",
-        "[express=happy]Ahe,! Well, I'm sure they'll be happy to carve#more squashes even after the Ritual,"
+        "[mesmer][express=hm]Immagino che sia così,",
+        "[express=happy]Ahe,! Beh, sono sicura che loro saranno felici di incavare#altre zucche anche dopo il Rituale,"
     ],
     "objects_obj_s3_woods_bell_hook_Create_0_0": [
-        "[mesmer]What,. Are you Doing,",
-        "[express=hm]Good that I build these things rather#sturdy,,,",
-        "So at least they'll withstand your Magick.",
-        "[express=spooky]I'd prefer you Not, though."
+        "[mesmer]Che,. cosa stai facendo,",
+        "[express=hm]Per fortuna li ho realizzati# per essere resistenti,,,",
+        "Quindi almeno sopporteranno la tua Magica.",
+        "[express=spooky]Preferirei che tu non lo facessi, però."
     ],
     "objects_obj_s3_woods_bell_hook_Create_0_1": [
-        "[mesmer]Mayhaps, don't ring it so, uhe,#aggressively ,,,",
-        "You might scare our potential animal soul#away ,,,"
+        "[mesmer]Potresti, evitare di suonarla, uhe,#così aggressivamente ,,,",
+        "Potresti far scappare il nostro potenziale#Spirito Animale ,,,"
     ],
     "objects_obj_s3_woods_bell_hook_Create_0_2": [
-        "[mesmer]You, rang , ?",
-        "I ran here ,,, thinking, you had#found something,",
-        ", but ,",
-        "I don't see,",
-        "Anything here ,,,",
+        "[mesmer]Hai, suonato , ?",
+        "Sono venuta di corsa ,,, pensando, che#avessi trovato qualcosa,",
+        ", ma ,",
+        "Non vedo,",
+        "Nulla qui intorno ,,,",
         ",,,",
-        "Please stop that ,."
+        "Per favore smettila ,."
     ],
     "objects_obj_s4_boss_tests_Create_0_0": [
-        "Button test mode"
+        "Bottone per test"
     ],
     "objects_obj_s4_boss_tests_Create_0_1": "Aggressive butts",
-    "objects_obj_s4_boss_tests_Create_0_2": "Fying things",
+    "objects_obj_s4_boss_tests_Create_0_2": "Cose volanti",
     "objects_obj_s4_boss_tests_Create_0_3": "Pause trick",
-    "objects_obj_s4_boss_tests_Create_0_4": "Dodge",
+    "objects_obj_s4_boss_tests_Create_0_4": "Schiva",
     "objects_obj_s4_bossmid_hand_Draw_0_0": [
-        "[mesmer]OK, I see how it is, .",
-        "Running away,",
-        "When all I ask is a little Favor,",
-        "Why, (?), did I bother helping you today,#if you won't help me in return,",
-        "Why did I bother teaching you Magick,",
-        "Why did I bother stitching you up after you#Foolishly let those bottles hit you,",
-        "You don't deserve my help, .",
-        "Those Stitches I gave you.#They're Mine."
+        "[mesmer]OK, ora capisco, .",
+        "Fuggire,",
+        "Quando tutto quello che ti ho chiesto#è un piccolo Favore,",
+        "Perchè, (?), mi sono presa la briga di#aiutarti, e in camnio non mi aiuterai,",
+        "Perchè mi sono presa la briga di insegnarti la magica,",
+        "Perchè mi sono presa la briga di guarirti dopo che#ti sei fatto stupidamente colpire#dalle bottiglie,",
+        "Non meriti il mio aiuto, .",
+        "Quelle cuciture che ti ho fatto.#Sono mie."
     ],
     "objects_obj_s4_bossmid_hand_Draw_0_1": [
-        "[mesmer]Give them Back."
+        "[mesmer]Restituiscimele."
     ],
     "objects_obj_s4_catsidermy_Create_0_0": [
-        "[system](The silhouette of a black cat#casts a shadow on the floor.)",
-        "(... it's taxidermied.)"
+        "[system](La sagoma di un gatto nero proietta#un'ombra sul pavimento.)",
+        "(... è imbalsamato.)"
     ],
     "objects_obj_s4_catsidermy_Create_0_1": [
-        "[system](You look at the headless taxidermy.)",
-        "(... the creature doesn't acknowledge it.)"
+        "[system](Guardi verso l'esemplare senza testa.)",
+        "(... la creatura non sembra accorgersene.)"
     ],
     "objects_obj_s4_catsidermy_Create_0_2": [
-        "[system](The creature casts a nervous glance at you#from within the cage.)"
+        "[system](La creatura ti dà un'occhiata nervosa#dall'interno della gabbia.)"
     ],
     "objects_obj_s4_chests_Create_0_0": [
         "[system](Towers of miscellaneous chests#are stacked to the sides.)",
-        "(They all vary in design#and age.)",
-        "(Some have their keys inserted, ready to open.)",
-        "(Some look like they may never#be unlocked.)"
+        "(Variano tutte in design#ed età.)",
+        "(Alcune hanno la chiave al loro interno, pronte all'apertura.)",
+        "(Sembra che altre non verranno#mai sbloccate.)"
     ],
     "objects_obj_s4_ritual_controller_Other_11_0": [
-        "[mesmer]After all we've been through today,,,",
-        "Why won't you#just do as I say, ?",
-        "I'm just trying to teach you how#to tame your ability , !",
-        "That is All,  !",
-        "And is there any better way to learn#than Just Doing the Thing, ?"
+        "[mesmer]Dopo tutto quello che hai passato oggi,,,",
+        "Perchè non#fai quello che dico, ?",
+        "Sto solo provando ad insegnarti#a domare la tua abilità , !",
+        "Tutto qui,  !",
+        "Non c'è modo migliore per imparare#se non facendolo e basta, ?"
     ],
     "objects_obj_s4_ritual_controller_Other_11_1": [
-        "[mesmer]After all we've been through today,,,",
-        "And all we haven't been through,",
-        ", Yet,",
-        "What if we helped each other#realize it all, ?"
+        "[mesmer]Dopo tutto quello che hai passato oggi,,,",
+        "E tutto quello che non abbiamo fatto,",
+        ", per ora,",
+        "Se ci aiutassimo a vicenda#a realizzare tutto, ?"
     ],
     "objects_obj_s4_ritual_controller_Other_11_2": [
-        "[mesmer]You look a little frightened,",
-        "Good,",
+        "[mesmer]Sembri un po' spaventato,",
+        "Bene,",
         "Running scenarios through your head again,?",
         "Mind if I tunnel in#to take a look, too ?"
     ],
     "objects_obj_s4_ritual_controller_Other_11_3": [
-        "[mesmer]You won't burn my house down,.",
-        "If you're careful,.",
-        "Just one, careful, controlled#spellcasting to my head, ",
-        "You should know how to do that#by now,."
+        "[mesmer]Non brucerai casa mia,.",
+        "Se fai attenzione,.",
+        "Solo un, cauto, controllato#colpo alla mia testa, ",
+        "Ormai dovresti sapere#come farlo,."
     ],
     "objects_obj_s4_ritual_controller_Other_11_4": [
-        "[mesmer]You know what to do,."
+        "[mesmer]Sai già cosa fare,."
     ],
     "objects_obj_s4_ritual_controller_Other_11_5": [
-        "[mesmer][express=ritual_laugh]Ahahe,,, it's that easy,!",
-        "[express=ritual_default]Just tap into your Magick,#and use it on me,!",
-        "[express=ritual_tilt]What's got you so scared,,,?"
+        "[mesmer][express=ritual_laugh]Ahahe,,, è così semplice,!",
+        "[express=ritual_default]Un tocco della tua Magica,#e usala su di me,!",
+        "[express=ritual_tilt]Cosa ti spaventa così tanto,,,?"
     ],
     "objects_obj_s4_ritual_controller_Other_11_6": [
         "[mesmer]So unnecessarily tricky.",
-        "[express=ritual_tilt]What's wrong with you,?",
-        "[express=ritual_default]Just, do as I say,#apply your Magick to me,",
-        "Is that so hard, ?"
+        "[express=ritual_tilt]Che problemi hai,?",
+        "[express=ritual_default]Fai solo, quello che ti dico,#applica la tua magica, su di me,",
+        "è così difficile, ?"
     ],
     "objects_obj_s4_ritual_controller_Other_11_7": [
-        "[mesmer]Fine,.",
-        "[express=ritual_down]If you won't knock me out,#I'll have to find a way to do it myself,",
-        "[express=ritual_tilt_smug]Do you hear the music, too, ?"
+        "[mesmer]Va bene,.",
+        "[express=ritual_down]Se non vuoi mettermi KO,#dovrò trovare un modo per farlo da sola,",
+        "[express=ritual_tilt_smug]La senti anche tu, la musica, ?"
     ],
     "objects_obj_s4_ritual_controller_Other_11_8": [
-        "[mesmer]Just like that,!",
-        "That is what I want to see,!",
-        "Now, Just,",
-        "Use it on me."
+        "[mesmer]Proprio così,!",
+        "è quello che voglio vedere,!",
+        "Ora, però,",
+        "Su di me."
     ],
     "objects_obj_s4_ritual_controller_Other_11_9": [
         "[mesmer][express=ritual_laugh]You totally fell for it, ahahahe,",
@@ -4155,7 +4155,7 @@
     ],
     "objects_obj_s4_ritual_controller_Other_11_14": [
         "[mesmer][express=ritual_tilt_smug]Gosh, I am so so sorry about that,",
-        "All this Glass, in your face, again,",
+        "All this Glass, in la tua faccia, again,",
         "Gosh if only you had some kind of ability#you could use to stop me, -",
         "-, from throwing all this Glass at you,"
     ],
@@ -5511,7 +5511,7 @@
     "objects_obj_scene_as3_study_Other_11_7": [
         "[system](The liquid in the vial is a darkened crimson.)",
         "(It appears different from any of the#previous concoctions.)",
-        "(Mesmer beckons you as you lean in,#holding the vial closer to your face.)",
+        "(Mesmer beckons you as you lean in,#holding the vial closer to la tua faccia.)",
         "(You take a sniff.)",
         "(... surprisingly, it smells like nothing.)",
         "(Not a sweet smell. Not a bitter stench.)",
@@ -6588,7 +6588,7 @@
     "objects_obj_scene_s3_dw_freedoe_Other_10_0": [
         "[system](You find yourself#at the edge of the woods.)",
         "(Ahead of you and the doe, the fields#stretch out into the horizon.)",
-        "(The rain gently taps down#onto your face and hair.)"
+        "(The rain gently taps down#onto la tua faccia and hair.)"
     ],
     "objects_obj_scene_s3_dw_freedoe_Other_10_1": [
         "[system](...)"
@@ -7398,7 +7398,7 @@
         "//\"But first, we need to find this Animal Soul for you,.",
         "//\"Let's focus on that part#before getting into Ritual specifics,,,",
         "//\"Any will do,,, well, maybe not birds, they'd#just fly off and be hard to follow ,,,",
-        "//\",,, and, uhe, judging by the look onyour face,#you wouldn't want it to be a bird anywho ,.",
+        "//\",,, and, uhe, judging by the look onla tua faccia,#you wouldn't want it to be a bird anywho ,.",
         "//\"Move along,,, find some berries for the trap,,,",
         "//\"At this rate, an animal will wander over#before we're fully done here ,,,"
     ],
@@ -10293,7 +10293,7 @@
     "objects_obj_scn_s2_pre_ritualintro_Other_10_7": "Yeah#don't worry",
     "objects_obj_scn_s2_pre_ritualintro_Other_10_8": [
         "[mesmer][express=hm]Ohe , but it could've been#so much worse ,,,",
-        "Just be glad your face#didn't need any stitches ,,,,,,",
+        "Just be glad la tua faccia#didn't need any stitches ,,,,,,",
         "Or, the rest of your body, for that matter ,",
         "[express=hm]Do lighten up ,,,#we need to get on with our Session ,.",
         ",,,"
@@ -12116,56 +12116,56 @@
         "GO BACK.#HOUSE."
     ],
     "scripts_scr_creature_button_scr_creature_button_14": [
-        "[creature]YES, SQUASH TREE, ...",
-        "..., WE'VE ALL SEEN#IT.",
-        "..., STOP WASTINg#TIME."
+        "[creature]SI, ALBERO DI ZUCCA, ...",
+        "..., L'ABBIAMO VISTO#TUTTI.",
+        "..., SMETTI DI PERDEre#TEMPO."
     ],
     "scripts_scr_creature_button_scr_creature_button_15": [
         "[creature]... NO.",
-        "NEVER WITHOUt#MIRPHIE.",
-        "GO BACK, ..."
+        "MAI SENZa#MIRPHIE.",
+        "TORNA INDIETRO, ..."
     ],
     "scripts_scr_creature_button_scr_creature_button_16": [
-        "[creature]NO. ABSOLUTELy   NOT#THERE,",
-        "GO BACK. TO HOUSe"
+        "[creature]NO. ASSOLUTAMENte   NON#QUI,",
+        "VAI INDIETRO. ALLA CAsa"
     ],
     "scripts_scr_creature_button_scr_creature_button_17": [
         "[system](The creature tugs at your hoodie.)",
         "(It anxiously beckons you to go back.)"
     ],
     "scripts_scr_creature_button_scr_creature_button_18": [
-        "[system](Mesmer continues her struggle in the net,#paying no mind to you.)",
-        "(The creature nods disapprovingly within the cage.)"
+        "[system](Mesmer continua a dimenarsi nella rete,#senza prestarti attenzioni.)",
+        "(La creatura annuisce in modo deluso dall'interno della gabbia.)"
     ],
     "scripts_scr_creature_button_scr_creature_button_19": [
-        "[system](You raise the cage up to face Mesmer#in the trap.)",
-        "(The creature stops tugging at your hoodie#and retreats to the back of the cage.)"
+        "[system](Alzi la gabbia alla faccia di Mesmer nella trappola.)",
+        "(La creatura smette di tirare la tua felpa#e si ritira nella gabbia.)"
     ],
     "scripts_scr_creature_button_scr_creature_button_20": [
-        "[mesmer]Get me out , !",
-        "Out,,,",
-        ", Seriously what's wrong with you,!"
+        "[mesmer]Fammi uscire , !",
+        "Fuori,,,",
+        ", Seriamente che problemi hai,!"
     ],
     "scripts_scr_creature_button_scr_creature_button_21": [
         "[system](She continues to struggle in the net,#paying you not much attention.)",
-        "(The creature whispers to you.)"
+        "(La creatura ti sussurra all'orecchio.)"
     ],
     "scripts_scr_creature_button_scr_creature_button_22": [
-        "[creature]I BELIEVe YOU OK,",
-        "WELL DONE,#TRAPPEd MESMa",
-        "...., PLEASE GO#TO HOUSe,",
-        "FOR TALk"
+        "[creature]TI CREdo VA BENE,",
+        "BEN FATTO,#INTRAPPOLAre MESMa",
+        "...., PER FAVORE VAI#VERSO LA CAsa,",
+        "PER PARLAre"
     ],
     "scripts_scr_creature_button_scr_creature_button_23": [
-        "[creature]... WHATS WRONG#WITH YOU,",
-        "THIS IS#UNNECESSARy,",
+        "[creature]... MA CHE PROBLEmi#HAI,",
+        "QUESTO NON# ERA NECESSARio,",
         "...",
-        "JUST GO BACK#HOUSe,",
-        "FOR TALk.",
-        ", YOU LUNATIc."
+        "VAI SOLO#ALLA CAsa,",
+        "PER PARLAre.",
+        ", LUNATIco."
     ],
     "scripts_scr_creature_button_scr_creature_button_24": [
-        "[system](The creature remains silent.)"
+        "[system](La creatura rimane in silenzio.)"
     ],
     "scripts_scr_gtfo_scr_gtfo_0": [
         "... ma non è successo niente.",
@@ -12399,11 +12399,11 @@
         "[express=back]Otherwise, what would this setup#have been for,,,?"
     ],
     "scripts_scr_gtfo_scr_gtfo_38": [
-        "[mesmer]The, squash tree,",
+        "[mesmer]The, albero di zucche,",
         "[express=nervous]Why do you seem in such a hurry ,?",
         "I understand if it's an upsetting sight , ",
         "Let's , keep going , in that case ,",
-        ",,, the squash tree ,,,"
+        ",,, l'albero di zucche ,,,"
     ],
     "scripts_scr_gtfo_scr_gtfo_39": [
         "[system](Mesmer interrupts her waltz#to grab you by the arm.)",
