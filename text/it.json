@@ -1220,238 +1220,238 @@
     ],
     "backside_session_two": "SECONDA SESSIONE",
     "backside_clouds": [
-        "[mesmer][express=hm]Ohe, were you heading into the woods ,,,?",
-        "[express=happy]Ah, still so eager ,,,",
-        "[express=default]Well, I was just preparing for our#Third Session there already ,,,",
-        "[mesmer],,, Oh dear ,,,#just look at those grey clouds,,,",
-        "Looks like a storm might be approaching ,,,",
-        "But , hopefully we will be done#with our Sessions before then."
+        "[mesmer][express=hm]Ohe, ti stavi addentrando nella foresta ,,,?",
+        "[express=happy]Ah, quanta dedizione ,,,",
+        "[express=default]Bene, stavo già iniziando coi preparativi#per la Terza Sessione là dentro ,,,",
+        "[mesmer],,, Oh cielo ,,,#guarda un po' quelle nubi grigie,,,",
+        "Pare che una tempesta stia arrivando ,,,",
+        "Ma , si spera di aver già terminato#con la nostra Sessione al suo arrivo."
     ],
     "backside_sooo": [
-        "[mesmer],,, Soooooo ,,,, ,,,, ,, ,",
-        "[express=happy]Our Last Session could not have gone any better,,#don't you think,??",
-        "Ohe, I cannot wait to tell the Other Two how#the First Session went ,,,",
-        "Ohhhh, the Other Two ,,,,",
+        "[mesmer],,, Duuunqueee ,,,, ,,,, ,, ,",
+        "[express=happy]La nostra Sessione non poteva andar meglio,,#non credi anche te,??",
+        "Ohe, non vedo l'ora di dire alle Altre Due come#è andata la Prima Sessione ,,,",
+        "Ohhhh, le Altre Due ,,,,",
         ",,,! Ohe,!",
-        "Look,!! They are watching us right now,!!"
+        "Guarda,!! Proprio adesso ci stanno osservando,!!"
     ],
     "backside_ahe": [
         "[mesmer]Ahe ,,,"
     ],
     "backside_your_magick": [
-        "[mesmer][express=default]Your Magick is already in a much better state#than it was when you came to me ,,,",
-        "No longer just pitiful embers ,,,",
-        "[express=hm]Seems that my hypothesis about your ability#was right.",
-        "That of your pyrokinesis being#a sub-form of telekinesis ,...",
-        "[express=default]So, now, our goal for the remaining sessions#will be to continue enhancing it.",
+        "[mesmer][express=default]La Tua Magica è già in uno stato migliore#di quanto lo fosse quando sei arrivato ,,,",
+        "Non più delle misere fiammelle ,,,",
+        "[express=hm]Pare la mia ipotesi sulla tuà abilità#fosse azzeccata.",
+        "Quella della tua pirocinesi essere#una sottoforma di telecinesi ,...",
+        "[express=default]Quindi, adesso, il nostro obiettivo per le sessioni rimanenti#sarà di continuare a potenziarla.",
         ",,,,,"
     ],
     "backside_do_tell": [
-        "[mesmer][express=hm]Do tell ,,,,",
-        "How did it feel,?",
-        "To be able to use your Magick so liberally ,,,",
-        "And getting the exact expected outcomes ,,,,",
-        ",, it must have been grand , no ,...??/It's#pretty#awesome/Felt#okay/How was it#supposed#to feel"
+        "[mesmer][express=hm]Dimmi un po' ,,,,",
+        "Come ti sentivi,?",
+        "A riuscire ad usare la tua Magica così liberamente ,,,",
+        "E a ottenere esattamente i risultati aspettati ,,,,",
+        ",, deve essere stato grandioso , no ,...??/Abbastanza#fantastico/Era#okay/Come dovevo#sentirmi"
     ],
     "backside_pretty_awesome": [
-        "[mesmer] ,,, Yes,",
-        "Very much so, 'awesome',",
-        "I ,,, am glad you felt that way.",
-        "But ,,, could you be more specific ,???/Just felt#really good/Like how"
+        "[mesmer] ,,, Già,",
+        "Così tanto, 'fantastico',",
+        "Sono ,,, lieta che ti senta in quel modo.",
+        "Però ,,, potresti entrare nel dettaglio ,???/Mi sentivo#molto bene/Tipo come"
     ],
     "backside_feels_really_good": [
-        "[mesmer]Well ,,, yes ,,,",
-        "That is how a lot of people describe it,#so I guess that makes sense ,,,",
-        "Well ,",
-        "Let's continue."
+        "[mesmer]Beh ,,, si ,,,",
+        "Molte persone la descrivono così,#dunque immagino sia normale ,,,",
+        "Allora ,",
+        "Continuiamo."
     ],
     "backside_like_how": [
-        "[mesmer]Like ,,,",
-        "I don't know what to ask. Just,#what did it feel like ,,,?",
-        "For you,?",
-        "Which physical sensations did you feel#doing it,???",
-        "The power of it???? Did it send a tingle#down your spine as you acted it out,????",
-        "Seeing your will manifested into#the real world like that ,???????",
-        "Did that do, ANYTHING, to you ,???",
+        "[mesmer]Tipo ,,,",
+        "Non saprei cosa chiedere. Solo,#cosa si sente ,,,?",
+        "Per te,?",
+        "Quali sensazioni fisiche percepivi#eseguendola,???",
+        "La sua potenza???? Sentivi un formicolio#sulla tua schiena mentre l'attuavi,????",
+        "Vedere la tua volontà manifestarsi nel#mondo reale in quel modo ,???????",
+        "Ha fatto un, QUALCOSA, a te ,???",
         ",,,",
         "Uhe.",
-        "I am getting us off track.",
-        "Whatever it must have felt like ,,,",
-        "We still need to continue#strengthening it.",
-        "So, to continue ,,,"
+        "Sto divagando troppo.",
+        "Qualunque cosa te abbia sentito ,,,",
+        "Dobbiamo continuare#a potenziarla.",
+        "Dunque, continuando ,,,"
     ],
     "backside_feels_okay": [
-        "[mesmer],,, Really,???",
-        "Just okay ,,,?",
-        "That,",
-        "That is rather disappointing, is it not,???",
-        "I mean,. It is an amazing ability that you possess,,,",
-        "It felt just okay,???",
-        "Well,. I suppose it is a subjective feeling, anyhow.",
+        "[mesmer],,, Davvero,???",
+        "Solo okay ,,,?",
+        "È,",
+        "È alquanto deludente, o sbaglio,???",
+        "Intendo,. È un'abilità meraviglio quella in tuo possesso,,,",
+        "E per te era solo okay,???",
+        "Beh,. Suppongo sia una sensazione soggettiva, ad ogni modo.",
         "Uhe,,,",
-        "Let's not get lost in the weeds of it."
+        "Non perdiamoci troppo in questi dettagli."
     ],
     "backside_supposed_to_feel": [
         "[mesmer]Uhe ,,,",
-        "The fact that you ask that ,,,,",
-        "Well, that is a deeply personal thing, No.?",
-        "Everyone feels their Magick in a different way ,,,",
-        "With your form of Magick, your hybrid pyro-#and telekinesis ,,,",
-        "Most describe it as something surging#through your body.",
-        "Flowing through your hands, as it takes#its effect on the outer world ,,,",
-        "Feeling the resulting burst of air ,, dust ,,#and whatnot on la tua faccia ,,,",
-        "None of that,? Are you sure you felt#none of that,?????/Well#what do you#feel/You described#it perfectly"
+        "Il fatto che te me lo chieda ,,,,",
+        "Beh, quella è una cosa molto personale, No.?",
+        "Ognuno sente la propria Magica in modo distinto ,,,",
+        "Con la tua forma di Magica, il tuo ibrido di piro-#e telecinesi ,,,",
+        "Molti lo descrivono come qualcosa che scorre#attraverso il corpo.",
+        "Fluisce nelle mani, mentre prende effetto#nel mondo esterno ,,,",
+        "Sentendo il risultante getto d'aria ,, di polvere ,,#e quant'altro sul viso ,,,",
+        "Niente di tutto ciò,? Non hai davvero sentito#niente di tutto ciò,?????/Beh#cosa#senti te/L'hai descritta#perfettamente"
     ],
     "backside_what_do_you_feel": [
-        "[mesmer]I,,,",
-        "When I practice my Magick ,,,",
-        "It feels ,,,,,",
+        "[mesmer]Io,,,",
+        "Quando Io pratico la mia magica ,,,",
+        "Sento ,,,,,",
         ",,, ,,,,,",
         ",!",
-        "You can't just ask me that !!!",
-        "I just said, that is a deepy personal thing,!!!",
+        "Non puoi semplicemente chiedermelo !!!",
+        "Ti ho già detto, quella è una cosa molto personale,!!!",
         ",,,,,",
-        "No ,. Sorry ,.#I did not mean to burst out like that,",
-        "After all, I asked you first ,...",
-        "It is just ,,, hard to describe,.",
-        "Everyone feels their Magick in a#different way,.",
-        "It transcends emotion. Language,.#It is hard to put it into words, really.",
-        ",,, I do think, that, over the course of#our Sessions ,,,,",
-        ",,, the way you feel it will evolve, too,.",
-        "Just trust in the process of what#we are doing here ,,,",
-        ",,, and then tell me the moment you feel#Something. Anything,.",
-        ",,, Moving on."
+        "No ,. Perdonami ,.#Non volevo urlare in quel modo,",
+        "Dopo tutto, Io l'ho chiesto per prima ,...",
+        "È solo che ,,, è difficile da descrivere,.",
+        "Ognuno sente la propria Magica in#modo diverso,.",
+        "Trascende l'emozione. Il linguaggio,.#È difficile esprimerla a parole, davvero.",
+        ",,, Io credo, che, nel corso delle#nostre Sessioni ,,,,",
+        ",,, anche il modo in cui la sentirai si evolverà,.",
+        "Devi solo avere fede nel processo#di quel che stiamo facendo qui ,,,",
+        ",,, e in seguito me lo dirai nel momento in cui#senti Qualcosa. Qualsiasi Cosa,.",
+        ",,, Andiamo avanti."
     ],
     "backside_described_perfectly": [
-        "[mesmer]Well,",
-        "Then,,, I am , glad,? that I got it right ,",
-        "But I am still sure , that#however you felt doing it,,,,",
-        "That experience is unique to you ,#and you alone .",
-        "It may compare to how others feel#using their Magick ,,,",
-        "But within you, applying it resonates#ever so differently than it does in others,.",
-        "I am glad you feel so enthused about it,#at the very least,.",
-        "Sooo ,,,, where were we ,...,,,,"
+        "[mesmer]Beh,",
+        "Allora,,, sono , lieta,? che abbia azzeccato ,",
+        "Ma sono ancora certa , che#in qualunque modo te l'abbia sentita,,,,",
+        "Quell'esperienza sia stata unica per te ,#e soltanto a te .",
+        "Si potrebbe comparare come gli altri si sentano#ad usare la propria Magica ,,,",
+        "Ma nel tuo, applicarla risuona in modo estremamente#diverso da come accade per altri,.",
+        "Sono contenta che te ne sia così entusiasta,#se non altro,.",
+        "Allooora ,,,, dove eravamo rimasti ,...,,,,"
     ],
     "backside_moving_on": [
         "[mesmer]Ahe ,",
-        "We did get a little lost there, didn't we,???",
-        "So,",
-        "Let's pace on before the rain begins.",
-        "In our imminent Second Session,...",
-        ",,,. we will be taking what you learned previously,#and applying it to a new framework,.",
-        "Magick,. Manifestation of your will onto the#physical world,.",
-        "La da da,. You've heard that from me.",
-        "But, to apply your Magick even better,,,",
-        ",,, you must first take notice of change#within the physical world ,.",
-        "As the act of Magick itself is,# in essence, change too,.",
-        "So,,, with things in the world changing ,,,, #you would be able to enhance that change more,.",
-        "Does ,,, that make sense to you ,??/No#Not Really/Change,#Loud and#Clear"
+        "Ci siamo divagati alquanto, nevvero,???",
+        "Ordunque,",
+        "Aumentiamo il passo prima che inizi a piovere.",
+        "Alla nostra imminente Seconda Sessione,...",
+        ",,,. useremo ciò che hai appreso precedentemente,#e l'applicheremo in un contesto diverso,.",
+        "Magica,. La Manifestazione del tuo volere#nel mondo reale,.",
+        "La da da,. L'hai già sentita questa da me.",
+        "Mat, per applicare meglio la tua Magica,,,",
+        ",,, devi prima accorgerti dei cambiamenti#nel mondo reale ,.",
+        "Dato che l'atto della Magica stessa è,# essenzialmente, un cambiamento,.",
+        "Quindi,,, col cambiare delle cose nel mondo ,,,, #sarai in grado di favorire ulteriormente il cambiamento,.",
+        "Ha ,,, senso per te ,??/No#Non Proprio/Cambiamento,#Forte e#Chiaro"
     ],
     "backside_no_not_really": [
         "[mesmer]Ahe ,,,",
-        "Anything beyond the initial steps of#Magick is rather esoteric.",
-        "Thus ,,, it is a little hard to#explain without practice ,.",
-        "Easier done than said ,,,?",
-        "But don't worry.",
-        "I am sure the purpose of our practice#will become clear in the Second Session ,.",
-        "Key point being ,,, change. Is important ,"
+        "Qualsiasi cosa oltre ai primi passi nella#Magica sono decisamente esoterici.",
+        "Per cui ,,, è leggermente complesso#spiegarlo senza della pratica ,.",
+        "Più facile a farsi che a dirsi ,,,?",
+        "Ma non preoccuparti.",
+        "Son sicura che il fine della nostra pratica#diverrà chiaro nella Seconda Sessione ,.",
+        "Il punto Chiave è ,,, il cambiamento. È importante ,"
     ],
     "backside_loud_and_clear": [
-        "[mesmer]I am glad you understand so fast ,",
+        "[mesmer]Sono lieta che impari così in fretta ,",
         ",,,,"
     ],
     "backside_close_your_eyes": [
-        "[mesmer]Of course, the main goal of these Sessions is#to help you strengthen your ability,.",
-        "I mean,",
-        ", having better control over your ability.",
-        ",,, where getting stronger happens#on the side ,.",
-        "You must be getting tired of hearing me ramble , no?",
-        "Well, let us officially ease#into the Second Session.",
-        "Close your eyes for just a moment ,,,"
+        "[mesmer]Naturalmente, l'obiettivo primario di queste Sessioni è#aiutarti a rafforzare la tua abilità,.",
+        "Cioè,",
+        ", avere un miglior controllo della tua abilità.",
+        ",,, il rafforzarsi accade#di conseguenza ,.",
+        "Ti deve stanzare sentirmi divagare così , no?",
+        "Bene, allora iniziamo ufficialmente con#la Seconda Sessione.",
+        "Chiudi gli occhi per un attimo ,,,"
     ],
     "backside_open_eyes": [
-        "[mesmer]And now,,,",
-        "Open them ,,,"
+        "[mesmer]E adesso,,,",
+        "Aprili ,,,"
     ],
     "backside_uhe": [
         "[mesmer]Uhe ,,,",
-        "[sound=snd_disappoint]Wait, No, Close them again,"
+        "[sound=snd_disappoint]Aspetta, No, Chiudili di nuovo,"
     ],
     "backside_open_them_again": [
-        "[mesmer]Now ,",
-        "Open them, Again ,."
+        "[mesmer]Adesso ,",
+        "Aprili, Di Nuovo ,."
     ],
     "bigtext_session_complete_session": "SESSIONE",
     "bigtext_session_complete_complete": "COMPLETATA",
     "bigtext_session_complete_questionmarks": "COMPLETATA???????",
-    "s2_mini_mesma_keep_up": "Keep up ,,, !",
-    "s2_mini_mesma_failing_a": "Oh dear ,,,",
-    "s2_mini_mesma_failing_b": "You can still do this,,,",
-    "s2_mini_mesma_failing_c": "Just keep at it,,,",
-    "s2_mini_mesma_failing_d": "Don't stop,,,",
-    "s2_mini_mesma_start_a": "So far so good ,,,",
-    "s2_mini_mesma_start_b": "Doing ok,,,",
-    "s2_mini_mesma_start_c": "Decent technique,,,",
-    "s2_mini_mesma_middle_a": "Doing good , !",
+    "s2_mini_mesma_keep_up": "Continua ,,, !",
+    "s2_mini_mesma_failing_a": "Oh cielo ,,,",
+    "s2_mini_mesma_failing_b": "Puoi ancora farcela,,,",
+    "s2_mini_mesma_failing_c": "Continua lo stesso,,,",
+    "s2_mini_mesma_failing_d": "Non fermarti,,,",
+    "s2_mini_mesma_start_a": "Tutto bene finora ,,,",
+    "s2_mini_mesma_start_b": "Stai andando benino,,,",
+    "s2_mini_mesma_start_c": "Tecnica decente,,,",
+    "s2_mini_mesma_middle_a": "Stai andando bene , !",
     "s2_mini_mesma_middle_b": "Ahe ,!",
-    "s2_mini_mesma_middle_c": "Superb,,,",
-    "s2_mini_mesma_middle_d": "More vials your way ,,,!",
-    "s2_mini_mesma_middle_e": "All this glass ,,,!",
-    "s2_mini_mesma_end_a": "Really good ,,,!",
-    "s2_mini_mesma_end_b": "Your Magick,,,",
-    "s2_mini_mesma_end_c": ",,,too good,,,",
-    "s2_mini_mesma_end_d": "Haha you're, soo good, ,,",
+    "s2_mini_mesma_middle_c": "Splendido,,,",
+    "s2_mini_mesma_middle_d": "Altre ampolle in arrivo ,,,!",
+    "s2_mini_mesma_middle_e": "Tutto questo vetro ,,,!",
+    "s2_mini_mesma_end_a": "Molto bene ,,,!",
+    "s2_mini_mesma_end_b": "La Tua Magica,,,",
+    "s2_mini_mesma_end_c": ",,,troppo bene,,,",
+    "s2_mini_mesma_end_d": "Haha stai andando, così bene, ,,",
     "s2_mini_mesma_end_e": ",,,",
     "s2_mini_mesma_end_f": ",,,,,,",
-    "extra_s2_mesmory_a": "Oh dmWnen,,,",
-    "extra_s2_mesmory_b": "Si fk so gkwn ,,,",
-    "extra_s2_mesmory_c": "Diorw AA,,,",
+    "extra_s2_mesmory_a": "Oh dmVnen,,,",
+    "extra_s2_mesmory_b": "Tuttont nbe fiorng ,,,",
+    "extra_s2_mesmory_c": "Stsa AA,,,",
     "extra_s2_mesmory_d": "Nzzz zz ,,, !",
     "extra_s2_mesmory_e": "Zzz ,!",
-    "extra_s2_mesmory_f": "Zueprbb,",
+    "extra_s2_mesmory_f": "Zplinddo,",
     "extra_s2_mesmory_g": "Erererehe,",
     "s2_ritualintro_wrong_direction": [
-        "[mesmer]Wrong direction ,"
+        "[mesmer]Direzione sbagliata ,"
     ],
     "s2_ritualintro_found_key": [
-        "[mesmer]Ahe , ! Found ,,,",
-        "it,,,"
+        "[mesmer]Ahe , ! Trova ,,,",
+        "ta,,,"
     ],
     "s2_ritualintro_door_open": [
-        "[mesmer]Well , Door's open now ,",
+        "[mesmer]Bene , la Porta è aperta ora ,",
         ",,,",
-        "[express=back]So ,,, step inside.",
+        "[express=back]Dunque ,,, vai dentro.",
         "Hopefully this will not take too long ,,,",
-        "[express=nervous]We're just going to talk,",
-        "About something very important, to me,-",
-        "[express=back]About Something Very Important ,."
+        "[express=nervous]Faremo solo una chiacchierata,",
+        "Su qualcosa davvero importante, per me,-",
+        "[express=back]Su Qualcosa Davvero Importante ,."
     ],
     "s2_ritualintro_door_already_open": [
-        "[mesmer][express=back]Ohe, that's, Right,",
-        "You already opened the door,",
-        "[express=nervous]Well",
-        "Come on in ,.",
+        "[mesmer][express=back]Ohe, Giusto,",
+        "Avevi già aperto la porta,",
+        "[express=nervous]Allora",
+        "Entra ,.",
         "[express=back]Hopefully this will not take too long ,,,",
-        "[express=nervous]We're just going to talk,",
-        "About something very important, to me,-",
-        "[express=back]About Something Very Important ,."
+        "[express=nervous]Faremo solo una chiacchierata,",
+        "Su qualcosa davvero importante, per me,-",
+        "[express=back]Su Qualcosa Davvero Importante ,."
     ],
     "s2_magicked_creature_mesmer_present": [
         "[mesmer][express=nervous]Oh No no no no,",
-        "Why did you do that,",
+        "Perché l'hai fatto,",
         "[express=back],,,",
-        "But I need you for the Ritual.",
-        "[express=nervous]If you Clean it up, I will ignore#that happened.",
-        "And, it'll be up to You to explain to the Others#why there's no Creature in the Cage,",
-        "Where there's usually a creature,,,",
+        "Ma ho bisogno di te per il Rituale.",
+        "[express=nervous]Se te Pulisci, Io ignorerò#quel che è successo.",
+        "E, spetterà a Te spiegare alle Altre#perché non c'è alcuna Creatura nella Gabbia,",
+        "Dove spesso era presente una creatura,,,",
         ",,,",
-        "You'll find cleaning appliances#in the kitchen cabinets."
+        "Troverai gli attrezzi per pulire#negli armadietti in cucina."
     ],
     "s2_magicked_creature_cleanup": [
-        "[system](You wipe its blood off the floorboards.)",
-        "(Then, using your magick, you burst#the paper towels into tiny pieces.)",
-        "(You sweep the remaining particles into#the corner of the study.)",
-        "(Mesmer continues to waltz in place#with her eyes shut during all this.)"
+        "[system](Hai lavato il sangue dagli assi.)",
+        "(E, con la tua magica, hai ridotto#la carta a pezzettini minuscoli.)",
+        "(Spazzi le particelle rimaste verso#l'angolo dello studio.)",
+        "(Mesmer continua a piroettare sul posto#con gli occhi serrati per tutta l'operazione.)"
     ],
     "bigtext_s3_intro": "I BOSCHI",
     "s3_woods_start": [
@@ -2044,39 +2044,39 @@
     "demodata_recommend_start_over": "Si raccomanda di cominciare dall'inizio.",
     "results_s1_title": "PRIMA SESSIONE",
     "results_s1_shatterdance_great": "Sei andato alla grande nella danza frantumante.",
-    "results_s1_shatterdance_okay": "Sei andato decente nella danza frantumante.",
+    "results_s1_shatterdance_okay": "Sei andato decentemente nella danza frantumante.",
     "results_s1_shatterdance_poorly": "Non sei andato granché bene nella danza frantumante. Non fa niente.",
     "results_s1_creature_ignored": "Non hai parlato ad un certo qualcuno.",
     "results_s1_creature_talked": "Hai parlato con un certo qualcuno, ma non hai ascoltato il suo avviso.",
     "results_s1_creature_killed": "Hai ucciso un certo qualcuno.",
     "results_s1_destroyed_everything": "Hai distrutto molti dei possessi della congrega mentre praticavi con la Magica. Non fa niente, Mesmer ti ha detto di farlo.",
     "results_s2_title": "SECONDA SESSIONE",
-    "results_s2_minigame_score": "Hai ottenuto $1 punti nella seconda sessione.",
-    "results_s2_minigame_good": "Mesmer era veramente sorpresa.",
-    "results_s2_minigame_okay": "Molto adeguato, ma comunque okay.",
-    "results_s2_minigame_negative": "Hai fallito spettacolarmente con successo.",
-    "results_s2_ritual_accepted": "Hai accettato di prendere il ruolo di Mesmer nel rituale.",
-    "results_s2_ritual_declined": "Hai rifiutato di prendere il ruolo di Mesmer nel rituale.",
+    "results_s2_minigame_score": "Hai fatto $1 punti nella seconda sessione.",
+    "results_s2_minigame_good": "Mesmer è stata davvero impressionata.",
+    "results_s2_minigame_okay": "Molto mediocre, ma bene lo stesso.",
+    "results_s2_minigame_negative": "Hai fallito clamorosamente alla stragrande.",
+    "results_s2_ritual_accepted": "Hai accettato di prendere il ruolo di Mesmer nel Rituale.",
+    "results_s2_ritual_declined": "Hai rifiutato di prendere il ruolo di Mesmer nel Rituale.",
     "results_s2_x": "Hai visto Qualcosa.",
-    "results_s2_xb": "Hai visto Qualcosa. Hai provato a dare una mano.",
+    "results_s2_xb": "Hai visto Qualcosa. Hai cercato di aiutare.",
     "results_s3_title": "TERZA SESSIONE",
-    "results_s3_eyegame_didnt_find": "You missed an opportunity to practice your Magick.",
-    "results_s3_eyegame_didnt": "You declined an opportunity to practice your Magick.",
-    "results_s3_eyegame_good": "You did extremely well in the mini session.",
-    "results_s3_eyegame_okay": "You did decently in the mini practice session.",
-    "results_s3_eyegame_bad": "You did terribly poorly in the mini practice session.",
-    "results_s3_doe_killed": "You used your Magick to obtain the Animal Soul from the doe.",
-    "results_s3_doe_lured": "Reluctant to use your Magick on it, you lured the doe to the trap.",
-    "results_s3_doe_freedom": "You found a way out of the woods for the doe.",
-    "results_s3_doe_freedom_aborted": "You almost found a way out of the woods for the doe.",
-    "results_s3_doe_you": "You took care of the doe yourself.",
-    "results_s3_doe_mesmer": "Mesmer took care of obtaining the Animal Soul.",
-    "results_as3_mesmer_chill": "You and Mesmer took a moment to enjoy the sunset.",
-    "results_as3_mesmer_chill_missed": "You missed out on an opportunity to enjoy the sunset with Mesmer.",
-    "results_as3_ritual_drank": "You did your part in the Ritual.",
-    "results_as3_ritual_piano": "Mesmer played you a song on her piano as you drifted off.",
-    "results_as3_ritual_piano_missed": "You missed out on hearing Mesmer perform a song for you.",
-    "results_as3_ritual_refused": "Mesmer had to force you to take her part in the Ritual.",
+    "results_s3_eyegame_didnt_find": "Hai perso l'occasione di praticare la tua Magica.",
+    "results_s3_eyegame_didnt": "Hai rifiutato l'occasione di praticare la tua Magica.",
+    "results_s3_eyegame_good": "Sei andato benissimo nella mini sessione pratica.",
+    "results_s3_eyegame_okay": "Sei andato decentemente nella mini sessione pratica.",
+    "results_s3_eyegame_bad": "Sei andato malissimo nella mini sessione pratico.",
+    "results_s3_doe_killed": "Hai usato la tua Magica per ottenere lo Spirito Animale dal cerbiatto.",
+    "results_s3_doe_lured": "Esitante nell'usare la Magica, hai guidato il cerbiatto nella trappola.",
+    "results_s3_doe_freedom": "Hai trovato una via di fuga nella foresta per il cerbiatto.",
+    "results_s3_doe_freedom_aborted": "Hai quasi trovato una via di fuga nella foresta per il cerbiatto.",
+    "results_s3_doe_you": "Ti sei preso cura personalmente del cerbiatto.",
+    "results_s3_doe_mesmer": "Mesmer si è presa cura nell'ottenere lo Spirito Animale.",
+    "results_as3_mesmer_chill": "Te e Mesmer vi siete goduti il tramonto.",
+    "results_as3_mesmer_chill_missed": "Hai perso l'occasione di goderti tramonto con Mesmer.",
+    "results_as3_ritual_drank": "Hai fatto la tua parte nel Rituale.",
+    "results_as3_ritual_piano": "Mesmer ha suonato un brano al piano mentre prendevi sonno.",
+    "results_as3_ritual_piano_missed": "Hai perso l'occasione di sentire Mesmer fare una brano per te.",
+    "results_as3_ritual_refused": "Mesmer ti ha dovuto forzare a prendere la sua parte nel Rituale.",
     "results_verdict": "Hai fatto del tuo meglio.",
     "results_other_outcome": "... ma forse esiste un altro esito...",
     "credits_main": [
@@ -2331,7 +2331,7 @@
     ],
     "objects_obj_bigbottle_Create_0_0": [
         "(Senti qualcosa di diverso...)",
-        "(Ti senti bene.)"
+        "(Ti senti a tuo agio.)"
     ],
     "objects_obj_bigbottle_Create_0_1": [
         "(La tua Magica scorre nel tuo corpo.)"
@@ -3378,21 +3378,21 @@
     ],
     "objects_obj_mesmarm_test_Step_0_0": [
         "[mesmer][express=nervous],,,",
-        "[express=hm]Well the fact that you can still#move your arm is sufficient,"
+        "[express=hm]Beh il fatto che te possa ancora#muovere il braccio basterà,"
     ],
     "objects_obj_mesmarm_test_Step_0_1": [
-        "[mesmer]Ehe, Nope,, Not Quite,,,",
-        "Let's try that Again,"
+        "[mesmer]Ehe, No,, Non Proprio,,,",
+        "Proviamoci di Nuovo,"
     ],
     "objects_obj_mesmarm_test_Step_0_2": [
-        "[mesmer]That was Okay , ",
-        "But, it seems your hand drifted a bit ,,,",
-        "Let's , Try that , Again"
+        "[mesmer]Andava quasi Bene , ",
+        "Ma, pare la tua mano ancora senta mancare ,,,",
+        "Riproviamoci , Di , Nuovo"
     ],
     "objects_obj_mesmarm_test_Step_0_3": [
         "[mesmer][express=happy],,,",
-        "That was , Close Enough ,",
-        "I'm sure your arm is fine ,"
+        "Credo , Possa Bastare ,",
+        "Sono certa che il tuo braccio sia apposto ,"
     ],
     "objects_obj_mesmer_Other_4_0": [
         "[mesmer][express=nervous]Ancora, Sono Spiacente,",
@@ -3685,53 +3685,53 @@
         "[mesmer]..."
     ],
     "objects_obj_mini_rooster_Create_0_0": [
-        "[system](The wind whistles a quiet howl.#The vane spins and spins.)"
+        "[system](Il vento ulula silenziosalmente.#La banderuola gira e rigira.)"
     ],
     "objects_obj_minigame_mesma_Other_11_0": [
         "[mesmer]Ohe ,,,",
         ",,,",
-        "Ohe What the hell ,!#It's okay,,,",
-        "Just continue ,!"
+        "Ohe Ma che diamine ,!#Va tutto bene,,,",
+        "Dai , continua ,!"
     ],
     "objects_obj_minigame_mesma_Other_11_1": [
         "[mesmer]Ohe , !",
-        "You were keeping up reasonably well ,!",
-        "Just try what you were doing Again ,",
-        "Again , ! Ready your Magick ,,,!"
+        "Stavi tenendo bene il passo ,!",
+        "Prova di Nuovo a fare quel che facevi ,",
+        "Ancora , ! Prepara la tua Magica ,,,!"
     ],
     "objects_obj_minigame_mesma_Other_11_2": [
-        "[mesmer]Alas,,,",
-        "That was one vial hitting the ground too many,,,",
-        "But, worry not ,.#We can just start again.",
-        "Just get in position, and ready your Magick#once more ,,,"
+        "[mesmer]Ahimé,,,",
+        "Un'ampolla caduta a terra di troppo,,,",
+        "Ma, non temere ,.#Possiamo ricominciare da capo.",
+        "Basta tornare in posizione, e preparare la Magica#di nuovo ,,,"
     ],
     "objects_obj_minigame_mesma_Other_11_3": [
-        "[mesmer]Ohe ,,, again , ?",
-        "Well , ",
-        "We can , Try again ,",
-        "If you'd ready your Magick ,"
+        "[mesmer]Ohe ,,, ancora , ?",
+        "Beh , ",
+        "Possiamo , Riprovare ,",
+        "Se te prapari la tua Magica ,"
     ],
     "objects_obj_minigame_mesma_Other_11_4": [
-        "[mesmer]Well , ",
-        "Suppose I could be more lenient with#the scoring ,",
-        "Let's try that again.#One last time ,.",
-        ",,, you know what to do ,,,"
+        "[mesmer]Beh , ",
+        "Suppongo Io possa essere più clemente#col punteggio ,",
+        "Riproviamoci di nuovo.#Un'ultima volta ,.",
+        ",,, sai quel che devi fare ,,,"
     ],
     "objects_obj_minigame_mesma_Other_11_5": [
-        "[mesmer]Ohe Well Let's discard the#Fail system entirely ,.",
-        "Maybe it's not you, maybe it's just#the system ,,,",
-        "(It is totally you ,)",
-        "Maybe not You, Maybe You,",
-        "Ahe ,. Worry not about penalties for now ,.",
-        "(But you're cleaning the glass later ,...)"
+        "[mesmer]Ohe Beh Disfiamoci del#sistema di Falli per intero ,.",
+        "Forse non sei te, forse è solo#il sistema ,,,",
+        "(Sei decisamente te ,)",
+        "Forse non Te, Forse Te,",
+        "Ahe ,. Non turbarti di penalità per il momento ,.",
+        "(Ma ripulirai il vetro più tardi ,...)"
     ],
     "objects_obj_piano_Create_0_0": [
         "[mesmer]Non turbarti,",
         "Quello era solo il mio Costoso,",
         "Costosissimo Pianoforte,",
-        "(Trovatto gettato per strada un giorno)#Ma Comunque,",
+        "(Trovato un giorno gettato per strada)#Ma Comunque,",
         "Immagino non potrò più suonare quel pezzo#d'ora in poi,.",
-        "Non sono frustrata. Non preoccuparti.#Io ti ho implorata di allenarti con la tua Magica comunque,"
+        "Non sono frustrata. Non preoccuparti.#Io comunque ti ho implorata di allenarti con la tua Magica,"
     ],
     "objects_obj_piano_Create_0_1": [
         "[mesmer]Non riesco a riconoscere la musica#che stai provando a suonare,,,",
@@ -3742,7 +3742,7 @@
     "objects_obj_piano_Create_0_3": "Accetto la#proposta#'Mes'",
     "objects_obj_piano_Create_0_4": "Suoni?",
     "objects_obj_piano_Create_0_5": [
-        "[mesmer],,, ci avresti impiegato un po' lo stesso#prima di riuscirci,.",
+        "[mesmer],,, ci avresti impiegato lo stesso un po'#prima di riuscirci,.",
         "Oh beh. Tutti dovrebbero imparare uno#strumento ad un punto della propria vita,",
         "La musica fa esprimere nel modo forse migliore#di quanto possa la Magica,."
     ],
@@ -9362,18 +9362,18 @@
         "Falla da un'altra parte# questa tua recita,,,"
     ],
     "objects_obj_scn_s2_back_Other_10_0": [
-        "(Mesmer emerges from the woods.)",
-        "[mesmer]Ohe , ? Where are you headed ,,,?",
-        "We have not even begun the session yet ,,,"
+        "(Mesmer emerge dalla foresta.)",
+        "[mesmer]Ohe , ? Dove stavi andando ,,,?",
+        "Non abbiamo ancora cominciato con la sessione ,,,"
     ],
     "objects_obj_scn_s2_back_Other_10_1": [
-        "[mesmer]I was just preparing some stuff#for our Third session already,,,",
-        "[express=default]Well, good thing#I caught you just in time ,.",
-        "[express=strike_pose_c]After all, you DO want to#train your Magick , Yes ,,,?"
+        "[mesmer]Stavo già preparando qualche cosetta#per la nostra Terza sessione,,,",
+        "[express=default]Beh, per fortuna#sono riuscita a beccarti in tempo ,.",
+        "[express=strike_pose_c]Dopotutto, te Vuoi#allenare la tua Magica , Giusto ,,,?"
     ],
     "objects_obj_scn_s2_back_Other_10_2": [
-        "[mesmer][express=hm]Ohe, were you heading into the woods ,,,?",
-        "[express=happy]Ah, still so eager ,,,",
+        "[mesmer][express=hm]Ohe, ti stavi dirigendo verso la foresta ,,,?",
+        "[express=happy]Ah, quanta dedizione ,,,",
         "[express=default]While you took your time inside, I did#some prep for the third session as well ,,,"
     ],
     "objects_obj_scn_s2_back_Other_10_3": [
@@ -11486,9 +11486,9 @@
         "Hopefully you're not worn out#from casting your Magick yet,"
     ],
     "rooms_room_house_backside_InstanceCreationCode_inst_26AC08D2_0": [
-        "[system](The house is of rustic quality.)",
-        "(It doesn't appear well-kept though.)",
-        "(Weeds grow up along the outer walls.)"
+        "[system](La casa ha un tocco rustico.)",
+        "(Però non sembra ben mantenuta.)",
+        "(Le erbacce crescono sulle pareti esterne.)"
     ],
     "rooms_room_house_backside_InstanceCreationCode_inst_26AC08D2_1": [
         "[system](You get the feeling that#if you enter the house now, ...)",
@@ -11511,16 +11511,16 @@
         "(You turn back around.)"
     ],
     "rooms_room_house_backside_InstanceCreationCode_inst_4790951A_1": [
-        "[system](The fencing opens to a path#into the woods.)",
-        "(Do you head in?)"
+        "[system](La staccionata si apre#verso la foresta.)",
+        "(Vuoi addentrarti?)"
     ],
-    "rooms_room_house_backside_InstanceCreationCode_inst_4790951A_2": "(Don't)",
-    "rooms_room_house_backside_InstanceCreationCode_inst_4790951A_3": "(Enter woods)",
+    "rooms_room_house_backside_InstanceCreationCode_inst_4790951A_2": "(No)",
+    "rooms_room_house_backside_InstanceCreationCode_inst_4790951A_3": "(Entra nella#Foresta)",
     "rooms_room_house_backside_InstanceCreationCode_inst_4790951A_4": [
-        "[system](You bump into Mesmer.)"
+        "[system](Ti scontri con Mesmer.)"
     ],
     "rooms_room_house_backside_InstanceCreationCode_inst_4790951A_5": [
-        "[system](Best to head into the house instead.)"
+        "[system](È meglio rientrare dentro casa, piuttosto.)"
     ],
     "rooms_room_house_backside_InstanceCreationCode_inst_4790951A_6": [
         "[mesmer][express=happy]So, are you ready for what's next ,,,?",
